@@ -1,0 +1,37 @@
+site_name: Atas das Reuniões do Comitê Científico do MONAN 
+site_url: ''
+use_directory_urls: false
+nav:
+  - Atas 2021:
+    - '05 de Maio de 2021': ata_cc_05_maio_2021.md
+    - '04 de Junho de 20201': ata_cc_04_junho_2021.md
+    - '30 de Agosto de 2021': ata_cc_30_agosto_2021.md
+    - '04 de Novembro de 2021': ata_cc_04_novembro_2021.md
+    - '06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
+  - Atas 2022:
+    - '28 de Março de 2022': ata_cc_28_marco_2022.md 
+  - Outros Arquivos:
+    - 'Seminário ATOS-BULL': seminarios_atos_bull.md
+    - 'Seminários NVIDIA': seminarios_nvidia.md
+theme: 
+  name: material
+  language: pt-BR
+#  logo: 'assets/logo.png'
+#  favicon: 'assets/logo.png'
+repo_url: https://github.com/monanadmin/monan
+markdown_extensions:
+  - footnotes
+  - tables
+  - admonition
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+plugins:
+  - mkdocs-video
+  - search
