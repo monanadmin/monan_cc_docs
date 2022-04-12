@@ -6,7 +6,7 @@ site_description: Site com as Atas das Reuniões do Comitê Científico do MONAN
 # Repository
 repo_name: monanadmin/monan_cc_docs
 repo_url: https://github.com/monanadmin/monan_cc_docs
-edit_url: edit/master/docs/
+edit_uri: edit/master/docs/
 
 # Page tree
 nav:
@@ -46,3 +46,4 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
+  - pdf-export
