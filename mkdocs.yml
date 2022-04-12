@@ -1,6 +1,14 @@
+# Project information
 site_name: Atas das Reuniões do Comitê Científico do MONAN 
-site_url: ''
-use_directory_urls: false
+site_author: Carlos Frederico Bastarz
+site_description: Site com as Atas das Reuniões do Comitê Científico do MONAN
+
+# Repository
+repo_name: monanadmin/monan_cc_docs
+repo_url: https://github.com/monanadmin/monan_cc_docs
+edit_url: edit/master/docs/
+
+# Page tree
 nav:
   - Atas 2021:
     - '05 de Maio de 2021': ata_cc_05_maio_2021.md
@@ -13,12 +21,15 @@ nav:
   - Outros Arquivos:
     - 'Seminário ATOS-BULL': seminarios_atos_bull.md
     - 'Seminários NVIDIA': seminarios_nvidia.md
+
+# Configuration
 theme: 
   name: material
   language: pt-BR
 #  logo: 'assets/logo.png'
 #  favicon: 'assets/logo.png'
-repo_url: https://github.com/monanadmin/monan
+
+# Extensions
 markdown_extensions:
   - footnotes
   - tables
