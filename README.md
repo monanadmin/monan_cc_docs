@@ -14,4 +14,4 @@ Através do repositório ou pelo site, é possível solocitar a revisão da ata.
 3. Clique no botão de edição (caneta);
 4. Salve o documento e faça um pull-request.
 
-O pull-request será revisto pelo editor da ata. Confirmadas as informações, as alterações serão incorporadas ao documento do repositório.
+O pull-request será revisto pelo editor da ata. Confirmadas as informações, as alterações serão incorporadas ao documento do repositório. Caso queira fazer um teste para ver como funciona o pull-request, utilize o arquivo `docs/testes.md`.
