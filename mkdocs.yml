@@ -16,8 +16,8 @@ nav:
     - '30 de Agosto de 2021': ata_cc_30_agosto_2021.md
     - '04 de Novembro de 2021': ata_cc_04_novembro_2021.md
     - '06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
-#  - Atas 2022:
-#    - '28 de Março de 2022': ata_cc_28_marco_2022.md
+  - Atas 2022:
+    - '28 de Março de 2022': ata_cc_28_marco_2022.md
   - Outros Arquivos:
     - 'Seminário ATOS-BULL': seminarios_atos_bull.md
     - 'Seminários NVIDIA': seminarios_nvidia.md
@@ -49,7 +49,66 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.tabbed:
       alternate_style: true
+
+# Plugins
 plugins:
   - mkdocs-video
   - search
-  - page-to-pdf
+  - pdf-export # deixa uma página em branco
+#  - page-to-pdf # não tem muitos controles para a customização
+#  - mkpdfs # não funciona
+#  - print-site:
+#      add_to_navigation: false
+#      print_page_title: 'Print Site'
+#      add_print_site_banner: false
+#      # Table of contents
+#      add_table_of_contents: true
+#      toc_title: 'Table of Contents'
+#      toc_depth: 6
+#      # Content-related
+#      add_full_urls: false
+#      enumerate_headings: true
+#      enumerate_figures: true
+#      add_cover_page: true
+#      cover_page_template: ""
+#      path_to_pdf: ""
+#      include_css: true
+#      enabled: true
+#      exclude:
+#  - with-pdf:
+#      author: Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera
+#      #copyright: ANY TEXT
+#      
+#      cover: true
+#      back_cover: true
+#      cover_title: Ata de Reunião
+#      cover_subtitle: Comitê Científico do MONAN
+#      #custom_template_path: TEMPLATES PATH
+#      
+#      toc_title: SUMÁRIO
+#      heading_shift: false
+#      toc_level: 3
+#      ordered_chapter_level: 2
+#      excludes_children:
+#          - 'release-notes/:upgrading'
+#          - 'release-notes/:changelog'
+#      
+#      exclude_pages:
+#          - 'bugs/'
+#          - 'appendix/contribute/'
+#      #convert_iframe:
+#      #    - src: IFRAME SRC
+#      #      img: POSTER IMAGE URL
+#      #      text: ALTERNATE TEXT
+#      #    - src: ...
+#      two_columns_level: 3
+#      
+#      render_js: false
+#      headless_chrome_path: headless-chromium
+#      
+#      output_path: ../document.pdf
+#      #enabled_if_env: ENABLE_PDF_EXPORT=1
+#      
+#      debug_html: false
+#      show_anchors: false
+#      verbose: true

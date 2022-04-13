@@ -1,0 +1,79 @@
+/* Remove partes não desejadas do HTML */
+
+.anexos {
+  display: none;
+}
+
+.info {
+  display: none;
+}
+
+.video-container {
+  display: none;
+}
+
+/* Ajustes na aparência da página */
+
+@page {
+    size: a4 portrait;
+    margin: 25mm 15mm 25mm 15mm;
+    padding: 10mm 0mm 10mm 0mm;
+    counter-increment: page;
+    font-family: Arial;
+    /*white-space: pre;*/
+    color: black;
+    @top-left {
+        content: 'MODELO PARA PREVISÃO DOS OCEANOS, SUPERFÍCIES TERRESTRES E ATMOSFERA';
+        font-size: 14px;
+        font-weight: bold;
+        border-bottom: 2px solid black;
+        width: 100%;
+    }
+    /*@top-right {
+        content: string(chapter);
+        font-size: 12px;
+    }*/
+    @bottom-right {
+        /*content: 'Página ' counter(page);*/
+        content: counter(page);
+        font-size: 12px;
+        border-top: 1px solid black;
+        font-weight: bold;
+        width: 100%;
+    }
+    /*@top-left-corner { content: " "; border: solid green; }*/
+}
+
+p {
+  font-family: Arial;
+  font-size: 14px;
+  font-color: black;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*ul {
+  padding-left: 15em;
+}
+
+ol {
+  padding-left: 15em;
+}*/
+
+li {
+  font-family: Arial;
+  font-size: 14px;
+  font-color: black;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 16px;
+  font-color: black;
+}
+
+h2 {
+  font-family: Arial;
+  font-size: 15px;
+  font-color: black;
+}
