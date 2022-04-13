@@ -4,60 +4,62 @@
 
 ??? info
 
-    ## Ata da Reunião do Comitê Científico do MONAN 
+    === "Ata da Reunião do Comitê Científico do MONAN"
     
-    * Preparado por: Carlos Frederico Bastarz, relator
-    * 04 de Novembro de 2021
+        * Preparado por: Carlos Frederico Bastarz, relator
+        * 04 de Novembro de 2021
+        
+        **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
     
-    **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
+    === "Histórico de Revisões"
     
-    ## Histórico de Revisões
+        | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
+        |---------|-----------------|------------|
+        | R000    | 04/11/2021      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 18/11/2021      | <ul> <li> Revisão geral por Carlos Bastarz/INPE </li> </ul> |
+        | R002    | 23/11/2021      | <ul> <li> Revisão geral e complementação de informações por Carlos Bastarz/INPE </li> </ul> |
+        | R003    | 25/11/2021      | <ul> <li> Informações adicionais por Carlos Bastarz/INPE </li> </ul> | 
+        | R004    | 26/11/2021      | <ul> <li> Informações adicionais por Carlos Bastarz/INPE </li> </ul> |
+        | R005    | 29/11/2021      | <ul> <li> Revisão geral por Carlos Bastarz/INPE </li> </ul> |
     
-    | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
-    |---------|-----------------|------------|
-    | R000    | 04/11/2021      | <ul> <li> Versão inicial </li> </ul> |
-    | R001    | 18/11/2021      | <ul> <li> Revisão geral por Carlos Bastarz/INPE </li> </ul> |
-    | R002    | 23/11/2021      | <ul> <li> Revisão geral e complementação de informações por Carlos Bastarz/INPE </li> </ul> |
-    | R003    | 25/11/2021      | <ul> <li> Informações adicionais por Carlos Bastarz/INPE </li> </ul> | 
-    | R004    | 26/11/2021      | <ul> <li> Informações adicionais por Carlos Bastarz/INPE </li> </ul> |
-    | R005    | 29/11/2021      | <ul> <li> Revisão geral por Carlos Bastarz/INPE </li> </ul> |
+    === "Participações"
     
-    ## Participações
+        **Membros Participantes**
+        
+        * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Fabielle Adriane Mota Alves, Haroldo Fraga de Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
+        * **INMET:** Francisco Quixaba Filho.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva.
+        * **ITA:** Jairo Panetta.
+        * **INPA:** Luiz Cândido.
+        * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
+        * **UFSM:** Otávio Acevedo.
+        * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano.
+        * **UFRJ:** Afonso de Moraes Paiva.
+        * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
+        * **FAB:** Helio Abreu Nogueira (ausente).
+        * **EB:** Luiz Claudio Oliveira de Andrade (ausente).
     
-    **Membros Participantes**
+    === "Registro"
     
-    * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Fabielle Adriane Mota Alves, Haroldo Fraga de Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
-    * **INMET:** Francisco Quixaba Filho.
-    * **UFCG:** Enio Pereira de Souza.
-    * **CENSIPAM:** Ivan Saraiva.
-    * **ITA:** Jairo Panetta.
-    * **INPA:** Luiz Cândido.
-    * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
-    * **UFSM:** Otávio Acevedo.
-    * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
-    * **LNCC:** Roberto P. Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano.
-    * **UFRJ:** Afonso de Moraes Paiva.
-    * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
-    * **FAB:** Helio Abreu Nogueira (ausente).
-    * **EB:** Luiz Claudio Oliveira de Andrade (ausente).
-    
-    ## Registro
-    
-    **Local, Data e Hora**
-    
-    * Plataforma RNP
-    * 04 de Novembro de 2021, das 09:00 horas às 11:00 horas
-    
-    **Link da gravação**
-    
-    * [https://youtu.be/Y3-h_33vQY8](https://youtu.be/Y3-h_33vQY8)
-    
-    **Repositório das apresentações**
-    
-    * [https://drive.google.com/drive/folders/1inukIQaoFG7ox7QLqTl3D-RiHwAE3IF1?usp=sharing](https://drive.google.com/drive/folders/1inukIQaoFG7ox7QLqTl3D-RiHwAE3IF1?usp=sharing)
+        **Local, Data e Hora**
+        
+        * Plataforma RNP
+        * 04 de Novembro de 2021, das 09:00 horas às 11:00 horas
+        
+        **Link da gravação**
+        
+        * [https://youtu.be/Y3-h_33vQY8](https://youtu.be/Y3-h_33vQY8)
+        
+        **Repositório das apresentações**
+        
+        * [https://drive.google.com/drive/folders/1inukIQaoFG7ox7QLqTl3D-RiHwAE3IF1?usp=sharing](https://drive.google.com/drive/folders/1inukIQaoFG7ox7QLqTl3D-RiHwAE3IF1?usp=sharing)
 
 Reunião do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado. Às 09:00hs do dia 04 de Novembro de 2021, reuniram-se virtualmente os representantes do INPE (Instituto Nacional de Pesquisas Espaciais), INMET (Instituto Nacional de Meteorologia), UFCG (Universidade Federal de Campina Grande), CENSIPAM (Centro Gestor e Operacional do Sistema de Proteção da Amazônia), ITA (Instituto Tecnológico de Aeronáutica), INPA (Instituto Nacional de Pesquisas da Amazônia), UFSM (Universidade Federal de Santa Maria), USP (Universidade de São Paulo), LNCC (Laboratório Nacional de Computação Científica), UFMS (Universidade Federal do Mato Grosso do Sul) e UFRJ (Universidade Federal do Rio de Janeiro), com o objetivo de dar continuidade aos trabalhos do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado (MCSTU)[^1]. Esta ata registra a memória da reunião realizada e congrega as informações inseridas no chat, como links e informações pertinentes às discussões realizadas. Seguindo a abertura da reunião, realizada pelo Saulo Freitas e pelo Pedro Dias, este documento está orientado de acordo com as pautas estabelecidas pelo Saulo Freitas a condução da reunião. 
+
+## Abertura
 
 Saulo Freitas inicia a reunião dando as boas vindas aos participantes e, em seguida, apresenta as pautas a serem discutidas:
 

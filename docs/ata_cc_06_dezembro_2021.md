@@ -4,56 +4,56 @@
 
 ??? info
 
-    ## Ata da Reunião do Comitê Científico do MONAN 
+    === "Ata da Reunião do Comitê Científico do MONAN"
     
-    * Preparado por: Carlos Frederico Bastarz, relator
-    * 06 de Dezembro de 2021
+        * Preparado por: Carlos Frederico Bastarz, relator
+        * 06 de Dezembro de 2021
+        
+        **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
     
-    **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
+    === "Histórico de Revisões"
     
-    ## Histórico de Revisões
+        | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
+        |---------|-----------------|------------|
+        | R000    | 14/01/2022      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 26/01/2022      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
+        
+    === "Participações"
     
-    | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
-    |---------|-----------------|------------|
-    | R000    | 14/01/2022      | <ul> <li> Versão inicial </li> </ul> |
-    | R001    | 26/01/2022      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
+        **Membros Participantes**
+        
+        * **INPE:** Caio Augusto dos Santos Coelho, Carlos Frederico Bastarz, Celso Mendes, Chou Sin Chan, Daniel Vila, Luiz Flávio Rodrigues, Luciano Ponzi Pezzi, Saulo Ribeiro de Freitas.
+        * **INMET:** Francisco Quixaba Filho (ausente).
+        * **UFCG:** Enio Pereira de Souza (ausente).
+        * **CENSIPAM:** Ivan Saraiva (ausente).
+        * **ITA:** Jairo Panetta.
+        * **INPA:** Luiz Cândido (ausente).
+        * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
+        * **FAB:** José Hélio Abreu Nogueira.
+        * **UFSM:** Otávio Acevedo.
+        * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano (ausente).
+        * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
+        
+        **Apoio Administrativo**
+        
+        * Fabielle Adriane Mota Alves
     
-    ## Participações
+    === "Registro"
     
-    **Membros Participantes**
-    
-    * **INPE:** Caio Augusto dos Santos Coelho, Carlos Frederico Bastarz, Celso Mendes, Chou Sin Chan, Daniel Vila, Luiz Flávio Rodrigues, Luciano Ponzi Pezzi, Saulo Ribeiro de Freitas.
-    * **INMET:** Francisco Quixaba Filho (ausente).
-    * **UFCG:** Enio Pereira de Souza (ausente).
-    * **CENSIPAM:** Ivan Saraiva (ausente).
-    * **ITA:** Jairo Panetta.
-    * **INPA:** Luiz Cândido (ausente).
-    * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
-    * **FAB:** José Hélio Abreu Nogueira.
-    * **UFSM:** Otávio Acevedo.
-    * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
-    * **LNCC:** Roberto P. Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano (ausente).
-    * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
-    
-    **Apoio Administrativo**
-    
-    * Fabielle Adriane Mota Alves
-    
-    ## Registro
-    
-    **Local, Data e Hora**
-    
-    * Plataforma RNP
-    * 06 de Dezembro de 2021, das 9:00 horas às 11:00 horas
-    
-    **Link da gravação**
-    
-    * [https://youtu.be/odVF6XhGUm8](https://youtu.be/odVF6XhGUm8)
-    
-    **Repositório das apresentações**
-    
-    * [https://drive.google.com/drive/folders/1pccYj83Eu5P0e3WkN91D23BXhbtkpL20?usp=sharing](https://drive.google.com/drive/folders/1pccYj83Eu5P0e3WkN91D23BXhbtkpL20?usp=sharing)
+        **Local, Data e Hora**
+        
+        * Plataforma RNP
+        * 06 de Dezembro de 2021, das 9:00 horas às 11:00 horas
+        
+        **Link da gravação**
+        
+        * [https://youtu.be/odVF6XhGUm8](https://youtu.be/odVF6XhGUm8)
+        
+        **Repositório das apresentações**
+        
+        * [https://drive.google.com/drive/folders/1pccYj83Eu5P0e3WkN91D23BXhbtkpL20?usp=sharing](https://drive.google.com/drive/folders/1pccYj83Eu5P0e3WkN91D23BXhbtkpL20?usp=sharing)
 
 Reunião do Comitê Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera.
 

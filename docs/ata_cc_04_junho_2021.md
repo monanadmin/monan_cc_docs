@@ -4,67 +4,66 @@
 
 ??? info
 
-    ## Ata da Reunião do Comitê Científico do MONAN 
+    === "Ata da Reunião do Comitê Científico do MONAN" 
     
-    * Preparado por: Carlos Frederico Bastarz, relator
-    * Revisado por: Fabielle Adriane Mota Alves, apoio administrativo
-    * 04 de Junho de 2021
+        * Preparado por: Carlos Frederico Bastarz, relator
+        * Revisado por: Fabielle Adriane Mota Alves, apoio administrativo
+        * 04 de Junho de 2021
+        
+        **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
     
-    **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
+    === "Histórico de Revisões"
     
-    ## Histórico de Revisões
+        | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
+        |---------|-----------------|------------|
+        | R000    | 16/06/2021      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 21/06/2021      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
+        | R002    | 02/07/2021      | <ul> <li> Revisão geral e adequação da escrita por Fabielle Mota/INPE </li> </ul> |
+        | R003    | 05/07/2021      | <ul> <li> Consolidação das alterações da R002 e revisão geral por Carlos Bastarz/INPE </li> </ul> | 
+        | R004    | 08/07/2021      | <ul> <li> Alteração solicitada por Roberto Souto/LNCC (pg. 3) </li> </ul> |
     
-    | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
-    |---------|-----------------|------------|
-    | R000    | 16/06/2021      | <ul> <li> Versão inicial </li> </ul> |
-    | R001    | 21/06/2021      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
-    | R002    | 02/07/2021      | <ul> <li> Revisão geral e adequação da escrita por Fabielle Mota/INPE </li> </ul> |
-    | R003    | 05/07/2021      | <ul> <li> Consolidação das alterações da R002 e revisão geral por Carlos Bastarz/INPE </li> </ul> | 
-    | R004    | 08/07/2021      | <ul> <li> Alteração solicitada por Roberto Souto/LNCC (pg. 3) </li> </ul> |
+    === "Participações"
     
+        **Membros Participantes**
+        
+        * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Haroldo Fraga de Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Karla Longo, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
+        * **INMET:** Francisco Quixaba Filho.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva.
+        * **ITA:** Jairo Panetta.
+        * **INPA:** Luiz Cândido.
+        * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
+        * **UFSM:** Otávio Acevedo.
+        * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano.
+        * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
+        
+        **Participantes Convidados**
+        
+        * Gilberto Bonatti/INMET
+        * Faber Cuco/INMET
+        * Renato Henrique Ferreira/INPE
+        * Cristiane Mariano Zavati/INPE
+        
+        **Apoio Administrativo**
+        
+        * Fabielle Adriane Mota Alves
     
-    ## Participações
+    === "Registro"
     
-    **Membros Participantes**
-    
-    * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Haroldo Fraga de Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Karla Longo, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
-    * **INMET:** Francisco Quixaba Filho.
-    * **UFCG:** Enio Pereira de Souza.
-    * **CENSIPAM:** Ivan Saraiva.
-    * **ITA:** Jairo Panetta.
-    * **INPA:** Luiz Cândido.
-    * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
-    * **UFSM:** Otávio Acevedo.
-    * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto.
-    * **LNCC:** Roberto P. Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano.
-    * **UFPA:** Júlia Clarinda Paiva Cohen (ausente).
-    
-    **Participantes Convidados**
-    
-    * Gilberto Bonatti/INMET
-    * Faber Cuco/INMET
-    * Renato Henrique Ferreira/INPE
-    * Cristiane Mariano Zavati/INPE
-    
-    **Apoio Administrativo**
-    
-    * Fabielle Adriane Mota Alves
-    
-    ## Registro
-    
-    **Local, Data e Hora**
-    
-    * [https://meet.google.com/itu-nagr-tey](https://meet.google.com/itu-nagr-tey)
-    * 04 de Junho de 2021, das 15:00 horas às 17:00 horas
-    
-    **Link da gravação**
-    
-    * [https://youtu.be/Zk15TBqZe4w](https://youtu.be/Zk15TBqZe4w)
-    
-    **Repositório das apresentações**
-    
-    * [https://drive.google.com/drive/folders/1oF5zzm2WkDzJUp3i7bNZVhX1-1C0mnYy?usp=sharing](https://drive.google.com/drive/folders/1oF5zzm2WkDzJUp3i7bNZVhX1-1C0mnYy?usp=sharing)
+        **Local, Data e Hora**
+        
+        * [https://meet.google.com/itu-nagr-tey](https://meet.google.com/itu-nagr-tey)
+        * 04 de Junho de 2021, das 15:00 horas às 17:00 horas
+        
+        **Link da gravação**
+        
+        * [https://youtu.be/Zk15TBqZe4w](https://youtu.be/Zk15TBqZe4w)
+        
+        **Repositório das apresentações**
+        
+        * [https://drive.google.com/drive/folders/1oF5zzm2WkDzJUp3i7bNZVhX1-1C0mnYy?usp=sharing](https://drive.google.com/drive/folders/1oF5zzm2WkDzJUp3i7bNZVhX1-1C0mnYy?usp=sharing)
 
 Reunião do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado.
 

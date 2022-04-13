@@ -16,6 +16,8 @@ nav:
     - '30 de Agosto de 2021': ata_cc_30_agosto_2021.md
     - '04 de Novembro de 2021': ata_cc_04_novembro_2021.md
     - '06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
+  - Atas 2022:
+    - '28 de Março de 2022': ata_cc_28_marco_2022.md
   - Outros Arquivos:
     - 'Seminário ATOS-BULL': seminarios_atos_bull.md
     - 'Seminários NVIDIA': seminarios_nvidia.md
@@ -45,6 +47,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
 plugins:
   - mkdocs-video
   - search

@@ -4,61 +4,61 @@
 
 ??? info
 
-    ## Ata da Reunião do Comitê Científico do MONAN 
+    === "Ata da Reunião do Comitê Científico do MONAN"
     
-    * Preparado por: Carlos Frederico Bastarz, relator
-    * Revisado por: Fabielle Adriane Mota Alves, apoio de secretaria
-    * 30 de Agosto de 2021
+        * Preparado por: Carlos Frederico Bastarz, relator
+        * Revisado por: Fabielle Adriane Mota Alves, apoio de secretaria
+        * 30 de Agosto de 2021
+        
+        **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
     
-    **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
+    === "Histórico de Revisões"
     
-    ## Histórico de Revisões
+        | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
+        |---------|-----------------|------------|
+        | R000    | 20/09/2021      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 23/09/2021      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
+        | R002    | 24/09/2021      | <ul> <li> Revisão de algumas siglas por Carlos Bastarz/INPE e lista de participações por Fabielle Mota/INPE</li> </ul> |
     
-    | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
-    |---------|-----------------|------------|
-    | R000    | 20/09/2021      | <ul> <li> Versão inicial </li> </ul> |
-    | R001    | 23/09/2021      | <ul> <li> Revisão geral e adequação da escrita por Carlos Bastarz/INPE </li> </ul> |
-    | R002    | 24/09/2021      | <ul> <li> Revisão de algumas siglas por Carlos Bastarz/INPE e lista de participações por Fabielle Mota/INPE</li> </ul> |
+    === "Participações"
     
-    ## Participações
+        **Membros Participantes**
+        
+        * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Celso Mendes, Chou Sin Chan, Daniel Vila, Fabielle Adriane Motta Alves, Haroldo Fraga Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Luciano Ponzi Pezzi, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Freitas Ribeiro.
+        * **INMET:** Francisco Quixaba Filho.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva.
+        * **ITA:** Jairo Panetta (ausente).
+        * **INPA:** Luiz Antonio Cândido (ausente).
+        * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
+        * **UFSM:** Otávio Costa Acevedo.
+        * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
+        * **LNCC:** Roberto Pinto Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano.
+        * **UFPA:** Júlia Clarinda Paiva Cohen.
+        * **UFRJ:** Afonso de Moraes Paiva.
+        * **FAB:** Helio Abreu Nogueira (ausente).
+        * **EB:** Luiz Claudio Oliveira de Andrade (ausente).
+        
+        **Participantes Convidados**
+        
+        * Gilvan Sampaio de Oliveira - Coordenador Geral da CGCT/INPE.
+        * Viviane Campos/INMET (ausente).
     
-    **Membros Participantes**
+    === "Registro"
     
-    * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Celso Mendes, Chou Sin Chan, Daniel Vila, Fabielle Adriane Motta Alves, Haroldo Fraga Campos Velho, Joaquim Eduardo Rezende Costa, João Gerd Zell de Mattos, Jorge Luís Gomes, Luciano Ponzi Pezzi, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Freitas Ribeiro.
-    * **INMET:** Francisco Quixaba Filho.
-    * **UFCG:** Enio Pereira de Souza.
-    * **CENSIPAM:** Ivan Saraiva.
-    * **ITA:** Jairo Panetta (ausente).
-    * **INPA:** Luiz Antonio Cândido (ausente).
-    * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
-    * **UFSM:** Otávio Costa Acevedo.
-    * **USP:** Marcia Akemi Yamasoe, Pedro Leite da Silva Dias, Pedro Peixoto, Ricardo de Camargo.
-    * **LNCC:** Roberto Pinto Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano.
-    * **UFPA:** Júlia Clarinda Paiva Cohen.
-    * **UFRJ:** Afonso de Moraes Paiva.
-    * **FAB:** Helio Abreu Nogueira (ausente).
-    * **EB:** Luiz Claudio Oliveira de Andrade (ausente).
-    
-    **Participantes Convidados**
-    
-    * Gilvan Sampaio de Oliveira - Coordenador Geral da CGCT/INPE.
-    * Viviane Campos/INMET (ausente).
-    
-    ## Registro
-    
-    **Local, Data e Hora**
-    
-    * Plataforma RNP
-    * 30 de Agosto de 2021, das 14:00 horas às 15:00 horas
-    
-    **Link da gravação**
-    
-    * [https://www.youtube.com/watch?v=vNnDBr3I6f4](https://www.youtube.com/watch?v=vNnDBr3I6f4)
-    
-    **Repositório das apresentações**
-    
-    * [https://drive.google.com/drive/folders/1BqgW6ZAWAps-Ehjqi8lbsaNy68WVoqbf?usp=sharing](https://drive.google.com/drive/folders/1BqgW6ZAWAps-Ehjqi8lbsaNy68WVoqbf?usp=sharing)
+        **Local, Data e Hora**
+        
+        * Plataforma RNP
+        * 30 de Agosto de 2021, das 14:00 horas às 15:00 horas
+        
+        **Link da gravação**
+        
+        * [https://www.youtube.com/watch?v=vNnDBr3I6f4](https://www.youtube.com/watch?v=vNnDBr3I6f4)
+        
+        **Repositório das apresentações**
+        
+        * [https://drive.google.com/drive/folders/1BqgW6ZAWAps-Ehjqi8lbsaNy68WVoqbf?usp=sharing](https://drive.google.com/drive/folders/1BqgW6ZAWAps-Ehjqi8lbsaNy68WVoqbf?usp=sharing)
 
 Reunião do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado. Às 14:00hs do dia 30 de Agosto de 2021, reuniram-se virtualmente os representantes do INPE (Instituto Nacional de Pesquisas Espaciais), INMET (Instituto Nacional de Meteorologia), UFCG (Universidade Federal de Campina Grande), CENSIPAM (Centro Gestor e Operacional do Sistema de Proteção da Amazônia), ITA (Instituto Tecnológico de Aeronáutica), INPA (Instituto Nacional de Pesquisas da Amazônia), UFSM (Universidade Federal de Santa Maria), USP (Universidade de São Paulo), LNCC (Laboratório Nacional de Computação Científica), UFMS (Universidade Federal do Mato Grosso do Sul), UFPA (Universidade Federal do Pará), UFRJ (Universidade Federal do Rio de Janeiro), MB (Marinha do Brasil), FAB (Força Aérea Brasileira) e EB (Exército do Brasil) com o objetivo de discutir e dar continuidade aos trabalhos do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado (MCSTU). Esta ata registra a memória da reunião realizada e congrega as informações inseridas no chat, como links e informações pertinentes às discussões realizadas. Seguindo a abertura da reunião, realizada pelo Saulo Freitas, este documento está orientado de acordo com as pautas estabelecidas pelo Saulo Freitas durante a sua apresentação.
 

@@ -2,73 +2,76 @@
 
 ![type:video](https://youtube.com/embed/M9BPd6xVIcI)
 
+
 ??? info
 
-    ## Ata da Reunião do Comitê Científico do MONAN 
+    === "Ata da Reunião do Comitê Científico do MONAN"
     
-    * Preparado por: Carlos Frederico Bastarz, relator
-    * Revisado por: Fabielle Adriane Mota Alves, apoio de secretaria
-    * 05 de Maio de 2021
-    
-    **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
+        * Preparado por: Carlos Frederico Bastarz, relator
+        * Revisado por: Fabielle Adriane Mota Alves, apoio de secretaria
+        * 05 de Maio de 2021
+        
+        **Coordenação:** Saulo Ribeiro de Freitas e Pedro Leite da Silva Dias
 
-    ## Histórico de Revisões
+    === "Histórico de Revisões"
 
-    | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
-    |---------|-----------------|------------|
-    | R000    | 13/05/2021      | <ul> <li> Versão inicial </li> </ul> |
-    | R001    | 19/05/2021      | <ul> <li> Revisão realizada por Fabielle Mota/INPE </li> </ul> |
-    | R002    | 20/05/2021      | <ul> <li>Inclusão da tabela de Histórico de Revisões por Carlos Bastarz/INPE (pg. 2)</li> <li>Alterações solicitadas por Roberto Souto/LNCC (pg. 8 e 12)</li> <li>Alterações solicitadas por Caio Coelho/INPE (pg. 12)</li> </ul> |
-    | R003    | 27/05/2021      | <ul> <li> Consolidação das alterações da R002 por Carlos Bastarz/INPE </li> </ul> | 
-    | R004    | 28/05/2021      | <ul> <li> Alteração solicitada por Ivan Saraiva/CENSIPAM (pg. 4) </li> <li>Versão Final</li> </ul> |
+        | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
+        |---------|-----------------|------------|
+        | R000    | 13/05/2021      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 19/05/2021      | <ul> <li> Revisão realizada por Fabielle Mota/INPE </li> </ul> |
+        | R002    | 20/05/2021      | <ul> <li>Inclusão da tabela de Histórico de Revisões por Carlos Bastarz/INPE (pg. 2)</li> <li>Alterações solicitadas por Roberto Souto/LNCC (pg. 8 e 12)</li> <li>Alterações solicitadas por Caio Coelho/INPE (pg. 12)</li> </ul> |
+        | R003    | 27/05/2021      | <ul> <li> Consolidação das alterações da R002 por Carlos Bastarz/INPE </li> </ul> | 
+        | R004    | 28/05/2021      | <ul> <li> Alteração solicitada por Ivan Saraiva/CENSIPAM (pg. 4) </li> <li>Versão Final</li> </ul> |
     
-    ## Participações
+    === "Participações"
     
-    **Membros Participantes**
+        **Membros Participantes**
+        
+        * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Fabielle Adriane Mota Alves, Haroldo Fraga de Campos Velho, João Gerd Zell de Mattos, Jorge Luís Gomes, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
+        * **INMET:** Francisco Quixaba Filho.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva.
+        * **ITA:** Jairo Panetta.
+        * **INPA:** Luiz Cândido.
+        * **UFSM:** Otávio Acevedo.
+        * **USP:** Pedro Leite da Silva Dias, Pedro Peixoto.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano.
+        
+        **Participantes Convidados**
+        
+        * **INMET:** Francisco Quixaba Filho.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva.
+        * **ITA:** Jairo Panetta.
+        * **INPA:** Luiz Cândido.
+        * **UFSM:** Otávio Acevedo.
+        * **USP:** Pedro Leite da Silva Dias, Pedro Peixoto.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinicius Buscioli Capistrano.
     
-    * **INPE:** Antonio Ocimar Manzi, Caio Coelho, Carlos Frederico Bastarz, Chou Sin Chan, Daniel Vila, Fabielle Adriane Mota Alves, Haroldo Fraga de Campos Velho, João Gerd Zell de Mattos, Jorge Luís Gomes, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
-    * **INMET:** Francisco Quixaba Filho.
-    * **UFCG:** Enio Pereira de Souza.
-    * **CENSIPAM:** Ivan Saraiva.
-    * **ITA:** Jairo Panetta.
-    * **INPA:** Luiz Cândido.
-    * **UFSM:** Otávio Acevedo.
-    * **USP:** Pedro Leite da Silva Dias, Pedro Peixoto.
-    * **LNCC:** Roberto P. Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano.
+    === "Registro"
     
-    **Participantes Convidados**
-    
-    * **INMET:** Francisco Quixaba Filho.
-    * **UFCG:** Enio Pereira de Souza.
-    * **CENSIPAM:** Ivan Saraiva.
-    * **ITA:** Jairo Panetta.
-    * **INPA:** Luiz Cândido.
-    * **UFSM:** Otávio Acevedo.
-    * **USP:** Pedro Leite da Silva Dias, Pedro Peixoto.
-    * **LNCC:** Roberto P. Souto.
-    * **UFMS:** Vinicius Buscioli Capistrano.
-    
-    ## Registro
-    
-    **Local, Data e Hora**
-    
-    * [https://meet.google.com/itu-nagr-tey](https://meet.google.com/itu-nagr-tey)
-    * 05 de Maio de 2021, das 15:00 horas às 17:00 horas
-    
-    **Link da gravação**
-    
-    * [https://youtu.be/M9BPd6xVIcI](https://youtu.be/M9BPd6xVIcI)
-    
-    **Repositório das apresentações**
-    
-    * [https://drive.google.com/drive/folders/1s92r11yHDMQS7wbFTZ-eyluL7J2KaFxc?usp=sharing](https://drive.google.com/drive/folders/1s92r11yHDMQS7wbFTZ-eyluL7J2KaFxc?usp=sharing)
+        **Local, Data e Hora**
+        
+        * [https://meet.google.com/itu-nagr-tey](https://meet.google.com/itu-nagr-tey)
+        * 05 de Maio de 2021, das 15:00 horas às 17:00 horas
+        
+        **Link da gravação**
+        
+        * [https://youtu.be/M9BPd6xVIcI](https://youtu.be/M9BPd6xVIcI)
+        
+        **Repositório das apresentações**
+        
+        * [https://drive.google.com/drive/folders/1s92r11yHDMQS7wbFTZ-eyluL7J2KaFxc?usp=sharing](https://drive.google.com/drive/folders/1s92r11yHDMQS7wbFTZ-eyluL7J2KaFxc?usp=sharing)
 
 Reunião do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado. Às 15:00hs do dia 05 de Maio de 2021, reuniram-se virtualmente os representantes do INPE (Instituto Nacional de Pesquisas Espaciais), INMET (Instituto Nacional de Meteorologia), UFCG (Universidade Federal de Campina Grande), CENSIPAM (Centro Gestor e Operacional do Sistema de Proteção da Amazônia), ITA (Instituto Tecnológico de Aeronáutica), INPA (Instituto Nacional de Pesquisas da Amazônia), UFSM (Universidade Federal de Santa Maria), USP (Universidade de São Paulo), LNCC (Laboratório Nacional de Computação Científica) e UFMS (Universidade Federal do Mato Grosso do Sul), com o objetivo de apresentar e iniciar os trabalhos do Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado (MCSTU). Esta ata registra a memória da reunião realizada e congrega as informações inseridas no chat, como links e informações pertinentes às discussões realizadas. Seguindo a abertura da reunião, realizada pelo Saulo Freitas e pelo Pedro Dias, este documento está orientado de acordo com as pautas estabelecidas pelo Saulo Freitas durante a sua apresentação.
 
+## Abertura
+
 Saulo Freitas e Pedro Dias cumprimentam a todos os convidados e lembram que a primeira reunião deste comitê ocorreu no dia 08 de Abril de 2021, quando ocorreu a nomeação, pelo Diretor do INPE dos membros do INPE que compõem o Comitê Científico do Modelo Comunitário do Sistema Terrestre Unificado.
 
-## Pauta 1 - Abertura e Introdução do MCSTU
+## Pauta 1 - Introdução do MCSTU
 
 Gilvan Sampaio (Coordenador-Geral da CGCT/INPE) agradece a todos pelo aceite do convite, perante o desafio de formar o modelo unificado. Ressalta a presença dos membros do [CENSIPAM](https://www.gov.br/defesa/pt-br/assuntos/censipam) e do [INMET](https://portal.inmet.gov.br/), mas destaca que estas duas instituições são também stakeholders desse esforço comunitário. Agrade também a presença do Fernando Ii. Sobre o modelo comunitário, destaca que o objetivo do comitê - que é científico, é debater a ciência, discutir e gerenciar o desenvolvimento do modelo comunitário. As decisões que foram tomadas devem ser científicas e não tem relação direta com o Sistema Nacional de Meteorologia. O comitê deve tomar decisões baseadas em critérios científicos. Essas discussões são importantes, pois serão apresentadas aos demais grupos de trabalho. Destaca que é um passo muito importante para a meteorologia nacional. Por parte do [INPE](https://www.inpe.br/), na figura do Diretor, que está comprometido com esse processo, os membros do comitê científico contarão com o apoio da [CGCT](http://www.inpe.br/institucional/sobre_inpe/organograma/orgUnidade.php?siglaUnidade=CGCT) (Coordeção-Geral de Ciências da Terra) e da Direção do INPE, cujos papéis são de facilitadores. 
 
