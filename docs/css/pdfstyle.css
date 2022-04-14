@@ -1,80 +1,190 @@
-/* Ajustes na aparência da página PDF */
-
-@page {
-    size: a4 portrait;
-    margin: 25mm 15mm 25mm 15mm;
-    padding: 10mm 0mm 10mm 0mm;
-    counter-increment: page;
-    font-family: Arial;
-    /*white-space: pre;*/
-    color: black;
-    @top-left {
-        content: 'MODELO PARA PREVISÃO DOS OCEANOS, SUPERFÍCIES TERRESTRES E ATMOSFERA';
-        font-size: 14px;
-        font-weight: bold;
-        border-bottom: 2px solid black;
-        width: 100%;
-    }
-    /*@top-right {
-        content: string(chapter);
-        font-size: 12px;
-    }*/
-    @bottom-right {
-        /*content: 'Página ' counter(page);*/
-        content: counter(page);
-        font-size: 12px;
-        border-top: 1px solid black;
-        font-weight: bold;
-        width: 100%;
-    }
-    /*@top-left-corner { content: " "; border: solid green; }*/
-}
+/* 
+Ajustes na aparência da página PDF 
+Estes ajustes não devem influenciar no estilo da página HTML 
+*/
 
 @media print {
-    /* Remove partes não desejadas do HTML */
-    details.anexos {
-      display: none;
-    }
-    
-    details.info {
-      display: none;
-    }
-    
-    div.video-container {
-      display: none;
+
+    @page :first {
+        size: a4 portrait;
+        margin: 25mm 15mm 25mm 15mm;
+        padding: 10mm 0mm 10mm 0mm;
+        background-image: url('https://yt3.ggpht.com/eontQykK_bxYkUjW0uf-1H70kDicyYmL_CKp81cVC2XMbkxYP0lWryWUzed0Qdw5vQEuFvEdWA=s900-c-k-c0x00ffffff-no-rj');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: cover;
+        background-color: grey;
+        height: 100%;
+        /*content: none;*/
+        white-space: pre;
     }
 
+    @page {
+        size: a4 portrait;
+        margin: 20mm 15mm 20mm 15mm;
+        padding: 10mm 0mm 10mm 0mm;
+        counter-increment: page;
+        font-family: Arial;
+        white-space: pre;
+        color: black;
+    
+        @top-left {
+            content:'MODELO PARA PREVISÃO DOS OCEANOS, SUPERFÍCIES TERRESTRES E ATMOSFERA';
+            font-size: 14px;
+            font-weight: bold;
+            border-top: 4px solid black;
+            margin-top: 65px;
+            margin-left: 15px;
+            padding-top: 5px;
+            width: 95%;
+            vertical-align: top;
+        }
+    
+        @top-right {
+            content:' ';
+            margin-right: 15px;
+            padding-bottom: 5px;
+            width: 10%;
+        }
+    
+        @bottom-right {
+            content: counter(page);
+            font-size: 12px;
+            border-top: 2px solid black;
+            width: 95%;
+            vertical-align: top;
+            padding-top: 5px;
+            margin-left: 15px;
+            margin-right: 15px;
+            padding-bottom: 10px;
+        }
+    
+        @bottom-left { 
+            content:' ';
+            margin-left: 15px;
+            padding-top: 5px;
+            width: 10%;
+        }
+    
+        @top-left-corner { 
+            content:' ';
+            width: 100%;
+        }
+    
+        @top-right-corner { 
+            content:' ';
+            width: 100%;
+        }
+    
+        @bottom-left-corner {
+            content:' ';
+            width: 100%;
+        }
+    
+        @bottom-right-corner {
+            content:' ';
+            width: 100%;
+        }
+    
+    }
+
+    /* Remove partes não desejadas do HTML */
+
+    details.info {
+        display: none;
+    }
+   
+    div.video-container {
+        display: none;
+    }
+
+    [dir=ltr] .md-typeset :is(.admonition-title, summary) {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 0;
+    }
+
+    .md-typeset :is(.admonition-title, summary):before {
+        background-color: white;
+        content:' ';
+        height:0;
+        width: 0;
+        padding: 0;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .md-typeset :is(.admonition-title, summary):after {
+        background-color: white;
+        content:' ';
+        height:0;
+        width: 0;
+        padding: 0;
+        margin: 0;
+    }
+
+    details.admonition-title, summary {
+        font-family: Arial;
+        font-size: 15px;
+        color: black;
+        background-image: none;
+        background-color: transparent;
+        border: 0;
+        border-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .md-typeset :is(.admonition-title, summary) {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin: 0;
+        padding: 0;
+    } 
+
+    .md-typeset :is(.admonition-title, details) {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin-left: 2.25px;
+        padding: 0;
+    } 
+
+
+    /* Estilos das fontes dos elementos do texto */
+
     p {
-      font-family: Arial;
-      font-size: 14px;
-      font-color: black;
-      text-align: justify;
-      text-justify: inter-word;
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        text-align: justify;
+        text-justify: inter-word;
     }
-    
-    /*ul {
-      padding-left: 15em;
-    }
-    
-    ol {
-      padding-left: 15em;
-    }*/
     
     li {
-      font-family: Arial;
-      font-size: 14px;
-      font-color: black;
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
     }
     
-    h1 {
-      font-family: Arial;
-      font-size: 16px;
-      font-color: black;
+    h1[id^='ata-'] {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
     }
     
     h2 {
-      font-family: Arial;
-      font-size: 15px;
-      font-color: black;
+        font-family: Arial;
+        font-size: 15px;
+        color: black;
     }
+
 }
