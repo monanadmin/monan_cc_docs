@@ -1,22 +1,16 @@
-/* 
-Ajustes na aparência da página PDF 
-Estes ajustes não devem influenciar no estilo da página HTML 
-*/
+/* Ajustes na aparência da página PDF 
+Estes ajustes não devem influenciar no estilo da página HTML */
 
 @media print {
 
     @page :first {
         size: a4 portrait;
-        margin: 25mm 15mm 25mm 15mm;
+        margin: 20mm 15mm 20mm 15mm;
         padding: 10mm 0mm 10mm 0mm;
-        background-image: url('https://yt3.ggpht.com/eontQykK_bxYkUjW0uf-1H70kDicyYmL_CKp81cVC2XMbkxYP0lWryWUzed0Qdw5vQEuFvEdWA=s900-c-k-c0x00ffffff-no-rj');
-        background-repeat: no-repeat;
-        background-position: top;
-        background-size: cover;
-        background-color: grey;
-        height: 100%;
-        /*content: none;*/
+        counter-increment: page;
+        font-family: Arial;
         white-space: pre;
+        color: black;
     }
 
     @page {
@@ -90,14 +84,31 @@ Estes ajustes não devem influenciar no estilo da página HTML
 
     /* Remove partes não desejadas do HTML */
 
-    details.info {
-        display: none;
-    }
-   
     div.video-container {
         display: none;
     }
 
+    details.info {
+        display: none;
+        height: 0;
+        margin: 0;
+        padding: 0;
+    }
+   
+    details.info::before {
+        display: none;
+        height: 0;
+        margin: 0;
+        padding: 0;
+    }
+   
+    details.info::after {
+        display: none;
+        height: 0;
+        margin: 0;
+        padding: 0;
+    }
+   
     [dir=ltr] .md-typeset :is(.admonition-title, summary) {
         padding-top: 10px;
         padding-left: 15px;
