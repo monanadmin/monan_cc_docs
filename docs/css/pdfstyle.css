@@ -1,18 +1,4 @@
-/* Remove partes não desejadas do HTML */
-
-.anexos {
-  display: none;
-}
-
-.info {
-  display: none;
-}
-
-.video-container {
-  display: none;
-}
-
-/* Ajustes na aparência da página */
+/* Ajustes na aparência da página PDF */
 
 @page {
     size: a4 portrait;
@@ -44,36 +30,51 @@
     /*@top-left-corner { content: " "; border: solid green; }*/
 }
 
-p {
-  font-family: Arial;
-  font-size: 14px;
-  font-color: black;
-  text-align: justify;
-  text-justify: inter-word;
-}
+@media print {
+    /* Remove partes não desejadas do HTML */
+    details.anexos {
+      display: none;
+    }
+    
+    details.info {
+      display: none;
+    }
+    
+    div.video-container {
+      display: none;
+    }
 
-/*ul {
-  padding-left: 15em;
-}
-
-ol {
-  padding-left: 15em;
-}*/
-
-li {
-  font-family: Arial;
-  font-size: 14px;
-  font-color: black;
-}
-
-h1 {
-  font-family: Arial;
-  font-size: 16px;
-  font-color: black;
-}
-
-h2 {
-  font-family: Arial;
-  font-size: 15px;
-  font-color: black;
+    p {
+      font-family: Arial;
+      font-size: 14px;
+      font-color: black;
+      text-align: justify;
+      text-justify: inter-word;
+    }
+    
+    /*ul {
+      padding-left: 15em;
+    }
+    
+    ol {
+      padding-left: 15em;
+    }*/
+    
+    li {
+      font-family: Arial;
+      font-size: 14px;
+      font-color: black;
+    }
+    
+    h1 {
+      font-family: Arial;
+      font-size: 16px;
+      font-color: black;
+    }
+    
+    h2 {
+      font-family: Arial;
+      font-size: 15px;
+      font-color: black;
+    }
 }
