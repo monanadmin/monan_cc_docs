@@ -141,6 +141,28 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         padding: 0;
     }
 
+    .md-typeset :is(.admonition, details) {
+        background-color: white;
+        border: 0;
+        border-radius: .1rem;
+        color: black;
+        font-family: Arial;
+        font-size: 22px;
+        margin: 0;
+        padding: 0;
+    }
+
+    [dir="ltr"] .md-typeset :is(.admonition, details) {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 0;
+    }
+
+    [dir="ltr"] .md-typeset ul {
+         display: block;
+         width: 80%;
+    }
+
     details.admonition-title, summary {
         font-family: Arial;
         font-size: 15px;
@@ -180,8 +202,8 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         border: .05rem solid black;
         border-radius: .1rem;
         display: inline-block;
-        font-size: .64rem;
-        width: 80%;
+        font-size: 12px;
+        max-width: 87%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -195,7 +217,6 @@ Estes ajustes não devem influenciar no estilo da página HTML */
     }
 
     table {
-        width: 90%;    
         font-family: Arial;
         font-size: 14px;
         color: black;
