@@ -194,13 +194,15 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         background-color: white;
     }
 
-    table, th, td {
+    table {
         width: 90%;    
         font-family: Arial;
         font-size: 14px;
         color: black;
         font-weight: normal;
         background-color: white;
+        border: .05rem solid black;
+        border-radius: .1rem;
     }
 
     /* Estilos das fontes dos elementos do texto */
