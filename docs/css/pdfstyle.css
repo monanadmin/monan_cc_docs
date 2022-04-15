@@ -88,13 +88,21 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         display: none;
     }
 
-    details.info {
+    /*details.info {
         display: none;
+    }*/
+
+    .md-typeset .tabbed-labels {
+        display: none;
+    }     
+
+    .md-skip { 
+        display: none; 
     }
-  
-     .md-typeset .codehilitetable .linenos {
-         display: none;
-     } 
+
+    .md-typeset .codehilitetable .linenos {
+        display: none;
+    } 
 
     [dir=ltr] .md-typeset :is(.admonition-title, summary) {
         padding-top: 10px;
@@ -120,6 +128,17 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         width: 0;
         padding: 0;
         margin: 0;
+    }
+
+    .md-typeset :is(.admonition, details):is(.info, .todo) {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin-left: 2.25px;
+        padding: 0;
     }
 
     details.admonition-title, summary {
@@ -156,6 +175,33 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         padding: 0;
     } 
 
+    .md-typeset table:not([class]) {
+        background-color: white;
+        border: .05rem solid black;
+        border-radius: .1rem;
+        display: inline-block;
+        font-size: .64rem;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .tabbed-block .md-typeset__table table {
+        font-family: Arial;
+        font-size: 12px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+    }
+
+    table, th, td {
+        width: 90%;    
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+    }
 
     /* Estilos das fontes dos elementos do texto */
 
