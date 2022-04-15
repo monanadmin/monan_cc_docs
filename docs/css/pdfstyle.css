@@ -9,7 +9,7 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         padding: 10mm 0mm 10mm 0mm;
         counter-increment: page;
         font-family: Arial;
-        white-space: pre;
+        /*white-space: pre;*/
         color: black;
     }
 
@@ -19,7 +19,7 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         padding: 10mm 0mm 10mm 0mm;
         counter-increment: page;
         font-family: Arial;
-        white-space: pre;
+        /*white-space: pre;*/
         color: black;
     
         @top-left {
@@ -82,29 +82,29 @@ Estes ajustes não devem influenciar no estilo da página HTML */
     
     }
 
-    /* Remove partes não desejadas do HTML */
+    /* Remove o video */
 
     div.video-container {
         display: none;
     }
 
-    /*details.info {
-        display: none;
-    }*/
+    /* Remove os labels das abas dentro de Info */
 
     .md-typeset .tabbed-labels {
         display: none;
     }     
 
+    /* Remove o link "pular para o conteúdo" */
+
     .md-skip { 
         display: none; 
     }
 
-    .md-typeset .codehilitetable .linenos {
+    /*.md-typeset .codehilitetable .linenos {
         display: none;
-    } 
+    }*/ 
 
-    [dir=ltr] .md-typeset :is(.admonition-title, summary) {
+    /*[dir=ltr] .md-typeset :is(.admonition-title, summary) {
         padding-top: 10px;
         padding-left: 15px;
         padding-right: 0;
@@ -156,26 +156,18 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         padding-top: 10px;
         padding-left: 15px;
         padding-right: 0;
-    }
+    }*/
+
+    /* Listas */
 
     [dir="ltr"] .md-typeset ul {
          display: block;
          width: 80%;
     }
 
-    details.admonition-title, summary {
-        font-family: Arial;
-        font-size: 15px;
-        color: black;
-        background-image: none;
-        background-color: transparent;
-        border: 0;
-        border-style: none;
-        padding: 0;
-        margin: 0;
-    }
+    /* Aba de informações */
 
-    .md-typeset :is(.admonition-title, summary) {
+    .md-typeset summary {
         font-family: Arial;
         font-size: 22px;
         color: black;
@@ -184,18 +176,48 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         border: 0;
         margin: 0;
         padding: 0;
-    } 
+    }
 
-    .md-typeset :is(.admonition-title, details) {
+    .md-typeset summary::before {
+            display: none;
+    }
+
+    .md-typeset summary::after {
+            display: none;
+    }
+
+    /* Anexos */
+
+    .md-typeset details {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .md-typeset details::before {
+            display: none;
+    }
+
+    .md-typeset details::after {
+            display: none;
+    }
+
+    /* Tabelas */
+
+    table {
         font-family: Arial;
         font-size: 14px;
         color: black;
         font-weight: normal;
         background-color: white;
-        border: 0;
-        margin-left: 2.25px;
-        padding: 0;
-    } 
+        border: .05rem solid black;
+        border-radius: .1rem;
+    }
 
     .md-typeset table:not([class]) {
         background-color: white;
@@ -216,17 +238,7 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         background-color: white;
     }
 
-    table {
-        font-family: Arial;
-        font-size: 14px;
-        color: black;
-        font-weight: normal;
-        background-color: white;
-        border: .05rem solid black;
-        border-radius: .1rem;
-    }
-
-    /* Estilos das fontes dos elementos do texto */
+    /* Estilos das fontes de alguns elementos do texto */
 
     p {
         font-family: Arial;
@@ -234,6 +246,7 @@ Estes ajustes não devem influenciar no estilo da página HTML */
         color: black;
         text-align: justify;
         text-justify: inter-word;
+        line-height: 1.7;
     }
     
     li {
