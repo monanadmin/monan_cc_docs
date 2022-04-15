@@ -52,4 +52,5 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
-  - pdf-export
+  - pdf-export:
+      media_type: print 
