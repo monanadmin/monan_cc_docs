@@ -90,25 +90,12 @@ Estes ajustes não devem influenciar no estilo da página HTML */
 
     details.info {
         display: none;
-        height: 0;
-        margin: 0;
-        padding: 0;
     }
-   
-    details.info::before {
-        display: none;
-        height: 0;
-        margin: 0;
-        padding: 0;
-    }
-   
-    details.info::after {
-        display: none;
-        height: 0;
-        margin: 0;
-        padding: 0;
-    }
-   
+  
+     .md-typeset .codehilitetable .linenos {
+         display: none;
+     } 
+
     [dir=ltr] .md-typeset :is(.admonition-title, summary) {
         padding-top: 10px;
         padding-left: 15px;
@@ -183,6 +170,12 @@ Estes ajustes não devem influenciar no estilo da página HTML */
     li {
         font-family: Arial;
         font-size: 14px;
+        color: black;
+    }
+    
+    h1[id^='bem-'] {
+        font-family: Arial;
+        font-size: 22px;
         color: black;
     }
     
