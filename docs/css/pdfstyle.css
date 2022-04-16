@@ -82,46 +82,6 @@ Estes ajustes não devem influenciar no estilo da página HTML */
     
     }
 
-    /* Antes de aplicar o estilo, reseta tudo */
-
-    :root, html {
-        display: block;
-        font-family: inherit;
-        font-size: inherit;
-        font-weight: inherit;
-        line-height: inherit;
-        -webkit-text-size-adjust: inherit;
-        -webkit-tap-highlight-color: inherit;
-        all: revert;
-    }
-    
-    html body {
-        display: block;
-        font-family: inherit;
-        font-size: inherit;
-        font-weight: inherit;
-        line-height: inherit;
-        margin: inherit;
-        padding: inherit;
-        color: inherit;
-        text-align: inherit;
-        background-color: inherit;
-        background: inherit;
-        all: revert;
-    }
-    
-    /* This rule attempts to manually reset all elements back to the 
-    UA browser style sheet using "revert" and the "wildcard" (*)
-    which resets all properties on all HTML elements.
-    This woul
-    on elements, for example.
-    Note: This selector should be ignored by IE. */
-    
-    html body * {
-        all: revert;
-    }
-
-
     /* Remove o video */
 
     div.video-container {
@@ -219,16 +179,16 @@ Estes ajustes não devem influenciar no estilo da página HTML */
     }
 
     .md-typeset summary::before {
-            display: none;
+        display: none;
     }
 
     .md-typeset summary::after {
-            display: none;
+        display: none;
     }
 
     /* remove as bordas da lista de anexos */
     [dir="ltr"] .md-typeset :is(.admonition, details) {
-      border: 0;
+        border: 0;
     }
 
     /* Anexos */

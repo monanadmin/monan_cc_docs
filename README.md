@@ -2,12 +2,12 @@
 
 Neste repositório, encontram-se as atas do Comitê Científico do MONAN. As atas podem ser acessadas individualmente através do próprio repositório em https://github.com/monanadmin/monan_cc_docs/tree/master/docs ou através do site em https://monanadmin.github.io/monan_cc_docs/. O acesso pelo site apresenta as seguintes vantagens:
 
-* Inclui uma ferramenta para buscar por palavras-chave em todas as atas;
-* Inclui a gravação do vídeo da reunião;
-* Inclui os arquivos anexos pertinentes (eg., apresentações, artigos etc);
-* Permite exportar as atas em arquivos PDF.
+- [X] Inclui uma ferramenta para buscar por palavras-chave em todas as atas;
+- [X] Inclui a gravação do vídeo da reunião;
+- [X] Inclui os arquivos anexos pertinentes (eg., apresentações, artigos etc);
+- [ ] Permite exportar as atas em arquivos PDF (ainda não disponível).
 
-Através do repositório ou pelo site, é possível solocitar a revisão da ata. Pelo repositório, siga os passos a seguir:
+Através do repositório ou pelo site, é possível solocitar a revisão da ata. Pelo repositório, siga os passos a seguir (necessário uma conta no GitHub):
 
 1. Acesse o diretório `docs` do repositório ou acesse o site com as atas;
 2. Se estiver no repositório, abra o documento `.md` referente à ata;

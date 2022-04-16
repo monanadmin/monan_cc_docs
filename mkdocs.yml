@@ -28,8 +28,8 @@ theme:
   language: pt-BR
 
 # PDF page style
-extra_css:
-  - css/pdfstyle.css
+#extra_css:
+#  - css/pdfstyle.css
 
 # Extensions
 markdown_extensions:
@@ -52,5 +52,4 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
-  - pdf-export:
-      media_type: print 
+#  - mkpdfs
