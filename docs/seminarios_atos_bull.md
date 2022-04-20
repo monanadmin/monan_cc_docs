@@ -1,6 +1,6 @@
 # Seminários ATOS-BULL
 
-!!! warning
+!!! warning "Atenção"
 
     Para o seminário elencado nesta página, não foi elaborada a ata.
 
