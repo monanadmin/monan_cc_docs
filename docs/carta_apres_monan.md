@@ -1,7 +1,7 @@
 !!! attention "Atenção"
 
     * O arquivo no formato PDF desta versão da carta encontra-se em anexo ao final da página;
-    * Versão apresentada ao Comitê Científico em 30 de Agosto de 2021;
+    * Versão inicialmente apresentada ao Comitê Científico em 30 de Agosto de 2021, revisada em 26 de Abril de 2022;
     * Novas versões com atualizações e correções serão mantidas nesta página ([link](https://github.com/monanadmin/monan_cc_docs/commits/master/docs/carta_apres_monan.md) para o histórico das atualizações).
 
 # Modelo Para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera
@@ -14,15 +14,17 @@ Em um cenário de mudanças climáticas e insegurança ambiental, o INPE visa de
 
 O foco da iniciativa é o desenvolvimento e operacionalização de um sistema de modelagem comunitário unificado - o Model for Ocean-LaNd-Atmosphere predictioN (MONAN, Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera, na sigla em português), para produzir previsões com ênfase na região tropical e foco sobre a América do Sul, em diferentes escalas espaciais e de tempo, buscando incluir as necessidades dos setores produtivo e social. Com a colaboração do setor acadêmico, o INPE irá liderar o desenvolvimento do MONAM, que substituirá os atuais modelos atmosféricos atualmente em operação. Um Comitê Científico formado por cientistas nacionais e internacionais será responsável pela gestão do MONAN. Este Comitê é formado por pesquisadores de diferentes áreas da meteorologia e áreas afins, para discutir e gerenciar o desenvolvimento do MONAN, tomando decisões como base em critérios científicos, bem como buscar parceiros do setor acadêmico que estejam dispostos a colaborar nos temas propostos, a saber:
 
-* Sistema integrado de modelagem;
+* Sistema Integrado de Modelagem;
 * Atmosfera;
-* Superfície e solos continentais;
-* Oceanos e criosfera;
-* Clima espacial;
-* Processamento de alto desempenho e qualidade de código;
-* Assimilação de dados do Sistema Terrestre;
-* Métodos avançados em assimilação de dados e aplicações de inteligência artificial;
-* Avaliação estatística.
+* Superfície e Solos Continentais;
+* Oceanos e Gelo Continental e Marítmo;
+* Clima Espacial;
+* Processamento de Alto Desempenho e Qualidade de Código;
+* Assimilação de Dados do Sistema Terrestre;
+* Métodos Avançados em Assimilação de Dados e Aplicações de Inteligência Artificial;
+* Métodos de Pré e Pós-processamento de Previsões de Tempo e Clima;
+* Hidrologia de Superfície e Subsuperfície;
+* Avaliação Estatística.
 
 Cada tema possui um líder, que é o ponto de contato com as demais áreas em desenvolvimento no MONAN e também são responsáveis por criar sub-redes de colaboração com os demais parceiros da comunidade científica nacional e internacional. Nestas sub-redes deverão ser formatados documentos que tragam os requisitos, demandas e contrapartidas da comunidade científica envolvida no desenvolvimento do MONAN. 
 
