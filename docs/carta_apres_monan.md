@@ -29,4 +29,4 @@ Durante o desenvolvimento do MCSTU, haverá oportunidade para explorar maneiras 
 
 ??? Anexos
 
-    * [Carta Introdutória ao MCSTU (PDF)](https://docs.google.com/document/d/1gl-NJTIrU91vkusgdr92iThYB_YKdrCX/edit?usp=sharing&ouid=106538284579177679646&rtpof=true&sd=true)
+    * [Carta Introdutória ao MCSTU (PDF)](https://drive.google.com/file/d/1sktZiqeCnMi1jxzIHPVDd1taWl1m60gM/view?usp=sharing)
