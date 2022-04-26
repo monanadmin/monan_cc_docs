@@ -238,6 +238,7 @@ Saulo Freitas finalizou e agradeceu a contribuição e a presença de todos.
 
 ??? Anexos
 
+    * [Slides Saulo Freitas](https://drive.google.com/file/d/1m_kJZtt1FEyNy7_zZmDWSrugjzrJ1m1r/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 04 de Junho de 2021](https://drive.google.com/file/d/1xol8F6U_fRRLCZpsJ2JstQJWwixPLVti/view?usp=sharing)
     * [Gravação da Reunião do Comitê Científico do MONAN - 05 de Junho de 2021](https://youtu.be/Zk15TBqZe4w)
     * [Gravação da Reunião da Componente Oceano-Criosfera do MONAN - 17 de Maio de 2021](https://youtu.be/6Uxyw23pS4Y)

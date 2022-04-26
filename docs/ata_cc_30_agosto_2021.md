@@ -221,6 +221,7 @@ dos subgrupos.
 
 ??? Anexos
 
+    * [Slides Saulo Freitas](https://drive.google.com/file/d/1cnJqUU9Fl1GyXqVH6cJmDgVqV6YHNhQt/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 30 de Agosto de 2021](https://drive.google.com/file/d/13ULRoiMerv2UkZbcZBlpWI3FDbOO5Asc/view?usp=sharing)
     * [Gravação da Reunião do Comitê Científico do MONAN - 30 de Agosto de 2021](https://youtu.be/vNnDBr3I6f4)
     * [Carta Introdutória Sobre o MONAN](https://docs.google.com/document/d/1gl-NJTIrU91vkusgdr92iThYB_YKdrCX/edit?usp=sharing&ouid=106538284579177679646&rtpof=true&sd=true)

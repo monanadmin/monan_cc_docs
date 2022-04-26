@@ -175,6 +175,7 @@ Saulo Freitas agradece a presença de todos e encerra a reunião.
 
 ??? Anexos
 
+    * [Slides Saulo Freitas](https://drive.google.com/file/d/19tzKWMQThUMCnZGw83Y0_LPuSMpVOoAg/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 04 de Novembro de 2021](https://drive.google.com/file/d/1Jnj0xliHkCHKq-5KznB64cE3zUe_NSAm/view?usp=sharing)
     * [Gravação da Reunião do Comitê Científico do MONAN - 04 de Novembro de 2021](https://youtu.be/VlV5F0qVF0s)
     * [Artigo Casagrande et al. (2021)](https://www.mdpi.com/2073-4433/12/11/1494)

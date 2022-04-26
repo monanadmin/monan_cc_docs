@@ -18,7 +18,10 @@ nav:
     - '06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
 #  - Atas 2022:
 #    - '28 de Março de 2022': ata_cc_28_marco_2022.md
-  - Outros Arquivos:
+  - Arquivos:
+    - 'Carta de Apresentação do MONAN': carta_apres_monan.md
+    - 'Outros Arquivos': outros_arquivos.md
+  - Outros:
     - 'Seminário ATOS-BULL': seminarios_atos_bull.md
     - 'Seminários NVIDIA': seminarios_nvidia.md
 

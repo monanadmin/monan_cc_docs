@@ -185,6 +185,7 @@ Durante as discussões sobre a infraestrutura computacional a ser projetada para
 
 ??? Anexos
 
+    * [Slides Saulo Freitas](https://drive.google.com/file/d/1noNZMHBbzU_RyEJ6yBy0UOskxkbkOhDb/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 05 de Maio de 2021](https://drive.google.com/file/d/1CluAxN6ip-FbIdGd8AUgtS5BkH5e-qjj/view?usp=sharing)
     * [Gravação da Reunião do Comitê Científico do MONAN - 05 de Maio de 2021](https://youtu.be/M9BPd6xVIcI)
     * [Apresentação Pedro Dias](https://docs.google.com/presentation/d/1GVFnAl3TtGuOOvJNNctIJwGBTSEWhWOU/edit?usp=sharing&ouid=106538284579177679646&rtpof=true&sd=true)

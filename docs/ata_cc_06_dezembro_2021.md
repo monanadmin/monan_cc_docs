@@ -132,6 +132,7 @@ Saulo Freitas cita sobre a importância da continuidade das reuniões dos subcom
 
 ??? Anexos
 
+    * [Slides Saulo Freitas](https://drive.google.com/file/d/1K3-5-gQQ1Nk6agdB-_NnpolTsFbfx3Mp/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 06 de Dezembro de 2021](https://drive.google.com/file/d/19xStktNTxVpi7wR-hrj64i1wbS7w235W/view?usp=sharing)
     * [Gravação da Reunião do Comitê Científico do MONAN - 06 de Dezembro de 2021](https://youtu.be/odVF6XhGUm8)
     * [Artigo Latinovic et al. (2017)](https://www.proquest.com/docview/1920221462?pq-origsite=gscholar&fromopenview=true)
