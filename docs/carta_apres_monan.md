@@ -17,7 +17,7 @@ O foco da iniciativa é o desenvolvimento e operacionalização de um sistema de
 * Sistema Integrado de Modelagem;
 * Atmosfera;
 * Superfície e Solos Continentais;
-* Oceanos e Gelo Continental e Marítmo;
+* Oceanos e Gelo Continental e Marítimo;
 * Clima Espacial;
 * Processamento de Alto Desempenho e Qualidade de Código;
 * Assimilação de Dados do Sistema Terrestre;
@@ -34,4 +34,4 @@ Para mais informações sobre o desenvolvimentos relacionados com o modelo e atu
 
 ??? Anexos
 
-    * [Carta Introdutória ao MCSTU (PDF)](https://drive.google.com/file/d/1f8bD8Qdg3oNYbuonYMVijrnFGnLlJ3ES/view?usp=sharing)
+    * [Carta Introdutória ao MCSTU (PDF)](https://drive.google.com/file/d/1cc-EvVh0wxNseSjsf35KgzKwfU9awY7l/view?usp=sharing)
