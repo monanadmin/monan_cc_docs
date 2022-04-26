@@ -2,7 +2,7 @@
 
     * O arquivo no formato PDF desta versão da carta encontra-se em anexo ao final da página;
     * Versão apresentada ao Comitê Científico em 30 de Agosto de 2021;
-    * Novas versões com atualizações e correções serão mantidas nesta página ([link]() para o histórico das atualizações).
+    * Novas versões com atualizações e correções serão mantidas nesta página ([link](https://github.com/monanadmin/monan_cc_docs/commits/master/docs/carta_apres_monan.md) para o histórico das atualizações).
 
 # Modelo Unificado Comunitário do Sistema Terrestre
 
