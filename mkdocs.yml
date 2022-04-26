@@ -29,6 +29,16 @@ nav:
 theme: 
   name: material
   language: pt-BR
+#  logo: assets/logo_monan_all_white.png
+
+extra:
+    social:
+      - icon: fontawesome/brands/youtube
+        link: https://www.youtube.com/channel/UCYl-EgRTESHnSLlpKUxWrrg
+      - icon: fontawesome/brands/github
+        link: https://github.com/monanadmin
+      - icon: fontawesome/solid/paper-plane
+        link: mailto:mcstu.inpe@gmail.com
 
 # PDF page style
 #extra_css:
