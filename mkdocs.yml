@@ -24,6 +24,7 @@ nav:
   - Arquivos:
     - 'Carta de Apresentação do MONAN': carta_apres_monan.md
     - 'Outros Arquivos': outros_arquivos.md
+  - Clipping: clipping.md
 
 # Configuration
 theme: 
