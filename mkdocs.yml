@@ -1,5 +1,6 @@
 # Project information
-site_name: Atas das Reuniões do Comitê Científico do MONAN 
+#site_name: Atas das Reuniões do Comitê Científico do MONAN 
+site_name: Comitê Científico do MONAN 
 site_author: Carlos Frederico Bastarz
 site_description: Site com as Atas das Reuniões do Comitê Científico do MONAN
 
@@ -24,6 +25,11 @@ nav:
   - Arquivos:
     - 'Carta de Apresentação do MONAN': carta_apres_monan.md
     - 'Outros Arquivos': outros_arquivos.md
+#  - Membros: membros.md
+#  - Anúncios e Oportunidades: anuncios_oportunidades.md
+#  - Recursos:
+#    - 'Logo MONAN': logo_monan.md
+#    - 'Templates': templates.md
   - Clipping: clipping.md
 
 # Configuration
