@@ -6,7 +6,7 @@
 
 ![type:video](https://youtube.com/embed/7kWOAvo1D9w)
 
-??? Anexos
+??? example "Anexos"
 
     * [Machine learning at ECMWF: A roadmap for the next 10 years](https://www.ecmwf.int/en/elibrary/19877-machine-learning-ecmwf-roadmap-next-10-years) 
     * [Weather & Climate](https://drive.google.com/file/d/1QYC85VEF_GrZao1n5uy8eVRyKw4sY9Uz/view?usp=sharing)

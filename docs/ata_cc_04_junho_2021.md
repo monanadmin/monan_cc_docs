@@ -236,7 +236,7 @@ Saulo Freitas finalizou e agradeceu a contribuição e a presença de todos.
 5. Discutir sobre a estrutura de software a ser adotada, diante das opções de desenvolvimento voltadas para as novas arquiteturas (separação de conceitos, OpenACC, OpenMP Target); 
 6. Buscar meios para o gerenciamento de projetos e software do MCSTU, em aderência aos requisitos do MCTI.
 
-??? Anexos
+??? example "Anexos"
 
     * [Slides Saulo Freitas](https://drive.google.com/file/d/1m_kJZtt1FEyNy7_zZmDWSrugjzrJ1m1r/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 04 de Junho de 2021](https://drive.google.com/file/d/1xol8F6U_fRRLCZpsJ2JstQJWwixPLVti/view?usp=sharing)

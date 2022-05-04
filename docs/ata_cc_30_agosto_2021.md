@@ -210,7 +210,7 @@ Pedro Dias);
 4. Breve comunicação dos demais membros do CC do MCSTU sobre as ações de organização
 dos subgrupos.
 
-??? Referências
+??? example "Referências"
 
     1. <span id="1"></span> INPE. Notícia (SJC, 17/03/2006) - Supercomputador do INPE atende comunidade científica do país [http://www.inpe.br/noticias/noticia.php?Cod_Noticia=589](http://www.inpe.br/noticias/noticia.php?Cod_Noticia=589)
     2. <span id="2"></span> INPE. Notícia (SJC, 16/01/2007) - INPE compra equipamento de olho na próxima geração do supercomputador do CPTEC. 2007. [http://www.inpe.br/urc/noticias/noticia.php?Cod_Noticia=938](http://www.inpe.br/urc/noticias/noticia.php?Cod_Noticia=938)
@@ -219,7 +219,7 @@ dos subgrupos.
     5. <span id="5"></span> SOUZA, C. R. Avaliação de técnicas avançadas de comunicação MPI na execução do modelo BRAMS. 2018. 108 p. IBI: <8JMKD3MGP3W34R/3R6QKR8>. (sid.inpe.br/mtc-m21c/2018/05.25.12.46-TDI). Dissertação (Mestrado em Computação Aplicada) - Instituto Nacional de Pesquisas Espaciais (INPE), São José dos Campos, 2018. Disponível em: [http://urlib.net/rep/8JMKD3MGP3W34R/3R6QKR8](http://urlib.net/rep/8JMKD3MGP3W34R/3R6QKR8)
     6. <span id="6"></span> STEPHANY, S. Uma breve história da supercomputação. CAP - Computação Aplicada - INPE. 2021. [http://www.lac.inpe.br/~stephan/CAP-372/super2021k-linux.pdf](http://www.lac.inpe.br/~stephan/CAP-372/super2021k-linux.pdf)
 
-??? Anexos
+??? example "Anexos"
 
     * [Slides Saulo Freitas](https://drive.google.com/file/d/1cnJqUU9Fl1GyXqVH6cJmDgVqV6YHNhQt/view?usp=sharing)
     * [Ata da Reunião do Comitê Científico do MONAN - 30 de Agosto de 2021](https://drive.google.com/file/d/13ULRoiMerv2UkZbcZBlpWI3FDbOO5Asc/view?usp=sharing)

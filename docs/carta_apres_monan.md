@@ -1,4 +1,4 @@
-!!! attention "Atenção"
+!!! note "Nota"
 
     * O arquivo no formato PDF desta versão da carta encontra-se em anexo ao final da página;
     * Versão inicialmente apresentada ao Comitê Científico em 30 de Agosto de 2021, revisada em 26 de Abril de 2022;
@@ -32,6 +32,6 @@ Durante o desenvolvimento do MONAN, haverá oportunidade para explorar maneiras 
 
 Para mais informações sobre o desenvolvimentos relacionados com o modelo e atualizações sobre o Comitê Científico, acesse: [https://monanadmin.github.io/monan_cc_docs/](https://monanadmin.github.io/monan_cc_docs/).
 
-??? Anexos
+??? example "Anexos"
 
     * [Carta Introdutória ao MCSTU (PDF)](https://drive.google.com/file/d/1cc-EvVh0wxNseSjsf35KgzKwfU9awY7l/view?usp=sharing)
