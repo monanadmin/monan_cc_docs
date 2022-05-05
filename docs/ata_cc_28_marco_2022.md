@@ -4,7 +4,7 @@
 
     Ata em revisão.
 
-## ATA 001/2022 - Revisão 000
+## ATA 001/2022 - Revisão 001
 
 ![type:video](https://youtube.com/embed/dKyWDTfTm2w)
 
@@ -23,6 +23,7 @@
         | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
         |---------|-----------------|------------|
         | R000    | 05/05/2022      | <ul> <li> Versão inicial </li> </ul> |
+        | R001    | 05/05/2022      | <ul> <li> Inserção do título "Pauta 3" por Carlos Bastarz/INPE </li> <li>Reposicionando título "Outros Assuntos" por Carlos Bastarz/INPE</li> </ul> |
     
     === "Participações"
     
@@ -139,6 +140,8 @@ Pedro Dias comenta que o Modular Ocean Model ([MOM](https://mom6.readthedocs.io/
 
 Saulo Freitas argumenta que deve haver uma lista de prioridades que ajude o CC do MONAN nas suas escolhas. Nessa ordem de prioridades, cita que primeiro, o MONAN deve atender as físicas que são necessárias e nas escalas de interesse do projeto, em segundo, a escolha da arquitetura computacional e em terceiro, a forma como será feito o acoplamento entre as componentes do sistema terrestre. Comenta que, seguindo as discussões do subcomitê de oceanos e criosfera, o subgrupo deve decidir sobre o sistema de modelagem será utilizado, em função das necessidades de representação das físicas que se deseja resolver e das escalas de interesse. Acrescenta que, na sua visão, o sistema de acoplamento é uma questão tecnológica e que deve ser discutida para que as componentes possam se comunicar de forma harmônica dentro do MONAN. 
 
+## Pauta 3 - Relatório do Subcomitê de Oceanos e Criosfera
+
 Saulo Freitas convida o Ronald Buss para fazer a sua apresentação sobre as discussões dentro do subcomitê de oceanos e criosfera. 
 
 Ronald Buss inicia a sua fala citando a criosfera e a sazonalidade do gelo (ártico e antártico), que são processos importantes e que precisam ser compreendidos. Cita que, atualmente, há consenso de que é melhor trabalhar com área de gelo ao invés da extensão dele, pois é uma variável que não depende do tamanho da grade do modelo e que é estimada por satélites. Em modelos de circulação oceânica, o Brasil possui vários grupos experientes espalhados pelo país e que estes são focados em processos específicos (e.g., processos estuarinos, de plataforma, de transporte e dispersão de hidrocarbonetos ou cedimentos). Em relação à modelagem sob o ponto de vista climático, aponta que a quantidade de grupos dedicados à esse assunto é ainda menor. Relata que, para a primeira reunião do seu grupo, tentou-se congregar esses grupos e acrescenta que também convidou alguns pesquisadores argentinos, que ainda não responderam. Cita que, entre os brasileiros, houve a participação de cerca de 40 pesquisadores. Acrescenta que houve um atraso na realização desta primeira reunião pois havia a necessidade de se esclarecer quais são as prioridades de entregas desta componente para o MONAN. 
@@ -169,13 +172,13 @@ Pedro Dias comenta que a escala de tempo a serem consideradas no oceano e na atm
 
 Haroldo Fraga comenta que um sistema de previsões operacional, como se pretende para o MONAN, deve possuir um sistema de assimilação de dados e que ele deve ser dominado pelos desenvolvedores. Acrescenta que quando um novo tipo de observação é disponibilizado, e equipe deve ser capaz de incluí-la no processo de assimilação de dados. Cita o exemplo do modelo Sheffield University Plasmasphere-Ionosphere Model [SUPIM](http://www2.inpe.br/climaespacial/portal/tec-supim-previsao/) de previsão da dinâmica da ionosfera que funciona com o método de nudging (Relaxação Newtoniana), que foi um dos primeiros esquemas de assimilação de dados a serem estabelecidos. Sobre os resultados apresentados pelo Roberto Souto, questiona sobre os testes terem sido feitos sem a radiação do modelo. Luiz Flávio responde a radiação utilizada no modelo MPAS é o Rapid Radiative Transfer Model for GCMs ([RRTMG](http://rtweb.aer.com/)) e que ela ainda [não foi portada para GPUs](https://mpas-dev.github.io/atmosphere/OpenACC/lagged_radiation.html) que a NVIDIA tem trabalhado nisso. 
 
+## Outros Assuntos
+
 Saulo Freitas comenta com Gilberto Bonatti sobre a necessidade de se discutir o MONAN no âmbito do INMET e trazer as necessidades e requerimentos do INMET para discussão no CC.
 
 Ariane Frassoni apresenta rapidamente um levantamento dos grupo de assimilação de dados reportados à OMM quanto aos tipos de sistemas de assimilação de dados operacionais em uso (válido para o ano de 2017). Cita que existe um projeto liderado pelo ECMWF que visa compreender os erros sistemáticos dos modelos associados à inicialização oceânica. Complementa que mais informações sobre esse projeto podem ser encontradas no site do WGNE.
 
 Pedro Dias comenta sobre a qualidade das discussões que tem ocorrido durante as reuniões do CC. Comenta que a quantidade de pessoas participantes do CC é ainda pequena em relação aos requerimentos que já foram elencados para o desenvolvimento do MONAN, mas que há a expectativa de que à medida em que as discussões e os desenvolvimentos seja feitos, haverá o engajamento de mais pessoas. Cita que o tema de assimilação de dados acoplada é ainda um tema novo e que deve ser possível incluir mais pessoas, principalmente durante a formação de pessoal nos programas de pós-graduação. Acrescenta que o tema de assimilação de dados é importante e que os programas de graduação ainda não estão completamente preparados para a formação dos alunos nessa área. Nesse aspecto, comenta que é também um papel dos membros do CC prepararem seus alunos para que possam atuar nessa área. 
-
-## Outros Assuntos
 
 Haroldo Campos anuncia um minicurso em assimilação dados a ser oferecido durante a segunda semana de julho de 2022. 
 
