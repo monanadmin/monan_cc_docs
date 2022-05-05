@@ -2,7 +2,7 @@
 
 !!! attention "Atenção"
 
-    Ata em elaboração.
+    Ata em revisão.
 
 ## ATA 001/2022 - Revisão 000
 
@@ -22,7 +22,7 @@
 
         | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
         |---------|-----------------|------------|
-        | R000    | 11/04/2022      | <ul> <li> Versão inicial </li> </ul> |
+        | R000    | 05/05/2022      | <ul> <li> Versão inicial </li> </ul> |
     
     === "Participações"
     
@@ -161,17 +161,31 @@ Joaquim Costa comenta sobre a sua atuação na área de clima espacial e sobre e
 
 Saulo Freitas convida a Flávia Pinheiro para fazer os seus comentários sobre a apresentação do Ronald Buss. Flávia Pinheiro argumenta que a componente oceânica pode não requerer um esquema de assimilação de dados muito complexo, tal como relatado pela experiência do Luciano Pezzi. Comenta que o modelo HYCON utiliza o esquema simples de [Interpolação Ótima](https://glossary.ametsoc.org/wiki/Optimum_interpolation) e que é uma esquema que tem apresentado bons resultados. Esquemas mais complexos e que requerem maior poder computacional, tal como os esquemas baseados em ensembles (ie., conjuntos), são necessários para os modelos atmosféricos devidos às mudanças rápidas da atmosfera. Isso requer atualizações das matrizes de covariâncias, as quais podem ser calculadas a partir dos membros do ensemble. Outros esquemas como o [4DVar](https://www.ecmwf.int/sites/default/files/elibrary/2003/11805-variational-data-assimiltion-theory-and-overview.pdf) também requerem um modelo adjunto e a sua atualização, o que também aumenta a complexidade da assimilação de dados. Flávia Pinheiro acrescenta que a assimilação de dados acoplada em modelos oceano-atmosfera é um grande desafio e que este tópico ainda é um tema de pesquisa e que é necessário melhorar a interação entre os grupos de pesquisa e desenvolvimento nas áreas de modelagem atmosférica e oceânica. 
 
-Ronald Buss comenta sobre 
+Afonso Paiva comenta sobre os temas de modelagem oceânica e assimilação de dados. Comenta que o sistema de assimilação de dados que utiliza em seu grupo de trabalho é ainda mais simples do que aquele utilizado pela REMO. Destaca que, quando se diz que os resultados obtidos com o esquema de assimilação de dados obtidos pela REMO são bons, quer dizer que são bons para os objetivos que foram traçados pelo REMO, ie., previsão de curto período. Destaca que o modelo oceânico deve ser considerado sobre o mesmo patamar de importância que o modelo atmosférico, não apenas no quesito complexidade, mas também quanto aos objetivos. Complementa dizendo que, da mesma forma como se está buscando o melhor modelo, deve-se buscar também pelo melhor sistema de assimilação de dados. Acrescenta que os modelos MOM e HYCOM possuem também sistemas de assimilação de dados e que eles podem ser considerados nesse processo, visando não apenas os mesmos objetivos que a REMO, mas também os novos objetivos a serem traçados para o MONAN. 
 
+João Gerd argumenta que o sistema de assimilação de dados a ser escolhido possui dependência quanto aos tipos de dados a serem utilizados no processo de assimilação. Flávia Pinheiro comenta que uma possibilidade são os sistemas baseados em ensembles e que os sistemas variacionais podem ser mais complicados no futuro. Luciano Pezzi comenta que a sua experiência com o LETKF não foi ruim, mas que apenas não superou as suas expectativas. Carlos Bastarz, pelo chat, acrescenta que a decisão pelo tipo de sistema de assimilação de dados a ser adotado depende dos tipos de observações que se pretende assimilar e que os sistemas mais simples não necessariamente piores do que aqueles mais robustos, como os variacionais, mas que atendem a aplicações com requerimentos específicos.
+
+Pedro Dias comenta que a escala de tempo a serem consideradas no oceano e na atmosfera é um fator importante e que o acoplamento entre oceano e atmosfera é um dependente desse fator. Argumenta que as previsões do MONAN são para o sistema terrestre, ie., não apenas para o oceano ou apenas para a atmosfera. Complementa dizendo que é muito difícil apontar qual é o melhor sistema ou o pior devido à esses fatores. Acrescenta que o sistema a ser escolhido deve ser aquele mais viável para determinadas aplicações e que os sistemas baseados em ensembles são mais atrativos.
+
+Haroldo Fraga comenta que um sistema de previsões operacional, como se pretende para o MONAN, deve possuir um sistema de assimilação de dados e que ele deve ser dominado pelos desenvolvedores. Acrescenta que quando um novo tipo de observação é disponibilizado, e equipe deve ser capaz de incluí-la no processo de assimilação de dados. Cita o exemplo do modelo Sheffield University Plasmasphere-Ionosphere Model [SUPIM](http://www2.inpe.br/climaespacial/portal/tec-supim-previsao/) de previsão da dinâmica da ionosfera que funciona com o método de nudging (Relaxação Newtoniana), que foi um dos primeiros esquemas de assimilação de dados a serem estabelecidos. Sobre os resultados apresentados pelo Roberto Souto, questiona sobre os testes terem sido feitos sem a radiação do modelo. Luiz Flávio responde a radiação utilizada no modelo MPAS é o Rapid Radiative Transfer Model for GCMs ([RRTMG](http://rtweb.aer.com/)) e que ela ainda [não foi portada para GPUs](https://mpas-dev.github.io/atmosphere/OpenACC/lagged_radiation.html) que a NVIDIA tem trabalhado nisso. 
+
+Saulo Freitas comenta com Gilberto Bonatti sobre a necessidade de se discutir o MONAN no âmbito do INMET e trazer as necessidades e requerimentos do INMET para discussão no CC.
+
+Ariane Frassoni apresenta rapidamente um levantamento dos grupo de assimilação de dados reportados à OMM quanto aos tipos de sistemas de assimilação de dados operacionais em uso (válido para o ano de 2017). Cita que existe um projeto liderado pelo ECMWF que visa compreender os erros sistemáticos dos modelos associados à inicialização oceânica. Complementa que mais informações sobre esse projeto podem ser encontradas no site do WGNE.
+
+Pedro Dias comenta sobre a qualidade das discussões que tem ocorrido durante as reuniões do CC. Comenta que a quantidade de pessoas participantes do CC é ainda pequena em relação aos requerimentos que já foram elencados para o desenvolvimento do MONAN, mas que há a expectativa de que à medida em que as discussões e os desenvolvimentos seja feitos, haverá o engajamento de mais pessoas. Cita que o tema de assimilação de dados acoplada é ainda um tema novo e que deve ser possível incluir mais pessoas, principalmente durante a formação de pessoal nos programas de pós-graduação. Acrescenta que o tema de assimilação de dados é importante e que os programas de graduação ainda não estão completamente preparados para a formação dos alunos nessa área. Nesse aspecto, comenta que é também um papel dos membros do CC prepararem seus alunos para que possam atuar nessa área. 
+
+## Outros Assuntos
+
+Haroldo Campos anuncia um minicurso em assimilação dados a ser oferecido durante a segunda semana de julho de 2022. 
 
 ## Ações Para a Próxima Reunião
 
 1. Solicitar à Fabielle Alves o envio da documentação do MONAN (projeto enviado para a FINEP) para que os líderes dos subcomitês possam reunir as informações necessárias para as suas articulações com as FAPES;
 2. Identificar as necessidades de desenvolvimentos das componentes do modelo e as possibilidades de colaboração com outras equipes de desenvolvimento (i.e., outros modelos e companhias como a NVIDIA);
-3. Proposição de apresentação do histórico, atividades e experiência em modelagem da REMO para o CC do MONAN;
+3. Apresentação do pesquisador Afonso Paiva sobre o histórico, atividades, estratégias e experiência em modelagem da REMO para o CC do MONAN;
 4. Propor a inclusão de outros representantes do clima espacial para colaborar nas discussões entre a atmosfera superior inferior;
 5. Apresentação da pesquisadora Ariane Frassoni sobre as atividades no WGNE/WMO.
-
 
 ??? example "Anexos"
 
@@ -180,4 +194,3 @@ Ronald Buss comenta sobre
     * [Apresentação Luiz Flávio](https://drive.google.com/file/d/1VfjH8O01qO1Nu9_pb6PzLUGrFgrJkvN-/view?usp=sharing)
     * [Apresentação Roberto Souto](https://drive.google.com/file/d/1XuAiWRh12hoA39RLEcK0zZ5XT8kWtDX-/view?usp=sharing)
     * [Apresentação Ronald Buss](https://drive.google.com/file/d/10ytRlug4lWLB-G8Pc60hMY9gGDJfT42V/view?usp=sharing)
-
