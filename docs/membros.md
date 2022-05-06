@@ -18,7 +18,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     - Luiz Flávio Rodrigues ([lattes](http://lattes.cnpq.br/0199598825670421) | [github](https://github.com/lufla-1962))
     - Paulo Yoshio Kubota ([lattes](http://lattes.cnpq.br/1078442022852928))
     - Ronald Buss de Souza ([lattes](http://lattes.cnpq.br/0537824080913130) | [webpage](https://www.ufrgs.br/inctcriosfera/inpe.html))
-    - Saulo Ribeiro de Freitas ([lattes](http://lattes.cnpq.br/9873289111461387))
+    - Saulo Ribeiro de Freitas - **Coordenador do MONAN no INPE** ([lattes](http://lattes.cnpq.br/9873289111461387))
 
 * **Instituto Nacional de Meteorologia (INMET):** 
     - Francisco Quixaba Filho ([lattes](http://lattes.cnpq.br/5119173037683026))
@@ -40,7 +40,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **Universidade de São Paulo (USP):** 
     - Márcia Akemi Yamasoe ([lattes](http://lattes.cnpq.br/7363881469488210) | [webpage](https://www.iag.usp.br/atmosfericas/membro/m%C3%A1rcia-akemi-yamasoe))
-    - Pedro Leite da Silva Dias ([lattes](http://lattes.cnpq.br/9273702863744424) | [webpage](https://www.iag.usp.br/atmosfericas/membro/pedro-leite-da-silva-dias))
+    - Pedro Leite da Silva Dias - ** Coordenador do MONAN na USP ** ([lattes](http://lattes.cnpq.br/9273702863744424) | [webpage](https://www.iag.usp.br/atmosfericas/membro/pedro-leite-da-silva-dias))
     - Pedro da Silva Peixoto ([lattes](http://lattes.cnpq.br/6547630839036017) | [webpage](https://www.ime.usp.br/~pedrosp/sobre/))
     - Ricardo de Camargo ([lattes](http://lattes.cnpq.br/4224364363630813) | [webpage](https://www.iag.usp.br/atmosfericas/membro/ricardo-de-camargo))
 
