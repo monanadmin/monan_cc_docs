@@ -22,11 +22,12 @@ nav:
   - Seminários:
     - 'ATOS-BULL': seminarios_atos_bull.md
     - 'NVIDIA': seminarios_nvidia.md
+    - 'Anúncios e Oportunidades': anuncios_oportunidades.md
   - Arquivos:
     - 'Carta de Apresentação do MONAN': carta_apres_monan.md
     - 'Outros Arquivos': outros_arquivos.md
   - Membros: membros.md
-  - Anúncios e Oportunidades: anuncios_oportunidades.md
+    #  - Anúncios e Oportunidades: anuncios_oportunidades.md
   - Recursos:
     - 'Logo MONAN': logo_monan.md
 #    - 'Templates': templates.md
