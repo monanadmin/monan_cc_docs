@@ -27,8 +27,8 @@ nav:
     - 'Outros Arquivos': outros_arquivos.md
   - Membros: membros.md
   - Anúncios e Oportunidades: anuncios_oportunidades.md
-#  - Recursos:
-#    - 'Logo MONAN': logo_monan.md
+  - Recursos:
+    - 'Logo MONAN': logo_monan.md
 #    - 'Templates': templates.md
   - Clipping: clipping.md
 
