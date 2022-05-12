@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Unifying Innovations in Forecasting Capabilities Workshop
+
+* **Título:** Unifying Innovations in Forecasting Capabilities Workshop
+* **Resumo:** This summer the Earth Prediction Innovation Center (EPIC), the Unified Forecast System (UFS), and the UFS Research to Operations (R2O) community are coming together to deliver a five-day Unifying Innovations in Forecasting Capabilities Workshop. Throughout the week, attendees will have the opportunity to explore avenues for their own research development, learn about updates to the UFS, share successes within the scope of contributing the most reliable and accurate forecast modeling system in the world, and voice their thoughts on where our exciting future will go from here. It is the goal of the workshop to engage the greater weather enterprise and academia in the on-going effort to accelerate contributions to the Unified Forecast System. This first-of-its-kind event is your chance to dive into innovations in forecasting.
+* **Data:** inscrições até 17 de Junho de 2022
+* **Mais informações em:** [https://epic.noaa.gov/eventsposts/epic-summer-workshop/](https://epic.noaa.gov/eventsposts/epic-summer-workshop/)
+
+----
+
 ### Seminário na Computação Aplicada/INPE com Dr. Saulo Ribeiro de Freitas
 
 * **Título:** MONAN: Um novo paradigma de foco e organização para o avanço da previsão numérica de tempo, clima e ambiente no Brasil
