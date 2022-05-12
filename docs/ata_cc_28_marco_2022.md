@@ -1,9 +1,5 @@
 # 28 de Março de 2022
 
-!!! attention "Atenção"
-
-    Ata em revisão.
-
 ## ATA 001/2022 - Revisão 002
 
 ![type:video](https://youtube.com/embed/dKyWDTfTm2w)
