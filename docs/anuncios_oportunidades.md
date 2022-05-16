@@ -9,6 +9,7 @@
 * **Data:** 17 e 18 de Maio de 2022
 * **Mais informações:** [https://conf.researchr.org/home/ast-2022](https://conf.researchr.org/home/ast-2022)
 
+----
 
 ### Unifying Innovations in Forecasting Capabilities Workshop
 
@@ -39,6 +40,8 @@
 * **Resumo:** Prever o clima em diversas escalas é um dos maiores desafios técnico-científicos enfrentados pela humanidade. As principais razões das dificuldades residem principalmente na intrínseca natureza caótica da atmosfera e suas interfaces, o sistema de equações diferenciais que governa a dinâmica da atmosfera não admite solução analítica (requer solução aproximada em supercomputadores) e impraticabilidade de caracterizar o estado da atmosfera e suas interfaces com exatidão. No entanto, com investimento e muita pesquisa, diversos centros internacionais vem avançando na qualidade da previsão numérica da atmosfera aumentando sua acurácia, prazos de previsibilidade e usabilidade. Neste seminário, serão discutidos os elementos básicos da previsão numérica de tempo e desafios atuais para o seu contínuo aprimoramento. Se dará ênfase na apresentação do programa MONAN (Model for Ocean-laNd-Atmosphere predictioN). O MONAN é um programa nacional comunitário capitaneado pelo INPE que propõe um novo paradigma de modelagem do Sistema Terrestre para colocar o país no estado-da-arte em previsão de tempo, clima e ambiente.
 * **Data:** 12 de Maio de 2022
 * **Mais informações:** [https://www.facebook.com/PGCAPINPE/photos/a.322786695163393/1154753311966723/](https://www.facebook.com/PGCAPINPE/photos/a.322786695163393/1154753311966723/)
+
+![type:video](https://youtube.com/embed/48eut2vWzvQ)
 
 ----
 
