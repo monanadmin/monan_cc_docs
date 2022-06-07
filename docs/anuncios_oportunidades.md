@@ -2,12 +2,13 @@
 
 ## Próximos
 
-### 3rd ACM/IEEE International Conference on Automation of Software Test
+### Workshop de Parametrizações Físicas do Modelo BAM 
 
-* **Título:** 3rd ACM/IEEE International Conference on Automation of Software Test
-* **Resumo:** Software pervasiveness in both industry and digital society, as well as the proliferation of Artificial Intelligence (AI) technologies are continuously leading to emerging needs from both software producers and consumers where infrastructures, software components, and applications aim to hide their increasing complexity in order to appear more human-centric. In this context, the potential risk from design errors, poor integrations, and time-consuming engineering phases can result in unreliable solutions that can barely meet their intended objectives. In order to tackle these issues, software testing automation aims at finding solutions to automatically test any concept of software This discipline has produced noteworthy research in the last decade and AST continues with a long record of international scientific forums on methods and solutions to automate software testing. This year AST 2022 is focusing on the special theme: "Software Quality and Trustworthy AI".
-* **Data:** 17 e 18 de Maio de 2022
-* **Mais informações:** [https://conf.researchr.org/home/ast-2022](https://conf.researchr.org/home/ast-2022)
+* **Título:** Workshop de Parametrizações Físicas do Modelo BAM
+* **Resumo:** Workshop de Parametrizações Físicas do Modelo BAM
+O Workshop de Parametrizações Físicas do modelo BAM será fundamental para discutir as parametrizações físicas desenvolvidas e implementadas na DIMNT/INPE, ampliar a visão dos processos físicos representados nas parametrizações, bem como seus impactos nas previsões de tempo e clima. O evento visa propor uma visão geral da metodologia que poderá ser adotada no desenvolvimento do modelo MONAN.
+* **Data:** 6 a 8 de Junho de 2022
+* **E-mail para informações:** [paulo.kubota@inpe.br](mailto:paulo.kubota@inpe.br)
 
 ----
 
@@ -33,6 +34,15 @@
 [^1]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
 
 ## Passados
+
+### 3rd ACM/IEEE International Conference on Automation of Software Test
+
+* **Título:** 3rd ACM/IEEE International Conference on Automation of Software Test
+* **Resumo:** Software pervasiveness in both industry and digital society, as well as the proliferation of Artificial Intelligence (AI) technologies are continuously leading to emerging needs from both software producers and consumers where infrastructures, software components, and applications aim to hide their increasing complexity in order to appear more human-centric. In this context, the potential risk from design errors, poor integrations, and time-consuming engineering phases can result in unreliable solutions that can barely meet their intended objectives. In order to tackle these issues, software testing automation aims at finding solutions to automatically test any concept of software This discipline has produced noteworthy research in the last decade and AST continues with a long record of international scientific forums on methods and solutions to automate software testing. This year AST 2022 is focusing on the special theme: "Software Quality and Trustworthy AI".
+* **Data:** 17 e 18 de Maio de 2022
+* **Mais informações:** [https://conf.researchr.org/home/ast-2022](https://conf.researchr.org/home/ast-2022)
+
+----
 
 ### Seminário na Computação Aplicada/INPE com Dr. Saulo Ribeiro de Freitas
 
