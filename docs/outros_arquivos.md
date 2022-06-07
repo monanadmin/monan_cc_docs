@@ -13,5 +13,6 @@ Nesta página estão organizados arquivos com informações pertinentes ao desen
 
 ## Outras Publicações
 
+* [White Paper One Contributor: Tim Palmer](https://ppe-openplatform.wmo.int/en/WP1TP)
 * [HPCWire - Supercomputing Experts React to Dire Climate Report](https://www.hpcwire.com/2021/08/26/supercomputing-experts-react-to-dire-climate-report/)
 * [Software - Using Agile methods in Scientific Software Development](https://www.software.ac.uk/blog/2018-12-05-using-agile-methods-scientific-software-development)
