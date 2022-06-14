@@ -2,16 +2,6 @@
 
 ## Próximos
 
-### Workshop de Parametrizações Físicas do Modelo BAM 
-
-* **Título:** Workshop de Parametrizações Físicas do Modelo BAM
-* **Resumo:** Workshop de Parametrizações Físicas do Modelo BAM
-O Workshop de Parametrizações Físicas do modelo BAM será fundamental para discutir as parametrizações físicas desenvolvidas e implementadas na DIMNT/INPE, ampliar a visão dos processos físicos representados nas parametrizações, bem como seus impactos nas previsões de tempo e clima. O evento visa propor uma visão geral da metodologia que poderá ser adotada no desenvolvimento do modelo MONAN.
-* **Data:** 6 a 8 de Junho de 2022
-* **E-mail para informações:** [paulo.kubota@inpe.br](mailto:paulo.kubota@inpe.br)
-
-----
-
 ### Unifying Innovations in Forecasting Capabilities Workshop
 
 * **Título:** Unifying Innovations in Forecasting Capabilities Workshop
@@ -34,6 +24,16 @@ O Workshop de Parametrizações Físicas do modelo BAM será fundamental para di
 [^1]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
 
 ## Passados
+
+### Workshop de Parametrizações Físicas do Modelo BAM 
+
+* **Título:** Workshop de Parametrizações Físicas do Modelo BAM
+* **Resumo:** Workshop de Parametrizações Físicas do Modelo BAM
+O Workshop de Parametrizações Físicas do modelo BAM será fundamental para discutir as parametrizações físicas desenvolvidas e implementadas na DIMNT/INPE, ampliar a visão dos processos físicos representados nas parametrizações, bem como seus impactos nas previsões de tempo e clima. O evento visa propor uma visão geral da metodologia que poderá ser adotada no desenvolvimento do modelo MONAN.
+* **Data:** 6 a 8 de Junho de 2022
+* **E-mail para informações:** [paulo.kubota@inpe.br](mailto:paulo.kubota@inpe.br)
+
+----
 
 ### 3rd ACM/IEEE International Conference on Automation of Software Test
 
