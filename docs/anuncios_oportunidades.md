@@ -25,6 +25,15 @@
 
 ## Passados
 
+### Colóquio do Instituto de Física da Universidade Federal de Goiás com Dr. Saulo Ribeiro de Freitas
+
+* **Título:** Novo Modelo de Previsão Climática: Previsão Numérica da Atmosfera e Interfaces no Brasil
+* **Resumo:** Em sua segunda edição, o Colóquio do IF recebe na próxima quarta-feira (15/06), o pesquisador Saulo R. Freitas, que atua no Centro de Previsão do Tempo e Estudos Climáticos (CPTEC) do Instituto Nacional de Pesquisas Espaciais (INPE). O evento ocorre a partir das 12h30 horas, no Anfiteatro do IF2, no Câmpus Samambaia. Os interessados podem se inscrever no link: even3.com.br/cdif1306. A participação vale certificado de horas mediante comprovação de presença. Ele abordará o tema Previsão Numérica da Atmosfera e Interfaces no Brasil e discutirá os elementos básicos da previsão numérica de tempo e desafios atuais para o seu contínuo aprimoramento. Durante o Colóquio do IF, ele irá apresentar o programa Model for Ocean-LandAtmosphere Prediction (MONAN), iniciativa nacional e comunitária capitaneada pelo INPE que propõe um novo paradigma de modelagem do Sistema Terrestre para colocar o país no estado-da-arte em previsão de tempo, clima e ambiente.
+* **Data:** 15 de Junho de 2022
+* **Mais informações:** [https://www.if.ufg.br/n/155623-coloquio-do-if-evento-aborda-novo-modelo-para-previsao-climatica](https://www.if.ufg.br/n/155623-coloquio-do-if-evento-aborda-novo-modelo-para-previsao-climatica)
+
+----
+
 ### Workshop de Parametrizações Físicas do Modelo BAM 
 
 * **Título:** Workshop de Parametrizações Físicas do Modelo BAM
@@ -32,6 +41,7 @@
 O Workshop de Parametrizações Físicas do modelo BAM será fundamental para discutir as parametrizações físicas desenvolvidas e implementadas na DIMNT/INPE, ampliar a visão dos processos físicos representados nas parametrizações, bem como seus impactos nas previsões de tempo e clima. O evento visa propor uma visão geral da metodologia que poderá ser adotada no desenvolvimento do modelo MONAN.
 * **Data:** 6 a 8 de Junho de 2022
 * **E-mail para informações:** [paulo.kubota@inpe.br](mailto:paulo.kubota@inpe.br)
+>>>>>>> 5c88a0ecf4a6e4e5e0fb3ee17280fb5ae28eaf38
 
 ----
 
