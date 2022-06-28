@@ -41,7 +41,6 @@
 O Workshop de Parametrizações Físicas do modelo BAM será fundamental para discutir as parametrizações físicas desenvolvidas e implementadas na DIMNT/INPE, ampliar a visão dos processos físicos representados nas parametrizações, bem como seus impactos nas previsões de tempo e clima. O evento visa propor uma visão geral da metodologia que poderá ser adotada no desenvolvimento do modelo MONAN.
 * **Data:** 6 a 8 de Junho de 2022
 * **E-mail para informações:** [paulo.kubota@inpe.br](mailto:paulo.kubota@inpe.br)
->>>>>>> 5c88a0ecf4a6e4e5e0fb3ee17280fb5ae28eaf38
 
 ----
 
