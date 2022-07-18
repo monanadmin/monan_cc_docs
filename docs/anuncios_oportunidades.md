@@ -2,6 +2,22 @@
 
 ## Próximos
 
+### Challenging physics in seamless predictions - ECMWF Annual Seminar 2022
+
+* **Título:** Challenging physics in seamless predictions
+* **Resumo:** In this year's Annual Seminar we will take up the challenges in physics across forecast model resolutions and times scales from the 12-hour 4D-Var window in data assimilation to the seasonal prediction range. Improving these forecasts requires challenging the physics itself, whether it be the underlying processes and their mathematical formulation, scale awareness, interactions between the Earth and the Atmosphere, new observational datasets and/or new forecast products required by the end user.
+* **Data:** 12 a 16 de Setembro de 2022
+* **Mais informações:** [https://events.ecmwf.int/event/300/](https://events.ecmwf.int/event/300/)
+
+### 4th NOAA Workshop on Leveraging AI in Environmental Sciences
+
+* **Título:** 4th NOAA Workshop on Leveraging AI in Environmental Sciences
+* **Resumo:** The interactive workshop will be a virtual event to build collaboration and initiate the active development of AI-powered applications and community standards. We invite developers, data scientists, domain experts, social scientists, and downstream users to form small teams around different use cases that are relevant to three themes relevant to NOAA Mission Areas: **Fire Weather and Impacts:** Fire weather sits at the intersection between terrestrial ecosystems, atmospheric systems, and society. The impacts of fire weather on communities in or near the path of fire progression can be disastrous both in the short and long term. How can we leverage AI and rich environmental data to develop solutions to help diverse stakeholders to better quantify and manage the impact of fire weather? **AI for Ocean Conservation:** The ocean plays a crucial role in climate and the world’s sustainable development goals. AI has demonstrated great potential in ocean conservation, such as identifying wildlife, detecting marine debris, and monitoring illegal fishing. How can we proliferate AI development for ocean conservation by reducing the barrier of using state-of-the-art AI tools? **Interoperable Digital Twin Earth:** Digital Twin Earth (DTE) is a digital representation of the complex Earth system that allows us to visualize, monitor, and forecast natural and human activity on the planet. As different agencies and organizations, including NOAA, NASA, ECMWF, and UK Met Office, start to develop various DTE systems, how can we develop an international standard to ensure digital twins are interoperable and easily integrated into other digital twin systems for different socioeconomic sectors? 
+* **Data:** 6 a 9 de Setembro de 2022
+* **Mais informações:** [https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.](https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.)
+
+----
+
 ### Unifying Innovations in Forecasting Capabilities Workshop
 
 * **Título:** Unifying Innovations in Forecasting Capabilities Workshop
@@ -21,7 +37,7 @@
 * **Web-page de registro:** [https://www.even2.com.br/courseda2022/](https://www.even3.com.br/courseda2022/)
 * **E-mail para informações:** [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com)
 
-[^0]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
+[^1]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
 
 ----
 
