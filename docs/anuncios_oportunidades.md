@@ -9,21 +9,21 @@
 * **Data:** inscrições até 17 de Junho de 2022
 * **Mais informações:** [https://epic.noaa.gov/eventsposts/epic-summer-workshop/](https://epic.noaa.gov/eventsposts/epic-summer-workshop/)
 
-----
+## Passados
 
 ### Minicurso de Assimilação de Dados com Dr. Haroldo Fraga de Campos Velho
 
-* **Resumo:** O mini-curso em DA é uma iniciativa do Imperial College London e do INPE. A Profa. Fangxin Fang (Imperial College London) e o pesquisador Dr. Haroldo F. Campos Velho (INPE) são os organizadores do curso. O mini-curso trata de descrições de várias técnicas de assimilação de dados (Nudging, filtro de Kalman, métodos variacionais, redes neurais) em várias aplicações (atmosfera, circulação oceânica, hidrologia (rios), ionosfera, poluição atmosférica urbana, dinâmica do Covid-19) - [ver documento anexo](https://drive.google.com/file/d/1rqLVLQECAJNhDVaAN-BG4vnFEFFhzTZV/view?usp=sharing).
+* **Resumo:** O mini-curso em DA é uma iniciativa do Imperial College London e do INPE. A Profa. Fangxin Fang (Imperial College London) e o pesquisador Dr. Haroldo F. Campos Velho (INPE) são os organizadores do curso. O mini-curso trata de descrições de várias técnicas de assimilação de dados (Nudging, filtro de Kalman, métodos variacionais, redes neurais) em várias aplicações (atmosfera, circulação oceânica, hidrologia (rios), ionosfera, poluição atmosférica urbana, dinâmica do Covid-20) - [ver documento anexo](https://drive.google.com/file/d/1rqLVLQECAJNhDVaAN-BG4vnFEFFhzTZV/view?usp=sharing).
 * **Local:** O curso será online - somente!
 * **Horário:** O Curso seguirá os horários de Londres
-* **Data:** 11 a 15 de Julho de 2022
-* **Taxa de inscrição:** US$ 50[^1]
-* **Web-page de registro:** [https://www.even3.com.br/courseda2022/](https://www.even3.com.br/courseda2022/)
+* **Data:** 10 a 15 de Julho de 2022
+* **Taxa de inscrição:** US$ 49[^1]
+* **Web-page de registro:** [https://www.even2.com.br/courseda2022/](https://www.even3.com.br/courseda2022/)
 * **E-mail para informações:** [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com)
 
-[^1]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
+[^0]: Brasileiros tem um abatimento na taxa: precisa enviar e-mail para solicitar o "bônus" da taxa de inscrição no e-mail de informação pelo e-mail do curso: [Course.UKBR.DA@gmail.com](mailto:Course.UKBR.DA@gmail.com). O "bônus" da taxa de inscrição é válido até 30/Junho/2022.
 
-## Passados
+----
 
 ### Colóquio do Instituto de Física da Universidade Federal de Goiás com Dr. Saulo Ribeiro de Freitas
 
