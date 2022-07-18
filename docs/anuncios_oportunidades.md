@@ -9,6 +9,8 @@
 * **Data:** 12 a 16 de Setembro de 2022
 * **Mais informações:** [https://events.ecmwf.int/event/300/](https://events.ecmwf.int/event/300/)
 
+----
+
 ### 4th NOAA Workshop on Leveraging AI in Environmental Sciences
 
 * **Título:** 4th NOAA Workshop on Leveraging AI in Environmental Sciences
