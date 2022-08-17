@@ -18,6 +18,15 @@
 * **Data:** 6 a 9 de Setembro de 2022
 * **Mais informações:** [https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.](https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.)
 
+----
+
+### Classificação de imagens via redes neurais profundas e grandes bases de dados para aplicações aeroespaciais (IDeepS) - Workshop conjunto LNCC/INPE/IEAv/UNIFESP/ITA/UFSCar
+
+* **Título:** Classificação de imagens via redes neurais profundas e grandes bases de dados para aplicações aeroespaciais (IDeepS)
+* **Resumo:** O projeto IDeepS é apoiado pelo Laboratório Nacional de Computação Científica (LNCC/MCTI, Brasil) via recursos do supercomputador SDumont. Pesquisadores e alunos de Pós-Graduação do Instituto Nacional de Pesquisas Espaciais (INPE), Instituto de Estudos Avançados (IEAv), Universidade Federal de São Paulo - Campus São José dos Campos (UNIFESP), Instituto Tecnológico de Aeronáutica (ITA) e Universidade Federal de São Carlos - Campus Sorocaba (UFSCar) participam do projeto. O projeto aborda inteligência artificial (IA) para apoiar atividades de sensoriamento remoto e drones. 
+* **Data:** 18 de Agosto de 2022
+* **Mais informações:** [https://www.gov.br/inpe/pt-br/eventos/workshop-ideeps/2022](https://www.gov.br/inpe/pt-br/eventos/workshop-ideeps/2022)
+
 ## Passados
 
 ### Palestra na Cerimônia de Comemoração de Aniversário do INPE - 61 anos, com Dr. Saulo Ribeiro de Freitas
