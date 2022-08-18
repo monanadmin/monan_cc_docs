@@ -20,6 +20,15 @@
 
 ----
 
+### Workshop sobre Modelagem dos Oceanos e da Criosfera (MONAN)- Workshop CGCT/DIMNT/INPE
+
+* **Título:** Workshop sobre Modelagem dos Oceanos e da Criosfera (MONAN)
+* **Resumo:** O Workshop sobre Modelagem dos Oceanos e da Criosfera pretende discutir sobre os conhecimentos primordiais sobre a dinâmica e os processos físicos dos oceanos e da criosfera e sua modelagem numérica, no estado da arte, para escalas a nível global e regional. A ênfase é fazer um balanço dos projetos e atividades histórias, atuais e futuras dessa área no INPE e, especialmente, no CPTEC. Com isto, pretende-se descrever, de uma forma geral, o estado atual das metodologias usadas na modelagem numérica oceânica e da criosfera, e os sistemas observacionais in situ e por satélites úteis para a validação de modelos e assimilação que poderiam ajudar na construção da componente de oceano/criosfera do modelo MONAN. O Workshop permitirá a oportunidade para o intercambio de ideias, sugestões, experiências sobre os seguintes tópicos: Dinâmica oceânica e modelagem global; Dinâmica costeira e modelagem regional; Processos ligados ao gelo marinho e modelagem da criosfera; Modelagem de ondas; Modelagem dos ciclos biogeoquímicos; Modelagem Acoplada oceano-atmosfera-gelo marinho-ondas; Modelagem de transporte e dispersão de óleo; Sensoriamento remoto dos oceanos; Sistemas observacionais.
+* **Data:** 18 e 19 de Agosto de 2022
+* **Mais informações:** [https://drive.google.com/file/d/1OORGoQgFt7SWxvq6zVVZSkZJlDgkf4-Q/view?usp=sharing](https://drive.google.com/file/d/1OORGoQgFt7SWxvq6zVVZSkZJlDgkf4-Q/view?usp=sharing)
+
+----
+
 ### Classificação de imagens via redes neurais profundas e grandes bases de dados para aplicações aeroespaciais (IDeepS) - Workshop conjunto LNCC/INPE/IEAv/UNIFESP/ITA/UFSCar
 
 * **Título:** Classificação de imagens via redes neurais profundas e grandes bases de dados para aplicações aeroespaciais (IDeepS)
