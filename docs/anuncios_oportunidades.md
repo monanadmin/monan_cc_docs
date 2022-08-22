@@ -18,7 +18,7 @@
 * **Data:** 6 a 9 de Setembro de 2022
 * **Mais informações:** [https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.](https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.)
 
-----
+## Passados
 
 ### Workshop sobre Modelagem dos Oceanos e da Criosfera (MONAN)- Workshop CGCT/DIMNT/INPE
 
@@ -36,7 +36,7 @@
 * **Data:** 18 de Agosto de 2022
 * **Mais informações:** [https://www.gov.br/inpe/pt-br/eventos/workshop-ideeps/2022](https://www.gov.br/inpe/pt-br/eventos/workshop-ideeps/2022)
 
-## Passados
+----
 
 ### Palestra na Cerimônia de Comemoração de Aniversário do INPE - 61 anos, com Dr. Saulo Ribeiro de Freitas
 
