@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Workshop de Computação Aplicada WorCAP 2022 - Evento do Programa de Pós-Graduação em Computação Aplicada do INPE (PGCAP)
+
+* **Título:** Workshop de Computação Aplicada WorCAP 2022
+* **Resumo:** O Workshop de Computação Aplicada (WorCAP) é um evento do programa de Pós-Graduação em Computação Aplicada (CAP) do Instituto Nacional de Pesquisas Espaciais (INPE), unidade de pesquisa do Ministério de Ciência, Tecnologia e Inovações (MCTI). Existente desde 2000, o WorCAP inicialmente foi um workshop interno para os alunos do programa, depois aberto para a comunidade e finalmente foi evoluindo para um workshop aberto. Em sua 22ª edição, o workshop contará com apresentações de palestras, minicursos, apresentações de trabalhos ou pesquisas em desenvolvimento e um Hackathon. O WorCAP 2022 tem como objetivo promover interações e discussões relacionadas às linhas de pesquisa CAP entre os participantes (comunidade interna e externa ao INPE) e oferecer conteúdo em áreas correlatas. O evento abrange as áreas de pesquisa e aplicações em metodologias, técnicas e ferramentas computacionais aplicadas à tecnologia da informação, extração de informações, e modelagem computacional.
+* **Data:** 12 a 16 de Setembro de 2022
+* **Mais informações:** [https://www.gov.br/inpe/pt-br/eventos/worcap/2022/programacao](https://www.gov.br/inpe/pt-br/eventos/worcap/2022/programacao)
+
+----
+
 ### Challenging physics in seamless predictions - ECMWF Annual Seminar 2022
 
 * **Título:** Challenging physics in seamless predictions
