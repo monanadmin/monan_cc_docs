@@ -3,6 +3,7 @@
     * O arquivo no formato PDF desta versão da carta encontra-se em anexo ao final da página;
     * Versão inicialmente apresentada ao Comitê Científico em 30 de Agosto de 2021, revisada em 26 de Abril de 2022;
     * Novas versões com atualizações e correções serão mantidas nesta página ([link](https://github.com/monanadmin/monan_cc_docs/commits/master/docs/carta_apres_monan.md) para o histórico das atualizações).
+    * Uma apresentação sobre o MONAN (por Saulo Freitas/INPE) está disponível no [link](https://drive.google.com/file/d/1So-mbYqoU22i4tFz0VRhQ6MxBRMA0kHj/view?usp=sharing).
 
 # Modelo Para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera
 
