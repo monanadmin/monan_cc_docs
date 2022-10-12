@@ -2,6 +2,15 @@
 
 ## Próximos
 
+###   Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
+
+* **Título:** ECMWF–ESA Workshop on Machine Learning for Earth Observation and Prediction
+* **Resumo:** O Workshop de Computação Aplicada (WorCAP) é um evento do programa de Pós-Graduação em Computação Aplicada (CAP) do Instituto Nacional de Pesquisas Espaciais (INPE), unidade de pesquisa do Ministério de Ciência, Tecnologia e Inovações (MCTI). Existente desde 2000, o WorCAP inicialmente foi um workshop interno para os alunos do programa, depois aberto para a comunidade e finalmente foi evoluindo para um workshop aberto. Em sua 22ª edição, o workshop contará com apresentações de palestras, minicursos, apresentações de trabalhos ou pesquisas em desenvolvimento e um Hackathon. O WorCAP 2022 tem como objetivo promover interações e discussões relacionadas às linhas de pesquisa CAP entre os participantes (comunidade interna e externa ao INPE) e oferecer conteúdo em áreas correlatas. O evento abrange as áreas de pesquisa e aplicações em metodologias, técnicas e ferramentas computacionais aplicadas à tecnologia da informação, extração de informações, e modelagem computacional. 
+* **Data:** 14 a 17 de Novembro de 2022
+* **Mais informações:** [https://events.ecmwf.int/event/304/](https://events.ecmwf.int/event/304/)
+
+## Passados
+
 ### Workshop de Computação Aplicada WorCAP 2022 - Evento do Programa de Pós-Graduação em Computação Aplicada do INPE (PGCAP)
 
 * **Título:** Workshop de Computação Aplicada WorCAP 2022
@@ -27,7 +36,7 @@
 * **Data:** 6 a 9 de Setembro de 2022
 * **Mais informações:** [https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.](https://www.noaa.gov/ai/events/4th-noaa-ai-workshop#:~:text=September%206%2D9%2C%202022%3A,powered%20applications%20and%20community%20standards.)
 
-## Passados
+----
 
 ### Workshop sobre Modelagem dos Oceanos e da Criosfera (MONAN)- Workshop CGCT/DIMNT/INPE
 
