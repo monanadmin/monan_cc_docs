@@ -8,8 +8,8 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     - Caio Augusto dos Santos Coelho ([lattes](http://lattes.cnpq.br/4978912302419377) | [webpage](https://www.cptec.inpe.br/pesquisadores/caio.coelho/))
     - Carlos Frederico Bastarz ([lattes](http://lattes.cnpq.br/2410960909883784) | [github](https://github.com/cfbastarz))
     - Celso Mendes ([lattes]())
+    - Celso Von Randow ([lattes](http://lattes.cnpq.br/0535860239259102))
     - Chou Sin Chan ([lattes](http://lattes.cnpq.br/4336175279058172))
-    - Daniel Alejandro Vila ([lattes](http://lattes.cnpq.br/6440821154496824))
     - Haroldo Fraga de Campos Velho ([lattes](http://lattes.cnpq.br/5142426481528206) | [webpage](http://www.lac.inpe.br/~haroldo/Welcome.html))
     - João Gerd Zell de Mattos ([lattes](http://lattes.cnpq.br/4563659436339486) | [github](https://github.com/joaogerd))
     - Joaquim Eduardo Rezende Costa ([lattes](http://lattes.cnpq.br/7275059047419031))
@@ -17,6 +17,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     - Luciano Ponzi Pezzi ([lattes](http://lattes.cnpq.br/9168878830863753) | [webpage](http://www.dsr.inpe.br/DSR/institucional/pessoal/servidores/luciano-ponzi-pezzi))
     - Luiz Flávio Rodrigues ([lattes](http://lattes.cnpq.br/0199598825670421) | [github](https://github.com/lufla-1962))
     - Paulo Yoshio Kubota ([lattes](http://lattes.cnpq.br/1078442022852928))
+    - Renato Galante Negri ([lattes](http://lattes.cnpq.br/1938964222771319))
     - Ronald Buss de Souza ([lattes](http://lattes.cnpq.br/0537824080913130) | [webpage](https://www.ufrgs.br/inctcriosfera/inpe.html))
     - Saulo Ribeiro de Freitas - **Coordenador do MONAN no INPE** ([lattes](http://lattes.cnpq.br/9873289111461387))
 
@@ -64,3 +65,13 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **Força Aérea Brasileira (FAB):** 
     - José Hélio Abreu Nogueira ([lattes](http://lattes.cnpq.br/1408150702923697))
+
+## Minitérios do Brasil
+
+* **Ministério da Ciência, Tecnologia e Inovações (MCTI):**
+    - Antônio Marcos Mendonça ([lattes](http://lattes.cnpq.br/4230309177760883))
+
+## Entidades Internacionais
+
+* **_World Meteorological Organization_ (WMO):**
+    - Daniel Alejandro Vila ([lattes](http://lattes.cnpq.br/6440821154496824))
