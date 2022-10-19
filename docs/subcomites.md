@@ -10,7 +10,7 @@ O Comitê Científico do MONAN está organizado em subcomitês que tratam das di
 * **Oceano e Gelo Continental e Marítimo:** Ronald Buss/INPE
 * **Clima Espacial:** Joaquim Costa/INPE
 * **Processamento de Alto Desempenho e Qualidade de Código:** Luiz Flávio Rodrigues/INPE
-* **Assimilação de Dados do Sistema Terrestre:** João Gerd/INPE
+* **[Assimilação de Dados do Sistema Terrestre](https://monanadmin.github.io/monan_ad/):** João Gerd/INPE
 * **Métodos Avançados de Assimilação de Dados e Aplicações de Inteligência Artificial:** Haroldo Campos Velho/INPE
 * **Métodos de Pré e Pós-processamento de Previsões de Tempo e Clima:** Caio Coelho/INPE e Carlos Bastarz/INPE
 * **Hidrologia de Superfície e Sub-superfície:** FUNCEME/IPH (Instituto de Pesquisas Hidráulicas) a ser definido
