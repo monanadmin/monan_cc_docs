@@ -66,7 +66,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 * **Força Aérea Brasileira (FAB):** 
     - José Hélio Abreu Nogueira ([lattes](http://lattes.cnpq.br/1408150702923697))
 
-## Minitérios do Brasil
+## Ministérios do Brasil
 
 * **Ministério da Ciência, Tecnologia e Inovações (MCTI):**
     - Antônio Marcos Mendonça ([lattes](http://lattes.cnpq.br/4230309177760883))
