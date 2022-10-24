@@ -114,7 +114,7 @@ Pedro Dias comenta que é importante ter ferramentas de diagnósticos objetivos 
 
 ??? example "Anexos"
 
-    * [Gravação da Reunião do Comitê Científico do MONAN - 13 de Outubro de 2022]()
+    * [Gravação da Reunião do Comitê Científico do MONAN - 13 de Outubro de 2022](https://youtu.be/OYq1sglZH_4)
     * [Slides Saulo Freitas](https://drive.google.com/file/d/1zygyxtj6_vr3dPpkBsUdBli04UKlKJmd/view?usp=sharing)
     * [Apresentação Luiz Flávio](https://drive.google.com/file/d/1q8t90nqOan7lAlJU7CQyLIDpNCzhB3qI/view?usp=sharing)
     * [Apresentação Ariane Frassoni](https://drive.google.com/file/d/1omeScQiOmKT2Jthy7SeFeoUxtYSX6OZ5/view?usp=sharing)
