@@ -2,12 +2,21 @@
 
 ## Próximos
 
-###   Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
+### Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
 
 * **Título:** ECMWF–ESA Workshop on Machine Learning for Earth Observation and Prediction
 * **Resumo:** O Workshop de Computação Aplicada (WorCAP) é um evento do programa de Pós-Graduação em Computação Aplicada (CAP) do Instituto Nacional de Pesquisas Espaciais (INPE), unidade de pesquisa do Ministério de Ciência, Tecnologia e Inovações (MCTI). Existente desde 2000, o WorCAP inicialmente foi um workshop interno para os alunos do programa, depois aberto para a comunidade e finalmente foi evoluindo para um workshop aberto. Em sua 22ª edição, o workshop contará com apresentações de palestras, minicursos, apresentações de trabalhos ou pesquisas em desenvolvimento e um Hackathon. O WorCAP 2022 tem como objetivo promover interações e discussões relacionadas às linhas de pesquisa CAP entre os participantes (comunidade interna e externa ao INPE) e oferecer conteúdo em áreas correlatas. O evento abrange as áreas de pesquisa e aplicações em metodologias, técnicas e ferramentas computacionais aplicadas à tecnologia da informação, extração de informações, e modelagem computacional. 
 * **Data:** 14 a 17 de Novembro de 2022
 * **Mais informações:** [https://events.ecmwf.int/event/304/](https://events.ecmwf.int/event/304/)
+
+----
+
+### XXI Encontro dos Alunos de Pós-Graduação em Meteorologia - EPGMET-CPTEC/INPE
+
+* **Título:** XXI Encontro dos Alunos de Pós-Graduação em Meteorologia
+* **Resumo:** Frente às mudanças no cenário global da pandemia, surge a necessidade de aplicar novos moldes na execução de nossos encontros, retomando o contato presencial e transmitindo também as palestras por meio do nosso canal no YouTube, sempre mantendo a tradição de um evento científico de alto nível! Historicamente, além de promover um encontro entre os estudantes de pós-graduação de meteorologia do INPE, abrimos nossas fronteiras para recepcionar estudantes e profissionais da área no país e Brasil afora, em busca de quebrar fronteiras do conhecimento. Para isso, estamos preparando uma programação diversa entre palestras, mesas redondas, apresentações orais e afins, abordando diferentes temas. Você poderá conferir a programação online em breve!! Além disso, convidamos você, pesquisador e pesquisadora, a trazer sua participação na forma de apresentação oral. Você pode conferir os eixos de pesquisa para submissão de trabalhos aqui. A submissão de trabalhos estará disponível em breve aqui nosso site. Fique de olho no prazo! O XXI EPGMET, em sua edição comemorativa, lançou a primeira edição do Concurso de Fotografia. A participação foi tão incrível e enriquecedora para o nosso evento que decidimos anunciar a sua segunda edição! Em breve traremos mais informações. Vem fazer parte deste evento incrível com a gente!
+* **Data:** 24 a 27 de Outubro de 2022
+* **Mais informações:** [http://eventos.cptec.inpe.br/epgmet/](http://eventos.cptec.inpe.br/epgmet/)
 
 ## Passados
 
