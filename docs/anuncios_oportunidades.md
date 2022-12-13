@@ -1,6 +1,6 @@
 # Anúncios e Oportunidades
 
-## Próximos
+## Passados
 
 ### Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
 
@@ -18,7 +18,7 @@
 * **Data:** 24 a 27 de Outubro de 2022
 * **Mais informações:** [http://eventos.cptec.inpe.br/epgmet/](http://eventos.cptec.inpe.br/epgmet/)
 
-## Passados
+----
 
 ### Workshop de Computação Aplicada WorCAP 2022 - Evento do Programa de Pós-Graduação em Computação Aplicada do INPE (PGCAP)
 
