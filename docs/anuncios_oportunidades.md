@@ -6,7 +6,7 @@
 
 * **Título:** MOOC Machine Learning in Weather & Climate
 * **Resumo:** In this Massive Open Online Course (MOOC) you will explore the application of Machine Learning – a branch of Artificial Intelligence (AI) – across the main stages of numerical weather and climate predictions. These range from the acquisition and handling of input observations to their assimilation into models, and finally to forecasting and post-processing. In each element you will uncover both the added value and limitations of Machine Learning.
-* **Data:** Janeiro e Fevereiro de 2013
+* **Data:** Janeiro a Abril de 2023
 * **Mais informações:** [https://lms.ecmwf.int/pages/index.html](https://lms.ecmwf.int/pages/index.html) 
 
 ----
