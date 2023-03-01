@@ -2,7 +2,7 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
-* 28/02/2023 - Folha de São Paulo: [Brasil desenvolve modelo próprio de previsão climática](https://www1.folha.uol.com.br/ambiente/2023/02/brasil-desenvolve-modelo-proprio-de-previsao-climatica.shtml)
+* 28/02/2023 - Folha de São Paulo: [Brasil desenvolve modelo próprio de previsão climática](https://www1.folha.uol.com.br/ambiente/2023/02/brasil-desenvolve-modelo-proprio-de-previsao-climatica.shtml).
 * 03/08/2022 - Ministério da Ciência, Tecnologia e Inovações: [Aos 61 anos, INPE homenageia servidores e destaca conquistas recentes](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/aos-61-anos-inpe-homenageia-servidores-e-destaca-conquistas-recentes).
 * 08/06/2022 - Colóquio do Instituto de Física da Universidade Federal de Goiás (UFG): [Novo Modelo de Previsão Climática: Previsão Numérica da Atmosfera e Interfaces no Brasil](https://www.if.ufg.br/n/155623-coloquio-do-if-evento-aborda-novo-modelo-para-previsao-climatica).
 * 14/04/2022 - Computação Aplicada (INPE): [MONAN: Um novo paradigma de foco e organização para o avanço da previsão numérica de tempo, clima e ambiente no Brasil](https://www.facebook.com/PGCAPINPE/photos/a.322786695163393/1154753311966723/).
