@@ -20,10 +20,12 @@ nav:
   - Atas 2022:
     - '28 de Março de 2022': ata_cc_28_marco_2022.md
     - '13 de Outubro de 2022': ata_cc_13_outubro_2022.md
-  - Seminários:
-    - 'Anúncios e Oportunidades': anuncios_oportunidades.md
-    - 'ATOS-BULL': seminarios_atos_bull.md
-    - 'NVIDIA': seminarios_nvidia.md
+  - Anúncios:
+    - Oportunidades: oportunidades.md
+    - Seminários:
+      - 'Seminários Institucionais': seminarios.md
+      - 'Seminários ATOS-BULL': seminarios_atos_bull.md
+      - 'Seminários NVIDIA': seminarios_nvidia.md
   - Arquivos:
     - 'Carta de Apresentação do MONAN': carta_apres_monan.md
     - 'Outros Arquivos': outros_arquivos.md
