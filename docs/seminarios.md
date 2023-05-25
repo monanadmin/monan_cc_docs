@@ -2,14 +2,21 @@
 
 ## Próximos
 
+### Palestra NVIDIA: Ferramentas de programação paralela em GPUs, multi GPU e multi Nós. OpenAcc, NCCL -  LNCC
+
+* **Título:** Série de Palestras NVIDIA e LNCC: Ferramentas de programação paralela em GPUs, multi GPU e multi Nós. OpenAcc, NCCL
+* **Resumo:** O NVIDIA HPC SDK (Software Development Kit) inclui compiladores, bibliotecas e ferramentas de desenvolvimento essenciais para maximizar a produtividade da programação, a performance e a portabilidade das aplicações de HPC (High Performance Computing). Linguagens: C, C++, Fortran, Python, OpenACC e CUDA; Bibliotecas matemáticas e de comunicação; Ferramentas de Profiling e Debuging; Processadores: ARM, OpenPOWER e x86-64; Sistemas operacionais Linux.
+* **Data:** 29 de Maio de 2023
+* **Mais informações:** [https://www.sympla.com.br/evento-online/ferramentas-de-programacao-paralela-em-gpus-multi-gpu-e-multi-nos-openacc-nccl/1997987](https://www.sympla.com.br/evento-online/ferramentas-de-programacao-paralela-em-gpus-multi-gpu-e-multi-nos-openacc-nccl/1997987)
+
+----
+
 ### MOOC Machine Learning in Weather & Climate - Workshop ECMWF
 
 * **Título:** MOOC Machine Learning in Weather & Climate
 * **Resumo:** In this Massive Open Online Course (MOOC) you will explore the application of Machine Learning – a branch of Artificial Intelligence (AI) – across the main stages of numerical weather and climate predictions. These range from the acquisition and handling of input observations to their assimilation into models, and finally to forecasting and post-processing. In each element you will uncover both the added value and limitations of Machine Learning.
 * **Data:** Janeiro a Abril de 2023
 * **Mais informações:** [https://lms.ecmwf.int/pages/index.html](https://lms.ecmwf.int/pages/index.html) 
-
-----
 
 ## Passados
 
