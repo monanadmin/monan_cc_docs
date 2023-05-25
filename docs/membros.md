@@ -7,7 +7,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 * **Instituto Nacional de Pesquisas Espaciais (INPE):** 
     - Caio Augusto dos Santos Coelho ([lattes](http://lattes.cnpq.br/4978912302419377) | [webpage](https://www.cptec.inpe.br/pesquisadores/caio.coelho/))
     - Carlos Frederico Bastarz ([lattes](http://lattes.cnpq.br/2410960909883784) | [github](https://github.com/cfbastarz) | [webpage](https://cfbastarz.github.io))
-    - Celso Mendes ([lattes]())
+    - Celso Luiz Mendes ([lattes](http://lattes.cnpq.br/9051364483671452) | [webpage](http://www.lac.inpe.br/~celso/))
     - Celso Von Randow ([lattes](http://lattes.cnpq.br/0535860239259102))
     - Chou Sin Chan ([lattes](http://lattes.cnpq.br/4336175279058172))
     - Haroldo Fraga de Campos Velho ([lattes](http://lattes.cnpq.br/5142426481528206) | [webpage](http://www.lac.inpe.br/~haroldo/Welcome.html))
