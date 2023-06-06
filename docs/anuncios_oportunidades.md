@@ -1,6 +1,6 @@
 # Anúncios e Oportunidades
 
-## Próximos
+## Passados
 
 ### Oportunidade - Inscrições para bolsas PCI em áreas do INPE
 
@@ -19,8 +19,6 @@
 * **Mais informações:** [https://lms.ecmwf.int/pages/index.html](https://lms.ecmwf.int/pages/index.html) 
 
 ----
-
-## Passados
 
 ### Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
 

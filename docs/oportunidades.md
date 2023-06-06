@@ -1,6 +1,6 @@
 # Oportunidades
 
-## Próximos
+## Passadas
 
 ### Inscrições para bolsas PCI em áreas do INPE
 
