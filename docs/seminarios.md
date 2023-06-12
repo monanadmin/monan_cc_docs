@@ -2,6 +2,33 @@
 
 ## Próximos
 
+### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
+
+* **Título:** CCPP Visioning Workshop
+* **Resumo:** This workshop is an opportunity for physics developers, model developers interested in physics-dynamics coupling, code managers, computational scientists, and users to gather virtually to discuss the current status and the future of the Common Community Physics Package (CCPP). Our objective is to better connect those already engaged in the use of the CCPP, as well as to educate and engage others interested in the use of CCPP for more efficient and effective model development. Target models include the UFS, the CCPP Single Column Model, NCAR models that plan to use the emerging System for Integrated Modeling of the Atmosphere (SIMA), NEPTUNE, and possibly others, with target participants from different organizations: NOAA (i.e., EMC and NOAA labs), NCAR, NRL, the National Aeronautics and Space Administration, the private sector, and academia. While the workshop will not be focused on any specific modeling system, there may be breakout sessions to discuss the needs of individual modeling systems (e.g. UFS, CCPP SCM, NCAR and NRL models). A desired outcome of the workshop is a common understanding of the state of CCPP and prioritized advancements required to meet scientific and technological frontiers in the next 5-10 years.
+* **Data:** 15 a 17 de Agosto de 2023
+* **Mais informações:** [https://dtcenter.org/events/2023/ccpp-visioning-workshop](https://dtcenter.org/events/2023/ccpp-visioning-workshop)
+
+----
+
+### Palestra MONAN - 14a. Escola Regional de Alto Desempenho de São Paulo
+
+* **Título:** Modelo Monan - Model for Ocean-laNd-Atmosphere predictioN 
+* **Resumo:** A 14a. Escola Regional de Alto Desempenho de São Paulo é um evento anual promovido pela Comissão Especial de Arquitetura de Computadores e Processamento de Alto Desempenho (CE-ACPAD) da Sociedade Brasileira de Computação (SBC) e pela Comissão Regional de Alto Desempenho de São Paulo – CRAD-SP. A XIV ERAD-SP será realizada em São José dos Campos, no período de 17 a 19 de julho de 2023, com organização pela Universidade Federal de São Paulo (Unifesp) e Instituto Tecnológico da Aeronáutica (ITA).
+* **Data:** 19 de Julho de 2023
+* **Mais informações:** [https://sites.google.com/view/erad-sp2023/home](https://sites.google.com/view/erad-sp2023/home)
+
+----
+
+### Statistical post-processing of visibility ensemble forecasts - Seminário ECMWF
+
+* **Título:** Statistical post-processing of visibility ensemble forecasts
+* **Resumo:** To be able to produce accurate and reliable predictions of visibility has crucial importance in aviation meteorology, as well as in water- and road transportation. Nowadays, several meteorological services provide ensemble forecasts of visibility; however, the skill, and reliability of visibility predictions are far reduced compared to other variables, such as temperature or wind speed. Hence, some form of calibration is strongly advised, which usually means the estimation of the predictive distribution of the weather quantity at hand either by parametric or non-parametric approaches, including also machine learning-based techniques. As visibility observations – according to the suggestion of the World Meteorological Organization – are usually reported in discrete values, the predictive distribution for this particular variable is a discrete probability law, hence calibration can be reduced to a classification problem. Based on visibility ensemble forecasts of the European Centre for Medium-Range Weather Forecasts covering two slightly overlapping domains in Central and Western Europe and two different time periods, we investigate the predictive performance of locally, semi-locally and regionally trained proportional odds logistic regression (POLR) and multilayer perceptron (MLP) neural network classifiers. We show that while climatological forecasts outperform the raw ensemble by a wide margin, post-processing results in further substantial improvement in forecast skill and in general, POLR models are superior to their MLP counterparts.
+* **Data:** 13 de Junho de 2023 
+* **Mais informações:** [http://www.ecmwf.int/en/learning/seminars](http://www.ecmwf.int/en/learning/seminars)
+ 
+## Passados
+
 ### Palestra NVIDIA: Ferramentas de programação paralela em GPUs, multi GPU e multi Nós. OpenAcc, NCCL -  LNCC
 
 * **Título:** Série de Palestras NVIDIA e LNCC: Ferramentas de programação paralela em GPUs, multi GPU e multi Nós. OpenAcc, NCCL
@@ -18,7 +45,7 @@
 * **Data:** Janeiro a Abril de 2023
 * **Mais informações:** [https://lms.ecmwf.int/pages/index.html](https://lms.ecmwf.int/pages/index.html) 
 
-## Passados
+----
 
 ### Workshop on Machine Learning for Earth Observation and Prediction - Workshop ECMWF-ESA
 
