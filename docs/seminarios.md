@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Stack da NVIDIA Para Processamento de Linguagem Natural - Palestra LNCC
+
+* **Título:** Stack da NVIDIA Para Processamento de Linguagem Natural
+* **Resumo:** Nesta palestra será apresentado o Large Language Models (LLMs), que são modelos de linguagem de grande escala que utilizam redes neurais profundas para aprender a entender e gerar linguagem humana. Eles representam um avanço significativo em relação aos modelos tradicionais de NLP, pois são capazes de processar grandes volumes de texto e aprender a partir de contextos mais amplos e complexos. Além disso, estão revolucionando a forma como a inteligência artificial entende e gera linguagem humana, e estão sendo utilizados em diversas aplicações, incluindo assistentes virtuais, pesquisa de informação e análise de sentimentos.
+* **Data:** 12 de Julho de 2023
+* **Mais informações:** [https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665](https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665)
+
+----
+
 ### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
 
 * **Título:** CCPP Visioning Workshop
