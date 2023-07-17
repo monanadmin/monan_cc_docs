@@ -13,6 +13,7 @@ Nesta página estão organizados arquivos com informações pertinentes ao desen
 
 ## Outras Publicações
 
+* [2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth System observation and prediction](https://www.nature.com/articles/s41612-023-00387-2)
 * [NOAA - Computing upgrade paves way for planned model improvements](https://www.noaa.gov/media-release/us-to-triple-operational-weather-and-climate-supercomputing-capacity)
 * [WMO - White Paper One Contributor: Tim Palmer](https://ppe-openplatform.wmo.int/en/WP1TP)
 * [HPCWire - Supercomputing Experts React to Dire Climate Report](https://www.hpcwire.com/2021/08/26/supercomputing-experts-react-to-dire-climate-report/)
