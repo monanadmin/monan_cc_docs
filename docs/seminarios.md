@@ -2,21 +2,30 @@
 
 ## Próximos
 
-### Stack da NVIDIA Para Processamento de Linguagem Natural - Palestra LNCC
-
-* **Título:** Stack da NVIDIA Para Processamento de Linguagem Natural
-* **Resumo:** Nesta palestra será apresentado o Large Language Models (LLMs), que são modelos de linguagem de grande escala que utilizam redes neurais profundas para aprender a entender e gerar linguagem humana. Eles representam um avanço significativo em relação aos modelos tradicionais de NLP, pois são capazes de processar grandes volumes de texto e aprender a partir de contextos mais amplos e complexos. Além disso, estão revolucionando a forma como a inteligência artificial entende e gera linguagem humana, e estão sendo utilizados em diversas aplicações, incluindo assistentes virtuais, pesquisa de informação e análise de sentimentos.
-* **Data:** 12 de Julho de 2023
-* **Mais informações:** [https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665](https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665)
-
-----
-
 ### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
 
 * **Título:** CCPP Visioning Workshop
 * **Resumo:** This workshop is an opportunity for physics developers, model developers interested in physics-dynamics coupling, code managers, computational scientists, and users to gather virtually to discuss the current status and the future of the Common Community Physics Package (CCPP). Our objective is to better connect those already engaged in the use of the CCPP, as well as to educate and engage others interested in the use of CCPP for more efficient and effective model development. Target models include the UFS, the CCPP Single Column Model, NCAR models that plan to use the emerging System for Integrated Modeling of the Atmosphere (SIMA), NEPTUNE, and possibly others, with target participants from different organizations: NOAA (i.e., EMC and NOAA labs), NCAR, NRL, the National Aeronautics and Space Administration, the private sector, and academia. While the workshop will not be focused on any specific modeling system, there may be breakout sessions to discuss the needs of individual modeling systems (e.g. UFS, CCPP SCM, NCAR and NRL models). A desired outcome of the workshop is a common understanding of the state of CCPP and prioritized advancements required to meet scientific and technological frontiers in the next 5-10 years.
 * **Data:** 15 a 17 de Agosto de 2023
 * **Mais informações:** [https://dtcenter.org/events/2023/ccpp-visioning-workshop](https://dtcenter.org/events/2023/ccpp-visioning-workshop)
+
+----
+
+### NVIDIA Omniverse - Enhancing Scientific Computing Workflows - Palestra LNCC
+
+* **Título:** NVIDIA Omniverse - Enhancing Scientific Computing Workflows
+* **Resumo:** Nesta palestra será apresentada a plataforma de visualização científica da NVIDIA, que é uma solução abrangente para pesquisadores, cientistas e engenheiros visualizarem e analisarem conjuntos de dados complexos de forma eficaz. A plataforma inclui o Omniverse, Index e integração Paraview, fornecendo uma ampla gama de ferramentas e recursos para visualização científica. Além disso, ela é um ambiente colaborativo para simulação e visualização em tempo real de conjuntos de dados complexos e fornece uma infraestrutura flexível e escalável que permite que pesquisadores e cientistas colaborem perfeitamente, independentemente de sua localização. O Index é um poderoso sistema de gerenciamento de dados que permite aos usuários pesquisar, analisar e visualizar conjuntos de dados grandes com facilidade, enquanto a integração do Paraview fornece um conjunto robusto de ferramentas para visualização científica avançada, incluindo renderização de volume, isosuperfícies e rastreamento de partículas. Juntos, essas ferramentas fornecem uma plataforma poderosa de visualização científica que pode ser usada para uma variedade de aplicações, incluindo imagens médicas, exploração geofísica e simulações de dinâmica molecular. Desta forma, a apresentação irá destacar as capacidades da plataforma, incluindo colaboração em tempo real, técnicas avançadas de visualização e recursos de gerenciamento de dados e destacará os benefícios de usar a plataforma de visualização científica da NVIDIA para pesquisa científica, incluindo aumento da eficiência, melhor precisão e melhor colaboração.
+* **Data:**
+* **Mais informações:** [http://www.sympla.com.br/evento-online/nvidia-omniverse-enhancing-scientific-computing-workflows/1999668](http://www.sympla.com.br/evento-online/nvidia-omniverse-enhancing-scientific-computing-workflows/1999668)
+
+## Passados
+
+### Stack da NVIDIA Para Processamento de Linguagem Natural - Palestra LNCC
+
+* **Título:** Stack da NVIDIA Para Processamento de Linguagem Natural
+* **Resumo:** Nesta palestra será apresentado o Large Language Models (LLMs), que são modelos de linguagem de grande escala que utilizam redes neurais profundas para aprender a entender e gerar linguagem humana. Eles representam um avanço significativo em relação aos modelos tradicionais de NLP, pois são capazes de processar grandes volumes de texto e aprender a partir de contextos mais amplos e complexos. Além disso, estão revolucionando a forma como a inteligência artificial entende e gera linguagem humana, e estão sendo utilizados em diversas aplicações, incluindo assistentes virtuais, pesquisa de informação e análise de sentimentos.
+* **Data:** 12 de Julho de 2023
+* **Mais informações:** [https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665](https://www.sympla.com.br/evento-online/stack-da-nvidia-para-processamento-de-linguagem-natural/1999665)
 
 ----
 
@@ -36,7 +45,7 @@
 * **Data:** 13 de Junho de 2023 
 * **Mais informações:** [http://www.ecmwf.int/en/learning/seminars](http://www.ecmwf.int/en/learning/seminars)
  
-## Passados
+----
 
 ### Palestra NVIDIA: Ferramentas de programação paralela em GPUs, multi GPU e multi Nós. OpenAcc, NCCL -  LNCC
 
