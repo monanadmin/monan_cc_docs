@@ -8,41 +8,50 @@ Para baixar, clique com o botão direito do mouse sobre o logo e selecione a op�
 
 As imagens vetoriais foram feitas no programa Inkscape. 
 
-## Versão Original (PNG, 75x75px)
+## Versão PNG Horizontal (75x24px)
 
-![Versão Original (PNG)](assets/monan_logo_pequeno.png)
+![Versão PNG Horizontal](assets/logo_monan_hor_75x24.png)
 
-## Versão Original Vetorial (SVG)
+## Versão PNG Horizontal (100x32px)
 
-![Versão Vetorial (SVG)](assets/logo_monan.svg)
+![Versão PNG Horizontal](assets/logo_monan_hor_100x32.png)
 
+## Versão PNG Horizontal (200x63px)
 
-## Variação Vetorial (SVG)
+![Versão PNG Horizontal](assets/logo_monan_hor_200x63.png)
 
-![Variação - Versão Vetorial (SVG) com nome e bandeira](assets/logo_monan_nome_bandeira.svg)
+## Versão PNG Horizontal (300x95px)
 
-## Versões Exportadas (PNG)
+![Versão PNG Horizontal](assets/logo_monan_hor_300x95.png)
 
-### Original Pequeno (100x100px, ~3dpi)
+## Versão PNG Horizontal (600x189px)
 
-![Original Pequena Exportada (PNG)](assets/logo_monan_pequeno.png)
+![Versão PNG Horizontal](assets/logo_monan_hor_600x189.png)
 
-### Original Médio (200x200px, ~6dpi)
+## Versão EPS Horizontal
 
-![Original Média Exportada (PNG)](assets/logo_monan_medio.png)
+![Versão EPS Horizontal](assets/logo_monan_hor.eps)
 
-### Original Grande (300x300px, ~10dpi)
+## Versão PNG Vertical (75x93px)
 
-![Original Grande Exportada (PNG)](assets/logo_monan_grande.png)
+![Versão PNG Vertical](assets/logo_monan_vert_75x93.png)
 
-### Variação Pequena (100x100px, ~3dpi)
+## Versão PNG Vertical (100x124px)
 
-![Variação Pequena Exportada (PNG)](assets/logo_monan_nome_bandeira_pequeno.png)
+![Versão PNG Vertical](assets/logo_monan_vert_100x124.png)
 
-### Variação Média (200x200px, ~6dpi)
+## Versão PNG Vertical (200x347px)
 
-![Variação Média Exportada (PNG)](assets/logo_monan_nome_bandeira_medio.png)
+![Versão PNG Vertical](assets/logo_monan_vert_200x347.png)
 
-### Variação Grande (300x300px, ~10dpi)
+## Versão PNG Vertical (300x370px)
 
-![Variação Grande Exportada (PNG)](assets/logo_monan_nome_bandeira_grande.png)
+![Versão PNG Vertical](assets/logo_monan_vert_300x370.png)
+
+## Versão PNG Vertical (600x740px)
+
+![Versão PNG Vertical](assets/logo_monan_vert_600x740.png)
+
+## Versão EPS Vertical
+
+![Versão EPS Vertical](assets/logo_monan_vert.eps)
