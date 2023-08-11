@@ -26,30 +26,30 @@
     
         **Membros Participantes**
         
-            * Brasil
+        * Brasil
 
-                * **INPE:** Antonio Ocimar Manzi, Caio Augusto dos Santos Coelho, Carlos Frederico Bastarz (ausente), Celso Mendes (ausente), Celso Von Randow, Chou Sin Chan, Haroldo Fraga de Campos Velho, João Gerd Zell de Mattos, Joaquim Eduardo Rezende Costa (ausente), Jorge Luís Gomes, Luciano Ponzi Pezzi, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Renato Galante Negri, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
-                * **INMET:** Francisco Quixaba Filho (ausente), Gilberto Ricardo Bonatti.
-                * **UFCG:** Enio Pereira de Souza.
-                * **CENSIPAM:** Ivan Saraiva (ausente).
-                * **ITA:** Jairo Panetta (ausente).
-                * **INPA:** Luiz Antonio Candido (ausente).
-                * **UFSM:** Otávio Acevedo (ausente).
-                * **USP:** Márcia Akemi Yamasoe (ausente), Pedro Leite da Silva Dias, Pedro da Silva Peixoto, Ricardo de Camargo.
-                * **LNCC:** Roberto P. Souto.
-                * **UFMS:** Vinícius Buscioli Capistrano.
-                * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
-                * **UFPA:** Júlia Clarinda Paiva Cohen.     
-                * **UFRJ:** Afonso Paiva.
-                * **MCTI:** Antonio Marcos Mendonça.
-                * **FAB:** José Hélio Abreu Nogueira.
-                * **UFPel:** Fabrício Härter.
-                * **UECE:** Alexandre Araújo Costa (ausente).
-                * **FUNCEME:** Francisco das Chagas Vasconcelos Júnior (ausente).
+        * **INPE:** Antonio Ocimar Manzi, Caio Augusto dos Santos Coelho, Carlos Frederico Bastarz (ausente), Celso Mendes (ausente), Celso Von Randow, Chou Sin Chan, Haroldo Fraga de Campos Velho, João Gerd Zell de Mattos, Joaquim Eduardo Rezende Costa (ausente), Jorge Luís Gomes, Luciano Ponzi Pezzi, Luiz Flávio Rodrigues, Paulo Yoshio Kubota, Renato Galante Negri, Ronald Buss de Souza, Saulo Ribeiro de Freitas.
+        * **INMET:** Francisco Quixaba Filho (ausente), Gilberto Ricardo Bonatti.
+        * **UFCG:** Enio Pereira de Souza.
+        * **CENSIPAM:** Ivan Saraiva (ausente).
+        * **ITA:** Jairo Panetta (ausente).
+        * **INPA:** Luiz Antonio Candido (ausente).
+        * **UFSM:** Otávio Acevedo (ausente).
+        * **USP:** Márcia Akemi Yamasoe (ausente), Pedro Leite da Silva Dias, Pedro da Silva Peixoto, Ricardo de Camargo.
+        * **LNCC:** Roberto P. Souto.
+        * **UFMS:** Vinícius Buscioli Capistrano.
+        * **MB:** Flávia Rodrigues Pinheiro, Walid Maia Pinto Silva e Seba (ausente).
+        * **UFPA:** Júlia Clarinda Paiva Cohen.     
+        * **UFRJ:** Afonso Paiva.
+        * **MCTI:** Antonio Marcos Mendonça.
+        * **FAB:** José Hélio Abreu Nogueira.
+        * **UFPel:** Fabrício Härter.
+        * **UECE:** Alexandre Araújo Costa (ausente).
+        * **FUNCEME:** Francisco das Chagas Vasconcelos Júnior (ausente).
 
-            * Argentina
+        * Argentina
 
-                * **SMN-Argentina: ** Yanina García Skabar.  
+        * **SMN-Argentina: ** Yanina García Skabar.  
 
         **Participantes Convidados**
         
