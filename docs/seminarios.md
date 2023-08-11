@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Métodos de Volumes Finitos para Modelos Globais Multiescala com Dr. Pedro Peixoto (USP)
+
+* **Título:** Métodos de Volumes Finitos para Modelos Globais Multiescala
+* **Resumo:** Importantes modelos atmosféricos e oceânicos globais modernos usam malhas não estruturadas e discretizações de sua dinâmica baseadas em Volumes Finitos. Esse tipo de malha geralmente permite representação de fenômenos multiescala, capturando desde escalas globais (centenas de km) até escalas locais (de poucos km ou centenas de metros). Com a crescente importância desses modelos no cenário mundial e nacional, o curso pretende dar uma fundamentação teórica e computacional aos pesquisadores interessados em entender melhor o funcionamento desses métodos.
+* **Data:** 16 de Outubro a 16 de Novembro de 2023
+* **Mais informações:** [https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/](https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/)
+
+----
+
 ### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
 
 * **Título:** CCPP Visioning Workshop
@@ -128,7 +137,7 @@
 
 ----
 
-### Palestra na Cerimônia de Comemoração de Aniversário do INPE - 61 anos, com Dr. Saulo Ribeiro de Freitas
+### Palestra na Cerimônia de Comemoração de Aniversário do INPE - 61 anos, com Dr. Saulo Ribeiro de Freitas (INPE)
 
 * **Título:** MONAN: Um novo paradigma de foco e organização para o avanço da previsão numérica de tempo, clima e ambiente no Brasil
 * **Resumo:** Prever o clima em diversas escalas é um dos maiores desafios técnico-científicos enfrentados pela humanidade. As principais razões das dificuldades residem principalmente na intrínseca natureza caótica da atmosfera e suas interfaces, o sistema de equações diferenciais que governa a dinâmica da atmosfera não admite solução analítica (requer solução aproximada em supercomputadores) e impraticabilidade de caracterizar o estado da atmosfera e suas interfaces com exatidão. No entanto, com investimento e muita pesquisa, diversos centros internacionais vem avançando na qualidade da previsão numérica da atmosfera aumentando sua acurácia, prazos de previsibilidade e usabilidade. Neste seminário, serão discutidos os elementos básicos da previsão numérica de tempo e desafios atuais para o seu contínuo aprimoramento. Se dará ênfase na apresentação do programa MONAN (Model for Ocean-laNd-Atmosphere predictioN). O MONAN é um programa nacional comunitário capitaneado pelo INPE que propõe um novo paradigma de modelagem do Sistema Terrestre para colocar o país no estado-da-arte em previsão de tempo, clima e ambiente.
@@ -149,7 +158,7 @@
 
 ----
 
-### Minicurso de Assimilação de Dados com Dr. Haroldo Fraga de Campos Velho
+### Minicurso de Assimilação de Dados com Dr. Haroldo Fraga de Campos Velho (INPE)
 
 * **Resumo:** O mini-curso em DA é uma iniciativa do Imperial College London e do INPE. A Profa. Fangxin Fang (Imperial College London) e o pesquisador Dr. Haroldo F. Campos Velho (INPE) são os organizadores do curso. O mini-curso trata de descrições de várias técnicas de assimilação de dados (Nudging, filtro de Kalman, métodos variacionais, redes neurais) em várias aplicações (atmosfera, circulação oceânica, hidrologia (rios), ionosfera, poluição atmosférica urbana, dinâmica do Covid-20) - [ver documento anexo](https://drive.google.com/file/d/1rqLVLQECAJNhDVaAN-BG4vnFEFFhzTZV/view?usp=sharing).
 * **Local:** O curso será online - somente!
@@ -163,7 +172,7 @@
 
 ----
 
-### Colóquio do Instituto de Física da Universidade Federal de Goiás com Dr. Saulo Ribeiro de Freitas
+### Colóquio do Instituto de Física da Universidade Federal de Goiás com Dr. Saulo Ribeiro de Freitas (INPE)
 
 * **Título:** Novo Modelo de Previsão Climática: Previsão Numérica da Atmosfera e Interfaces no Brasil
 * **Resumo:** Em sua segunda edição, o Colóquio do IF recebe na próxima quarta-feira (15/06), o pesquisador Saulo R. Freitas, que atua no Centro de Previsão do Tempo e Estudos Climáticos (CPTEC) do Instituto Nacional de Pesquisas Espaciais (INPE). O evento ocorre a partir das 12h30 horas, no Anfiteatro do IF2, no Câmpus Samambaia. Os interessados podem se inscrever no link: even3.com.br/cdif1306. A participação vale certificado de horas mediante comprovação de presença. Ele abordará o tema Previsão Numérica da Atmosfera e Interfaces no Brasil e discutirá os elementos básicos da previsão numérica de tempo e desafios atuais para o seu contínuo aprimoramento. Durante o Colóquio do IF, ele irá apresentar o programa Model for Ocean-LandAtmosphere Prediction (MONAN), iniciativa nacional e comunitária capitaneada pelo INPE que propõe um novo paradigma de modelagem do Sistema Terrestre para colocar o país no estado-da-arte em previsão de tempo, clima e ambiente.
@@ -191,7 +200,7 @@ O Workshop de Parametrizações Físicas do modelo BAM será fundamental para di
 
 ----
 
-### Seminário na Computação Aplicada/INPE com Dr. Saulo Ribeiro de Freitas
+### Seminário na Computação Aplicada/INPE com Dr. Saulo Ribeiro de Freitas (INPE)
 
 * **Título:** MONAN: Um novo paradigma de foco e organização para o avanço da previsão numérica de tempo, clima e ambiente no Brasil
 * **Resumo:** Prever o clima em diversas escalas é um dos maiores desafios técnico-científicos enfrentados pela humanidade. As principais razões das dificuldades residem principalmente na intrínseca natureza caótica da atmosfera e suas interfaces, o sistema de equações diferenciais que governa a dinâmica da atmosfera não admite solução analítica (requer solução aproximada em supercomputadores) e impraticabilidade de caracterizar o estado da atmosfera e suas interfaces com exatidão. No entanto, com investimento e muita pesquisa, diversos centros internacionais vem avançando na qualidade da previsão numérica da atmosfera aumentando sua acurácia, prazos de previsibilidade e usabilidade. Neste seminário, serão discutidos os elementos básicos da previsão numérica de tempo e desafios atuais para o seu contínuo aprimoramento. Se dará ênfase na apresentação do programa MONAN (Model for Ocean-laNd-Atmosphere predictioN). O MONAN é um programa nacional comunitário capitaneado pelo INPE que propõe um novo paradigma de modelagem do Sistema Terrestre para colocar o país no estado-da-arte em previsão de tempo, clima e ambiente.

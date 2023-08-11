@@ -5,7 +5,6 @@ Neste repositório, encontram-se as atas do Comitê Científico do MONAN. As ata
 - [X] Inclui uma ferramenta para buscar por palavras-chave em todas as atas;
 - [X] Inclui a gravação do vídeo da reunião;
 - [X] Inclui os arquivos anexos pertinentes (eg., apresentações, artigos etc);
-- [ ] Permite exportar as atas em arquivos PDF (ainda não disponível).
 
 Através do repositório ou pelo site, é possível solocitar a revisão da ata. Pelo repositório, siga os passos a seguir (necessário uma conta no GitHub):
 

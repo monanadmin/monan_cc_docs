@@ -31,6 +31,9 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 * **Laboratório Nacional de Computação Científica (LNCC):** 
     - Roberto P. Souto ([lattes](http://lattes.cnpq.br/1471432563506193) | [webpage](https://www.lncc.br/colaborador/Roberto_Pinto_Souto))
 
+* **Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME):**
+    - Francisco das Chagas Vasconcelos Júnior ([lattes](http://lattes.cnpq.br/7425903532570987))
+
 ## Universidades Federais
 
 * **Universidade Federal de Campina Grande (UFCG):**
@@ -50,6 +53,12 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **Universidade Federal do Pará (UFPA):** 
     - Júlia Clarinda Paiva Cohen ([lattes](http://lattes.cnpq.br/0293299378753887) | [webpage](https://sigaa.ufpa.br/sigaa/public/docente/portal.jsf?siape=327587))
+
+* **Universidade Federal de Pelotas (UFPel):**
+    - Fabrício Pereira Härter ([lattes](http://lattes.cnpq.br/9865056179221557) | [webpage](http://repositorio.smn.gob.ar/browse?type=author&value=Garc%C3%ADa+Skabar%2C+Yanina))
+
+* **Universidade Estadual do Ceará (UECE):**
+    - Alexandre Araújo Costa ([lattes](http://lattes.cnpq.br/9171192196186603))
 
 ## Forças Armadas
 
@@ -75,3 +84,10 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **_World Meteorological Organization_ (WMO):**
     - Daniel Alejandro Vila ([lattes](http://lattes.cnpq.br/6440821154496824))
+* **Servicio Meteorológico Nacional (SMN) - Argentina:**
+    - Yanina García Skabar ([webpage](https://ri.conicet.gov.ar/author/20961))
+
+
+## Assessoria Administrativa
+
+* Gilson de Paula e Silva
