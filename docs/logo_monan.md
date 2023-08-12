@@ -8,50 +8,50 @@ Para baixar, clique com o botão direito do mouse sobre o logo e selecione a op�
 
 As imagens vetoriais foram feitas no programa Inkscape. 
 
-## Versão PNG Horizontal (75x24px)
-
-![Versão PNG Horizontal](assets/logo_monan_hor_75x24.png)
-
 ## Versão PNG Horizontal (100x32px)
 
 ![Versão PNG Horizontal](assets/logo_monan_hor_100x32.png)
 
-## Versão PNG Horizontal (200x63px)
+## Versão PNG Horizontal (200x64px)
 
-![Versão PNG Horizontal](assets/logo_monan_hor_200x63.png)
+![Versão PNG Horizontal](assets/logo_monan_hor_200x64.png)
 
-## Versão PNG Horizontal (300x95px)
+## Versão PNG Horizontal (300x96px)
 
-![Versão PNG Horizontal](assets/logo_monan_hor_300x95.png)
+![Versão PNG Horizontal](assets/logo_monan_hor_300x96.png)
 
-## Versão PNG Horizontal (600x189px)
+## Versão PNG Horizontal (600x193px)
 
-![Versão PNG Horizontal](assets/logo_monan_hor_600x189.png)
+![Versão PNG Horizontal](assets/logo_monan_hor_600x193.png)
 
-## Versão EPS Horizontal
+## Versão PNG Horizontal (1200x385px)
 
-![Versão EPS Horizontal](assets/logo_monan_hor.eps)
+![Versão PNG Horizontal](assets/logo_monan_hor_1200x385.png)
 
-## Versão PNG Vertical (75x93px)
+## Versão SVG Horizontal
 
-![Versão PNG Vertical](assets/logo_monan_vert_75x93.png)
+![Versão EPS Horizontal](assets/logo_monan_hor.svg)
 
-## Versão PNG Vertical (100x124px)
+## Versão PNG Vertical (100x128px)
 
-![Versão PNG Vertical](assets/logo_monan_vert_100x124.png)
+![Versão PNG Vertical](assets/logo_monan_vert_100x128.png)
 
-## Versão PNG Vertical (200x347px)
+## Versão PNG Vertical (200x256px)
 
-![Versão PNG Vertical](assets/logo_monan_vert_200x347.png)
+![Versão PNG Vertical](assets/logo_monan_vert_200x256.png)
 
-## Versão PNG Vertical (300x370px)
+## Versão PNG Vertical (300x384px)
 
-![Versão PNG Vertical](assets/logo_monan_vert_300x370.png)
+![Versão PNG Vertical](assets/logo_monan_vert_300x384.png)
 
-## Versão PNG Vertical (600x740px)
+## Versão PNG Vertical (600x767px)
 
-![Versão PNG Vertical](assets/logo_monan_vert_600x740.png)
+![Versão PNG Vertical](assets/logo_monan_vert_600x767.png)
 
-## Versão EPS Vertical
+## Versão PNG Vertical (1200x1535px)
 
-![Versão EPS Vertical](assets/logo_monan_vert.eps)
+![Versão PNG Vertical](assets/logo_monan_vert_1200x1535.png)
+
+## Versão SVG Vertical
+
+![Versão EPS Vertical](assets/logo_monan_vert.svg)
