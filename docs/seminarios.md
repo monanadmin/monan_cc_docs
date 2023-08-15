@@ -18,16 +18,16 @@
 * **Data:** 15 a 17 de Agosto de 2023
 * **Mais informações:** [https://dtcenter.org/events/2023/ccpp-visioning-workshop](https://dtcenter.org/events/2023/ccpp-visioning-workshop)
 
-----
+## Passados
 
 ### NVIDIA Omniverse - Enhancing Scientific Computing Workflows - Palestra LNCC
 
 * **Título:** NVIDIA Omniverse - Enhancing Scientific Computing Workflows
 * **Resumo:** Nesta palestra será apresentada a plataforma de visualização científica da NVIDIA, que é uma solução abrangente para pesquisadores, cientistas e engenheiros visualizarem e analisarem conjuntos de dados complexos de forma eficaz. A plataforma inclui o Omniverse, Index e integração Paraview, fornecendo uma ampla gama de ferramentas e recursos para visualização científica. Além disso, ela é um ambiente colaborativo para simulação e visualização em tempo real de conjuntos de dados complexos e fornece uma infraestrutura flexível e escalável que permite que pesquisadores e cientistas colaborem perfeitamente, independentemente de sua localização. O Index é um poderoso sistema de gerenciamento de dados que permite aos usuários pesquisar, analisar e visualizar conjuntos de dados grandes com facilidade, enquanto a integração do Paraview fornece um conjunto robusto de ferramentas para visualização científica avançada, incluindo renderização de volume, isosuperfícies e rastreamento de partículas. Juntos, essas ferramentas fornecem uma plataforma poderosa de visualização científica que pode ser usada para uma variedade de aplicações, incluindo imagens médicas, exploração geofísica e simulações de dinâmica molecular. Desta forma, a apresentação irá destacar as capacidades da plataforma, incluindo colaboração em tempo real, técnicas avançadas de visualização e recursos de gerenciamento de dados e destacará os benefícios de usar a plataforma de visualização científica da NVIDIA para pesquisa científica, incluindo aumento da eficiência, melhor precisão e melhor colaboração.
-* **Data:**
+* **Data:** 24 de Julho de 2023
 * **Mais informações:** [http://www.sympla.com.br/evento-online/nvidia-omniverse-enhancing-scientific-computing-workflows/1999668](http://www.sympla.com.br/evento-online/nvidia-omniverse-enhancing-scientific-computing-workflows/1999668)
 
-## Passados
+----
 
 ### Stack da NVIDIA Para Processamento de Linguagem Natural - Palestra LNCC
 
