@@ -92,6 +92,17 @@
 
 ----
 
+### WorCAP 2022 - PL02: The Model for Ocean-laNd-Atmosphere predictioN (MONAN)
+
+* **Título:** The Model for Ocean-laNd-Atmosphere predictioN (MONAN)
+* **Resumo:** The Center for Weather Forecasting and Climate Studies (CPTEC) based at the Earth System Science Center/National Institute for Space Research (INPE), is under a process of restructuring, seeking to optimize personal and financial resources, as well as to increase its national and international leadership in science and technology. In a warmer and changing world, INPE aims to develop novel national response strategies to Brazilian society with effective solutions to reduce problems associated with the occurrence of high-impact weather, climate and environmental events through a National Program for Research, Development and Innovation. The initiative seeks to embrace different stakeholders such as academia and public sectors, policy-makers, and regional meteorological agencies to support the transfer of science to services in an Earth System approach. In order to provide a wider range of more accurate meteorological and environmental numerical products, the focus of the initiative is the development of a unified community-based model of the Earth system - the Model for Ocean-laNd-Atmosphere predictioN (MONAN). MONAN will produce seamless predictions suitable for South America, providing useful information for different economic and societal sectors, through more reliable forecasts in different spatial and time scales. INPE is leading the development of MONAN, that is planned to replace the current atmospheric models it applies nowadays. A scientific steering body formed by national outstanding scientists is responsible for the management of MONAN’s development and operation. To develop a state-of-the-art Earth System model, it is required to take advantage of the novel techniques in high performance computing, physical and biogeochemical processes, a state-of-the-art dynamical core and become data centric. This means MONAN will use novel techniques in Artificial Intelligence (AI), Machine Learning (ML), and data volume that offer great opportunities throughout the workflow of numerical prediction. It is essential to explore how the new capabilities of AI and ML have been currently changing the Earth system science and take the advantage of the new techniques to improve the numerical forecasts that will be produced by MONAN. In our presentation, we will present the MONAN project, its organization, current developments and potential scientific contribution and collaboration in AI and ML.
+* **Data:** 13 de Setembro de 2022
+* **Mais informações:** [https://www.gov.br/inpe/pt-br/eventos/worcap/2022/programacao](https://www.gov.br/inpe/pt-br/eventos/worcap/2022/programacao)
+
+![type:video](https://youtube.com/embed/QOd1Wq3bkC0)
+
+----
+
 ### Workshop de Computação Aplicada WorCAP 2022 - Evento do Programa de Pós-Graduação em Computação Aplicada do INPE (PGCAP)
 
 * **Título:** Workshop de Computação Aplicada WorCAP 2022
