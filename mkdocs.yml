@@ -60,6 +60,8 @@ extra:
 
 # Extensions
 markdown_extensions:
+  - attr_list
+  - md_in_html  
   - footnotes
   - tables
   - admonition
@@ -79,5 +81,6 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
+  - glightbox
 #  - pdf-export
 #  - mkpdfs

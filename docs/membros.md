@@ -44,7 +44,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **Universidade de São Paulo (USP):** 
     - Márcia Akemi Yamasoe ([lattes](http://lattes.cnpq.br/7363881469488210) | [webpage](https://www.iag.usp.br/atmosfericas/membro/m%C3%A1rcia-akemi-yamasoe))
-    - Pedro Leite da Silva Dias - ** Coordenador do MONAN na USP ** ([lattes](http://lattes.cnpq.br/9273702863744424) | [webpage](https://www.iag.usp.br/atmosfericas/membro/pedro-leite-da-silva-dias))
+    - Pedro Leite da Silva Dias - **Coordenador do MONAN na USP** ([lattes](http://lattes.cnpq.br/9273702863744424) | [webpage](https://www.iag.usp.br/atmosfericas/membro/pedro-leite-da-silva-dias))
     - Pedro da Silva Peixoto ([lattes](http://lattes.cnpq.br/6547630839036017) | [webpage](https://www.ime.usp.br/~pedrosp/sobre/))
     - Ricardo de Camargo ([lattes](http://lattes.cnpq.br/4224364363630813) | [webpage](https://www.iag.usp.br/atmosfericas/membro/ricardo-de-camargo))
 
@@ -55,7 +55,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     - Júlia Clarinda Paiva Cohen ([lattes](http://lattes.cnpq.br/0293299378753887) | [webpage](https://sigaa.ufpa.br/sigaa/public/docente/portal.jsf?siape=327587))
 
 * **Universidade Federal de Pelotas (UFPel):**
-    - Fabrício Pereira Härter ([lattes](http://lattes.cnpq.br/9865056179221557) | [webpage](http://repositorio.smn.gob.ar/browse?type=author&value=Garc%C3%ADa+Skabar%2C+Yanina))
+    - Fabrício Pereira Härter ([lattes](http://lattes.cnpq.br/9865056179221557) | [webpage](https://institucional.ufpel.edu.br/servidores/id/29732))
 
 * **Universidade Estadual do Ceará (UECE):**
     - Alexandre Araújo Costa ([lattes](http://lattes.cnpq.br/9171192196186603))
