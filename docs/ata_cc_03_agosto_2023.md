@@ -198,7 +198,7 @@ Ariane Frassoni termina a sua apresentação informando que um relatório comple
 
 ### Discussão Sobre a Escolha do Núcleo Dinâmico do MONAN
 
-Após as apresentações do Luiz Flávio e da Ariane Frassoni, Saulo Freitas inicia as discussões com os membros do CC do MONAN para definir qual será o núcleo dinâmico a ser adotado para a componente atmosférica do MONAN.
+Após as apresentações do Luiz Flávio e da Ariane Frassoni, Saulo Freitas inicia as discussões com os membros do CC do MONAN para definir qual será o núcleo dinâmico a ser adotado para a componente atmosférica do MONAN. No registro da gravação da reunião do CC do MONAN, as discussões se iniciam em [1h18'15"](https://youtu.be/pBdrKYZKR5Q?t=4695).
 
 ## Atividades Para os Próximos 6 a 12 Meses
 
