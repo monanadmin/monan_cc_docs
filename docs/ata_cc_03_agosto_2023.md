@@ -19,8 +19,8 @@
 
         | REVISÃO | DATA DA REVISÃO | ALTERAÇÕES |
         |---------|-----------------|------------|
-        | R000    | 05/05/2022      | <ul> <li> Versão inicial </li> </ul> |
-        | R001    | 15/05/2022      | <ul> <li> Revisão geral por Carlos Bastarz/INPE </li> </ul> |
+        | R000    | 05/05/2022      | <ul> <li> Versão inicial por Gilson Silva/INPE </li> </ul> |
+        | R001    | 15/05/2022      | <ul> <li> Expansão e revisão geral por Carlos Bastarz/INPE </li> </ul> |
     
     === "Participações"
     
