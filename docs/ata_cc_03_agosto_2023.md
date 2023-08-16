@@ -1,6 +1,6 @@
 # 03 de Agosto de 2023
 
-## ATA 001/2023 - Revisão 001
+## ATA 001/2023 - Revisão 002
 
 !!! warning "Ata em elaboração!"
 
@@ -21,6 +21,7 @@
         |---------|-----------------|------------|
         | R000    | 05/05/2022      | <ul> <li> Versão inicial por Gilson Silva/INPE </li> </ul> |
         | R001    | 15/05/2022      | <ul> <li> Expansão e revisão geral por Carlos Bastarz/INPE </li> </ul> |
+        | R002    | 16/05/2022      | <ul> <li> Inclusão de informações por Carlos Bastarz/INPE </li> </ul> |
     
     === "Participações"
     
