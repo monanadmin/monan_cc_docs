@@ -226,6 +226,12 @@ Caio Coelho questiona se o MOU (Memorandum of Understanding) entre o INPE e o NC
 
 Finalizadas as discussões, Saulo Freitas encaminha a reunião para a tomada de uma decisão formal acerca da escolho do núcleo dinâmico da componente atmosférica do MONAN. Dentre as pautas da reunião, menciona a proposição de que o CC do MONAN adote o MPAS como sendo a base do MONAN, além das parametrizações físicas do modelo de superfície e atmosfera que já estão embarcadas no MPAS. Com isso, o próximo passo é a organização da versão inicial do MONAN e o versionamento do código pelo GCC. Em seguida, essa versão do MONAN atmosférico será operacionalizada, em caráter experimental, pela DIPTC da CGCT/INPE para avaliação de desempenho. Acrescenta que, neste momento, por questões computacionais, não será possível configurar o MONAN com um resolução variável, de forma que o domínio do modelo será global, com resolução entre 10 e 20 km (a depender do custo computacional), com integração até 10 dias. À medida em que o modelo for integrado, os resultados serão reportados ao CC do MONAN.
 
+Saulo Freitas anuncia, de acordo com o entendimento mútudo do CC do MONAN, a aprovação do MPAS como a estrutura de dados para a dinâmica atmosférica do MONAN.
+
+## Outros Assuntos
+
+Pedro Peixoto anuncia o oferecimento de um curso online intensivo, a ser realizado ao longo de um mês (três vezes por semana) sobre a parte horizontal do modelo MPAS. Segundo ele, o conteúdo do curso inicia com um modelo unidimensional de advecção em volumes finitos,  depois avança para a dimensão bidimensional em água rasa, seguindo para a esfera nesse tipo de malha. O curso envolve também a discussão das malhas do MPAS e se extende até como estes conceitos se conectam com o código do MPAS. Mais informações sobre o curso podem ser encontradas em (https://github.com/GAD-DIMNT-CPTEC/AD/blob/master/NMC_Bkerror.bam/src/specgrid.f90)[https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/].
+
 ## Atividades Para os Próximos 6 a 12 Meses
 
 1. Assinatura do convênio entre o NCAR e o INPE;
@@ -233,7 +239,7 @@ Finalizadas as discussões, Saulo Freitas encaminha a reunião para a tomada de 
 3. Definição das componentes do oceanos e criosfera e componente superfície continental;
 4. Sistema de assimilação de dados, o grupo de [GAD](https://github.com/GAD-DIMNT-CPTEC) (Grupo de Assimilação de Dados) está estudando a adoção do sistema [JEDI](https://www.jcsda.org/jcsda-project-jedi) (Joint Effor for Data Assimilation Integration);
 5. Desenvolvimento da versão inicial do MONAN atmosférico, com sistema de controle de versão e disponibilização para a comunidade;
-6. Se houverem recursos, a realização de um workshop de treinamento já no próximo semestre. Sobre os recursos, será necessário outra forma de financiamento, pois o recurso disponível até o momento no PO é insuficiente para tratar desse workshop. O workshop seria um ponto de partida importante para que a comunidade, para começar a usar o MPAS, instalar e começar produzir resultados.
+6. Se houverem recursos, a realização de um workshop de treinamento já no próximo semestre. Sobre os recursos, será necessário outra forma de financiamento, pois o recurso disponível até o momento é insuficiente para tratar desse workshop. O workshop seria um ponto de partida importante para que a comunidade, para começar a usar o MPAS, instalar e começar produzir resultados.
 
 ??? example "Anexos"
 
