@@ -230,7 +230,7 @@ Saulo Freitas anuncia, de acordo com o entendimento mútudo do CC do MONAN, a ap
 
 ## Outros Assuntos
 
-Pedro Peixoto anuncia o oferecimento de um curso online intensivo, a ser realizado ao longo de um mês (três vezes por semana) sobre a parte horizontal do modelo MPAS. Segundo ele, o conteúdo do curso inicia com um modelo unidimensional de advecção em volumes finitos,  depois avança para a dimensão bidimensional em água rasa, seguindo para a esfera nesse tipo de malha. O curso envolve também a discussão das malhas do MPAS e se extende até como estes conceitos se conectam com o código do MPAS. Mais informações sobre o curso podem ser encontradas em [https://github.com/GAD-DIMNT-CPTEC/AD/blob/master/NMC_Bkerror.bam/src/specgrid.f90](https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/).
+Pedro Peixoto anuncia o oferecimento de um curso online intensivo, a ser realizado ao longo de um mês (três vezes por semana) sobre a parte horizontal do modelo MPAS. Segundo ele, o conteúdo do curso inicia com um modelo unidimensional de advecção em volumes finitos,  depois avança para a dimensão bidimensional em água rasa, seguindo para a esfera nesse tipo de malha. O curso envolve também a discussão das malhas do MPAS e se extende até como estes conceitos se conectam com o código do MPAS. Mais informações sobre o curso podem ser encontradas em [https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/](https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/).
 
 ## Atividades Para os Próximos 6 a 12 Meses
 
