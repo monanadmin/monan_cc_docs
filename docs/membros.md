@@ -34,10 +34,10 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 * **Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME):**
     - Francisco das Chagas Vasconcelos Júnior ([lattes](http://lattes.cnpq.br/7425903532570987))
 
-## Universidades Federais
+## Universidades
 
 * **Universidade Federal de Campina Grande (UFCG):**
-    - Enio Pereira de Souza ([lattes](http://lattes.cnpq.br/7752212981363912) | [webpage](https://lma.ufrj.br/equipe))
+    - Enio Pereira de Souza ([lattes](http://lattes.cnpq.br/7752212981363912) | [webpage](https://www.researchgate.net/profile/Enio-Souza-3))
 
 * **Universidade Federal de Santa Maria (UFSM):** 
     - Otávio Acevedo ([lattes](http://lattes.cnpq.br/8696858608013659) | [webpage](https://www.ufsm.br/cursos/pos-graduacao/santa-maria/pgfisica/otavio-costa-acevedo-dr-state-univ-of-new-york-eua-2001/))
@@ -59,6 +59,9 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 
 * **Universidade Estadual do Ceará (UECE):**
     - Alexandre Araújo Costa ([lattes](http://lattes.cnpq.br/9171192196186603))
+
+* **Universidade Federal do Rio de Janeiro (UFRJ):**
+    - Afonso de Moraes Paiva ([lattes](http://lattes.cnpq.br/5606850513813191))
 
 ## Forças Armadas
 
