@@ -2,8 +2,6 @@
 
 ## ATA 001/2023 - Revisão 002
 
-!!! warning "Ata em elaboração!"
-
 ![type:video](https://youtube.com/embed/pBdrKYZKR5Q)
 
 ??? info "Informações"
