@@ -8,50 +8,56 @@ Para baixar, clique com o botão direito do mouse sobre o logo e selecione a op�
 
 As imagens vetoriais foram feitas no programa Inkscape. 
 
-## Versão PNG Horizontal (100x32px)
+## Versões em PNG Horizontal
 
-![Versão PNG Horizontal](assets/logo_monan_hor_100x32.png)
+| Versão PNG Horizontal (100x32px)  | Versão PNG Horizontal Color (100x32px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor_100x32.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color_100x32.png)  |
 
-## Versão PNG Horizontal (200x64px)
+| Versão PNG Horizontal (200x64px)  | Versão PNG Horizontal Color (200x64px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor_200x64.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color_200x64.png)  |
 
-![Versão PNG Horizontal](assets/logo_monan_hor_200x64.png)
+| Versão PNG Horizontal (300x96px)  | Versão PNG Horizontal Color (300x96px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor_300x96.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color_300x96.png)  |
 
-## Versão PNG Horizontal (300x96px)
+| Versão PNG Horizontal (600x193px)  | Versão PNG Horizontal Color (600x193px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor_600x193.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color_600x193.png)  |
 
-![Versão PNG Horizontal](assets/logo_monan_hor_300x96.png)
+| Versão PNG Horizontal (1200x385px)  | Versão PNG Horizontal Color (1200x385px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor_1200x385.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color_1200x385.png)  |
 
-## Versão PNG Horizontal (600x193px)
+## Versões em PNG Vertical
 
-![Versão PNG Horizontal](assets/logo_monan_hor_600x193.png)
+| Versão PNG Vertical (100x128px)  | Versão PNG Vertical Color (100x128px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert_100x128.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color_100x128.png)  |
 
-## Versão PNG Horizontal (1200x385px)
+| Versão PNG Vertical (200x256px)  | Versão PNG Vertical Color (200x256px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert_200x256.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color_200x256.png)  |
 
-![Versão PNG Horizontal](assets/logo_monan_hor_1200x385.png)
+| Versão PNG Vertical (300x384px)  | Versão PNG Vertical Color (300x384px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert_300x384.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color_300x384.png)  |
 
-## Versão SVG Horizontal
+| Versão PNG Vertical (600x767px)  | Versão PNG Vertical Color (600x767px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert_600x767.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color_600x767.png)  |
 
-![Versão EPS Horizontal](assets/logo_monan_hor.svg)
+| Versão PNG Vertical (1200x1535px)  | Versão PNG Vertical Color (1200x1535px) |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert_1200x1535.png)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color_1200x1535.png)  |
 
-## Versão PNG Vertical (100x128px)
+## Versões em SVG
 
-![Versão PNG Vertical](assets/logo_monan_vert_100x128.png)
+| Versão SVG Horizontal | Versão SVG Horizontal Color |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_hor.svg)  | ![Versão PNG Horizontal Color](assets/logo_monan_hor_color.svg)  |
 
-## Versão PNG Vertical (200x256px)
-
-![Versão PNG Vertical](assets/logo_monan_vert_200x256.png)
-
-## Versão PNG Vertical (300x384px)
-
-![Versão PNG Vertical](assets/logo_monan_vert_300x384.png)
-
-## Versão PNG Vertical (600x767px)
-
-![Versão PNG Vertical](assets/logo_monan_vert_600x767.png)
-
-## Versão PNG Vertical (1200x1535px)
-
-![Versão PNG Vertical](assets/logo_monan_vert_1200x1535.png)
-
-## Versão SVG Vertical
-
-![Versão EPS Vertical](assets/logo_monan_vert.svg)
+| Versão SVG Vertical | Versão SVG Vertical Color |
+| ------------- | ------------- |
+| ![Versão PNG Horizontal](assets/logo_monan_vert.svg)  | ![Versão PNG Horizontal Color](assets/logo_monan_vert_color.svg)  |
