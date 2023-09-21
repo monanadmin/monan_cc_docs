@@ -11,6 +11,15 @@
 
 ----
 
+### Previsão sub-sazonal no Brasil: Avanços em pesquisas, desenvolvimentos e implementações operacionais - Seminário de divulgação científica e tecnológica (CPTEC/INPE)
+
+* **Título:** Previsão sub-sazonal no Brasil: Avanços em pesquisas, desenvolvimentos e implementações operacionais
+* **Resumo:** Há um crescente interesse por previsões meteorológicas em diversas escalas temporais desde dias até meses a frente, que são úteis para o planejamento de atividades de diversos setores da sociedade, tais como agricultura, gerenciamento de recursos hídricos e produção de energia elétrica, entre outros. A produção dessas previsões requer esforços coordenados da comunidade científica e tecnológica para enfrentar os desafios envolvidos no processo de geração de conhecimentos e informações para atender à crescente demanda. **Objetivo:** Fornecer um panorama das atividades de pesquisa, desenvolvimentos e implementações operacionais realizadas no Brasil nos últimos 6 anos por parceiros de instituições a nível federal e estadual na temática de previsão meteorológica na escala sub-sazonal (condições para as próximas semanas), uma escala temporal que preenche a lacuna entre a previsão de tempo (para os próximos dias) e a previsão climática sazonal (para os próximos 3 a 6 meses). **Público-alvo:** Pesquisadores, profissionais da área operacional de tempo e clima de instituições públicas e privadas, e estudantes interessados em previsões sub-sazonais.
+* **Data:** 10 de Outubro de 2023
+* **Mais informações:** [link para inscrição](https://docs.google.com/forms/d/e/1FAIpQLSeg0lRePa6oEY6LWkrAWIE4S1c-tsDuxVf1VOVL6WFn1ys4ew/viewform?pli=1)
+
+## Passados
+
 ### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
 
 * **Título:** CCPP Visioning Workshop
@@ -18,7 +27,7 @@
 * **Data:** 15 a 17 de Agosto de 2023
 * **Mais informações:** [https://dtcenter.org/events/2023/ccpp-visioning-workshop](https://dtcenter.org/events/2023/ccpp-visioning-workshop)
 
-## Passados
+----
 
 ### NVIDIA Omniverse - Enhancing Scientific Computing Workflows - Palestra LNCC
 
