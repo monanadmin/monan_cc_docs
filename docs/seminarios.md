@@ -9,7 +9,7 @@
 * **Data:** 16 de Outubro a 16 de Novembro de 2023
 * **Mais informações:** [https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/](https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/)
 
-----
+## Passados
 
 ### Previsão sub-sazonal no Brasil: Avanços em pesquisas, desenvolvimentos e implementações operacionais - Seminário de divulgação científica e tecnológica (CPTEC/INPE)
 
@@ -18,7 +18,18 @@
 * **Data:** 10 de Outubro de 2023
 * **Mais informações:** [link para inscrição](https://docs.google.com/forms/d/e/1FAIpQLSeg0lRePa6oEY6LWkrAWIE4S1c-tsDuxVf1VOVL6WFn1ys4ew/viewform?pli=1)
 
-## Passados
+----
+
+### Seminário de Pós-Graduação do LNCC com Dr. Pedro Leite da Silva Dias
+
+* **Título:** Modelagem do Sistema Climático Terrestre: MONAN – um exemplo de desenvolvimento cooperativo
+* **Resumo:** Evento organizado pelo Laboratório Nacional de Computação Científica (LNCC/MCTI) como parte do Programa de Pós-Graduação em Modelagem Computacional.
+* **Data:** 28 de Agosto de 2023
+* **Mais informações:** [https://www.gov.br/lncc/pt-br/assuntos/eventos/seminarios/serie-sdumont-modelagem-do-sistema-climatico-terrestre-monan-2013-um-exemplo-de-desenvolvimento-cooperativo](https://www.gov.br/lncc/pt-br/assuntos/eventos/seminarios/serie-sdumont-modelagem-do-sistema-climatico-terrestre-monan-2013-um-exemplo-de-desenvolvimento-cooperativo)
+
+![type:video](https://youtube.com/embed/-eTLlyAEtKA)
+
+----
 
 ### CCPP Visioning Workshop - Workshop conjunto NOAA, NCAR, NASA e outros
 
