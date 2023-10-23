@@ -20,10 +20,19 @@
 
 ----
 
+### Workshop RNP: Keynote com Dr. Saulo Freitas
+
+* **Título:** MONAN: Um novo paradigma de foco e organização para o avanço da previsão numérica de tempo, clima e ambiente no Brasil
+* **Resumo:** Em um mundo mais quente e em mudança, o INPE tem desenvolvido novas estratégias nacionais de resposta à sociedade brasileira com soluções eficazes para reduzir os problemas associados à ocorrência de eventos climáticos, climáticos e ambientais de alto impacto por meio de um Programa Nacional de Pesquisa, Desenvolvimento e Inovação. A iniciativa busca envolver diferentes partes interessadas, como academia e setores públicos, formuladores de políticas e agências meteorológicas regionais para apoiar a transferência da ciência para os serviços em uma abordagem do Sistema Terrestre. Desta iniciativa, destaca-se o desenvolvimento de um modelo unificado baseado na comunidade do sistema terrestre - o Modelo para predição oceano-terra-atmosfera (MONAN). A MONAN produzirá previsões perfeitas adequadas para a América do Sul, fornecendo informações úteis para diferentes setores econômicos e sociais, por meio de previsões mais confiáveis ??em diferentes escalas espaciais e temporais. O INPE está liderando o desenvolvimento do MONAN, que pretende substituir os atuais modelos atmosféricos que ele aplica atualmente. Para desenvolver um modelo de sistema terrestre de última geração, é necessário aproveitar as novas técnicas de computação de alto desempenho, processos físicos e biogeoquímicos, um núcleo dinâmico de última geração e centrar-se em dados. Isso significa que a MONAN usará novas técnicas em Inteligência Artificial (IA), Machine Learning (ML) e volume de dados que oferecem grandes oportunidades em todo o fluxo de trabalho de previsão numérica. É essencial explorar como as novas capacidades de IA e ML estão atualmente mudando a ciência do sistema terrestre e aproveitar as novas técnicas para melhorar as previsões numéricas que serão produzidas pela MONAN. Nesta apresentação, o Prof. Dr. Saulo Freitas apresentará o projeto MONAN e as perspectivas de desenvolvimentos atuais e potencial contribuição científica e colaboração em IA e ML.
+* **Data:** 29 de Agosto de 2023
+* **Mais informações:** [https://app.4.events/palestrante-profdrsaulofreitas-162-c21350](https://app.4.events/palestrante-profdrsaulofreitas-162-c21350)
+
+----
+
 ### Seminário de Pós-Graduação do LNCC com Dr. Pedro Leite da Silva Dias
 
 * **Título:** Modelagem do Sistema Climático Terrestre: MONAN – um exemplo de desenvolvimento cooperativo
-* **Resumo:** Evento organizado pelo Laboratório Nacional de Computação Científica (LNCC/MCTI) como parte do Programa de Pós-Graduação em Modelagem Computacional.
+* **Resumo:** A modelagem do sistema climático terrestre é um exemplo clássico da modelagem de fenômenos que ocorrem múltiplas escalas de tempo e espaço e que envolvem interação entre diferentes processos físicos. No caso do sistema terrestre, é preciso considerar a interação entre a atmosfera, hidrosfera, criosfera, biosfera e litosfera, que se comunicam de forma frequentemente não linear e cada componente tem escalas temporais distintas, tratando-se de um problema multiescala e multifísica. Neste seminário vamos mostrar em linhas gerais qual é a estrutura do modelo completo, como foi a evolução da modelagem climática desde o início do século XX e focar na forma como a modelagem climática está sendo abordado no Brasil nos últimos anos. Trata-se de uma iniciativa de construção de um modelo cooperativo entre instituições de pesquisa e universidades espalhadas pelo País e no exterior. O alvo é a construção do MONAN ( Model for Ocean-laNd-Atmosphere prediction). O MONAN parte da cooperação entre grupos de pesquisa que já têm domínio sobre diferentes componentes do Sistema Climático Terrestre, com e que, através da cooperação internacional, deverá produzir um sistema que permita modelar o clima e o tempo.
 * **Data:** 28 de Agosto de 2023
 * **Mais informações:** [https://www.gov.br/lncc/pt-br/assuntos/eventos/seminarios/serie-sdumont-modelagem-do-sistema-climatico-terrestre-monan-2013-um-exemplo-de-desenvolvimento-cooperativo](https://www.gov.br/lncc/pt-br/assuntos/eventos/seminarios/serie-sdumont-modelagem-do-sistema-climatico-terrestre-monan-2013-um-exemplo-de-desenvolvimento-cooperativo)
 
@@ -85,12 +94,30 @@
 
 ----
 
+### Painel sobre e-Ciência: Como os grandes centros de pesquisa brasileiros estão trabalhando e se preparando para as demandas que envolvem projetos de e-Ciência e BigData? - 24o. Workshop RNP
+
+* **Título:** Renovação da infraestrutura de supercomputação do INPE e sua aplicação no atendimento das demandas crescentes da sociedade brasileira por melhores previsões e monitoramento do tempo, clima e ambiente.
+* **Resumo:** Definimos e-Ciência como a ciência realizada de forma colaborativa por meio do uso intensivo das Tecnologias da Informação e Comunicação (TICs), especialmente: computação de alto desempenho, transmissão, análise e armazenamento de grandes volumes de dados. Observamos que existe uma forte relação entre Big Data e e-Ciência: à medida em que as instituições de pesquisa conseguem acessar, gerar e coletar dados de forma cada vez mais crescente, torna-se necessário ampliar o acesso a recursos computacionais e de comunicação para que os cientistas possam processar, analisar e armazenar dados. Nesse contexto, um dos maiores desafios para os gestores de instituições de pesquisa é a manutenção de suas infraestruturas de TIC para ciência, mantendo-as atualizadas tecnologicamente e realizando os investimentos necessários, frente ao crescimento exponencial das tecnologias e da quantidade de dados gerados. Esse painel visa apresentar como alguns dos principais centros de pesquisa brasileiros estão se preparando para suportar a crescente demanda por análise, processamento e armazenamento de dados.
+* **Data:** 23 de Maio de 2023
+* **Mais informações:** [https://vitrinedocsabertos.rnp.br/items/044ca083-cb21-4bf0-8021-0ad29e5acbeb/full](https://vitrinedocsabertos.rnp.br/items/044ca083-cb21-4bf0-8021-0ad29e5acbeb/full)
+
+----
+
 ### MOOC Machine Learning in Weather & Climate - Workshop ECMWF
 
 * **Título:** MOOC Machine Learning in Weather & Climate
 * **Resumo:** In this Massive Open Online Course (MOOC) you will explore the application of Machine Learning – a branch of Artificial Intelligence (AI) – across the main stages of numerical weather and climate predictions. These range from the acquisition and handling of input observations to their assimilation into models, and finally to forecasting and post-processing. In each element you will uncover both the added value and limitations of Machine Learning.
 * **Data:** Janeiro a Abril de 2023
 * **Mais informações:** [https://lms.ecmwf.int/pages/index.html](https://lms.ecmwf.int/pages/index.html) 
+
+----
+
+### MONAN: Model for Ocean-laNd-Atmosphere predictioN: Um novo paradigma para o avanço de previsão de tempo e clima do Brasil - V ECLIM
+
+* **Título:** MONAN- Model for Ocean-laNd-Atmosphere predictioN: Um novo paradigma para o avanço de previsão de tempo e clima do Brasil - status e planos futuros
+* **Resumo:** Encontro sobre Estudos do Sistema Climático - Eventos Climáticos Extremos e os Espaços Urbanos.
+* **Data:** 22, 23 e 24 de Novembro de 2022
+* **Mais informações:** [https://sigeventos.ufrn.br/evento/veclim/palestrante/1424](https://sigeventos.ufrn.br/evento/veclim/palestrante/1424)
 
 ----
 
