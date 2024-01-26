@@ -6,7 +6,7 @@ Nesta página encontram-se organizadas as atas das reuniões do Comitê Científ
 
 Navegue pelo menu lateral esquerdo para acessar as atas organizadas pela data da reunião do Comitê Científico.
 
-Para a documentação dos códigos em desenvolvimento do modelo MONAN, visite [https://github.com/monanadmin/monan](https://github.com/monanadmin/monan).
+Para obter mais informações, a documentação e os códigos em desenvolvimento do modelo MONAN, visite [https://monanadmin.github.io/](https://monanadmin.github.io/).
 
 *[INPE]: Instituto Nacional de Pesquisas Espaciais
 *[MCTI]: Ministério da Ciência, Tecnologia e Inovações
