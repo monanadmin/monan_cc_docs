@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Conferência Pan-Americana de Meteorologia - CPAM 2024
+
+* **Título:** Conferência Pan-Americana de Meteorologia - CPAM 2024
+* **Resumo:** Este evento conjunto será realizado na cidade de São Paulo/Brasil, entre 19 a 23 de agosto de 2024. Com o objetivo principal de discutir o papel da meteorologia frente às questões ambientais planetárias, o tema principal do evento será Mudanças Climáticas: Passado, Presente e Futuro. Dos vários temas que serão tratados, as mudanças climáticas, a transição energética, a segurança hídrica e alimentar, e o risco de desastres deflagrados por extremos do tempo e clima, estão entre aqueles que podem afetar as populações, tanto no presente como no futuro.
+* **Data:** 19 a 23 de Agosto de 2024
+* **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
+
+## Passados
+
 ### Métodos de Volumes Finitos para Modelos Globais Multiescala com Dr. Pedro Peixoto (USP)
 
 * **Título:** Métodos de Volumes Finitos para Modelos Globais Multiescala
@@ -9,7 +18,7 @@
 * **Data:** 16 de Outubro a 16 de Novembro de 2023
 * **Mais informações:** [https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/](https://www.ime.usp.br/~pedrosp/modelagem-numerica-atmosfera/)
 
-## Passados
+----
 
 ### Previsão sub-sazonal no Brasil: Avanços em pesquisas, desenvolvimentos e implementações operacionais - Seminário de divulgação científica e tecnológica (CPTEC/INPE)
 
