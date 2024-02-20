@@ -2,6 +2,15 @@
 
 ## Próximos
 
+###  Spring 2024 Virtual MPAS-A Tutorial 
+
+* **Título:** Spring 2024 Virtual MPAS-A Tutorial
+* **Resumo:** The Mesoscale and Microscale Meteorology (MMM) Laboratory of the NSF National Center for Atmospheric Research (NSF NCAR) will host a virtual tutorial on the Model for Prediction Across Scales – Atmosphere (MPAS-A) from 22 – 24 April 2024. The tutorial will cover the basics of how to set-up, run, and post-process stand-alone MPAS-A simulations.
+* **Data:** 22 a 24 de Abril de 2024
+* **Mais informações:** [https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155](https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155)
+
+----
+
 ### Conferência Pan-Americana de Meteorologia - CPAM 2024
 
 * **Título:** Conferência Pan-Americana de Meteorologia - CPAM 2024
