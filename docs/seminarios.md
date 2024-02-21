@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### 4th Workshop on convective organization and precipitation extremes (WCO4) 
+
+* **Título:** 4th Workshop on convective organization and precipitation extremes (WCO4) 
+* **Resumo:** An ICTP hybrid meeting. Organized convective systems are often responsible for high impact precipitation extremes, and changes in convective organization have the potential to amplify or dampen future climate change. This workshop will examine our present knowledge of convective organization in models and observations.
+* **Data:** 09 a 12 de Julho de 2024
+* **Mais informações:** [https://indico.ictp.it/event/10579/](https://indico.ictp.it/event/10579/) 
+
+----
+
 ###  Spring 2024 Virtual MPAS-A Tutorial 
 
 * **Título:** Spring 2024 Virtual MPAS-A Tutorial
