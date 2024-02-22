@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### 11th International Carbon Dioxide Conference
+
+* **Título:** 11th International Carbon Dioxide Conference
+* **Resumo:** The 11th International Carbon Dioxide Conference (ICDC11) will be hosted in Manaus, Brazil from July 29th – August 2nd, 2024, at the Vasco Vasques Convention Center. ICDC11 was originally planned for 2021 but was delayed due to the COVID-19 pandemic and subsequent logistical challenges. Manaus was selected to allow visitors to experience a taste of the Amazon, a region central to understanding the global carbon cycle. Taking place in the heart of Amazônia, amidst an El Niño, and on the heels of the first Global Stocktake, ICDC11 represents an important opportunity to consider how improved understanding of terrestrial and oceanic carbon fluxes can inform carbon management and mitigation policy. The conference will provide the platform to have a dialogue between communities focused on understanding our latest science, technological capabilities and the needs, priorities and open questions of the policy and management communities.
+* **Data:** 29 de Julho a 02 de Agosto de 2024
+* **Mais informações:** [http://www.icdc11.com/](http://www.icdc11.com/) 
+
+----
+
 ### 4th Workshop on convective organization and precipitation extremes (WCO4) 
 
 * **Título:** 4th Workshop on convective organization and precipitation extremes (WCO4) 
