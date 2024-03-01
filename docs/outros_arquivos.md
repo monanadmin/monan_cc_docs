@@ -13,6 +13,7 @@ Nesta página estão organizados arquivos com informações pertinentes ao desen
 
 ## Outras Publicações
 
+* [E3SM Floating Points, Feb ’24: Entering a Decade of Earth System Modeling](https://mailchi.mp/a974666c17da/e3sm-floating-points-february-24-entering-a-decade-of-earth-system-modeling?e=e95b70b8ed)
 * [2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth System observation and prediction](https://www.nature.com/articles/s41612-023-00387-2)
 * [NOAA - Computing upgrade paves way for planned model improvements](https://www.noaa.gov/media-release/us-to-triple-operational-weather-and-climate-supercomputing-capacity)
 * [WMO - White Paper One Contributor: Tim Palmer](https://ppe-openplatform.wmo.int/en/WP1TP)
