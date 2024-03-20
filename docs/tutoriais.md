@@ -2,7 +2,11 @@
 
 # Plataforma ConferênciaWEB RNP
 
-Algumas instruções específicas sobre o uso da plataforma ConferênciaWeb da RNP, para os navegadores Mozilla Firefox e Google Chrome.
+Algumas instruções específicas sobre o uso da plataforma ConferênciaWeb da RNP, para os navegadores Mozilla Firefox e Google Chrome. À seguir, uma visão geral sobre o uso da plataforma ConferênciaWeb RNP:
+
+![type:video](https://eduplay.rnp.br/portal/video/embed/139335)
+
+Nas duas seções a seguir, são detalhadas as formas de compartilhamento de tela a partir dos navegadores Mozilla Firefox e Google Chrome.
 
 ## Google Chrome
 
@@ -42,3 +46,4 @@ Para compartilhar a sua tela durante a reunião pelo navegador Mozilla Firefox, 
 ## Referência
 
 * [ConferênciaWeb RNP - Como usar?](https://conferenciaweb.rnp.br/#como_usar)
+* [ConferênciaWeb RNP - Manual do Usuário](https://ajuda.rnp.br/conferenciaweb/manuais-de-uso-do-servico/manual-do-usuario)
