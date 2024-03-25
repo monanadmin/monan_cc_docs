@@ -1,6 +1,6 @@
 # 05 de Março de 2024
 
-## ATA 001/2024 - Revisão 002
+## ATA 001/2024 - Revisão 003
 
 ![type:video](https://youtube.com/embed/6sAmptPZMOg)
 
@@ -20,6 +20,7 @@
         | R000    | 05/03/2024      | <ul> <li> Versão inicial por Carlos Frederico Bastarz/INPE </li> </ul> |
         | R001    | 19/03/2024      | <ul> <li> Revisão geral por Gilson Silva/INPE </li> </ul> |
         | R002    | 25/03/2024      | <ul> <li> Revisão por Carlos Frederico Bastarz/INPE </li> </ul> |
+        | R003    | 25/03/2024      | <ul> <li> Link adicionado por Carlos Frederico Bastarz/INPE </li> </ul> |
     
     === "Participações"
     
@@ -176,7 +177,7 @@ Saulo Freitas comenta ter sido uma reunião proveitosa e encerra agradecendo a p
     * [Apresentação Saulo Freitas]()
     * [Apresentação Gilson Silva](https://drive.google.com/file/d/1hqUOIYX9bmseRepJZqkfN8bh4drW5PBJ/view?usp=drive_link)
     * [Apresentação Paulo Kubota](https://drive.google.com/file/d/1kzugbIPs8lE37SUoxZiXxGzdl__RWD-B/view?usp=drive_link)
-    * [Apresentação Denis Eiras]()
+    * [Apresentação Denis Eiras](https://drive.google.com/file/d/17542OQHaNbCEGlz-YO83IaLQZ0hRTgnj/view?usp=drive_link)
     * [Apresentação Roberto Souto]()
     * [Apresentação João Gerd]() 
     * [Apresentação Ronald Buss](https://drive.google.com/file/d/1MdxdqfN1tVA_moM5o_fFl4zbKrWcTTRg/view?usp=drive_link)
