@@ -1,6 +1,6 @@
 # 05 de Março de 2024
 
-## ATA 001/2024 - Revisão 004
+## ATA 001/2024 - Revisão 005
 
 ![type:video](https://youtube.com/embed/6sAmptPZMOg)
 
@@ -22,6 +22,7 @@
         | R002    | 25/03/2024      | <ul> <li> Revisão por Carlos Frederico Bastarz/INPE </li> </ul> |
         | R003    | 25/03/2024      | <ul> <li> Link adicionado por Carlos Frederico Bastarz/INPE </li> </ul> |
         | R004    | 26/03/2024      | <ul> <li> Link adicionado por Carlos Frederico Bastarz/INPE </li> </ul> |
+        | R005    | 27/03/2024      | <ul> <li> Removido link adicionado por Carlos Frederico Bastarz/INPE </li> </ul> |
     
     === "Participações"
     
@@ -177,7 +178,7 @@ Saulo Freitas comenta ter sido uma reunião proveitosa e encerra agradecendo a p
     * [Gravação da Reunião do Comitê Científico do MONAN - 05 de Março de 2024](https://youtu.be/6sAmptPZMOg?si=bTJSG9y5Kayf-IT_)
     * [Apresentação Saulo Freitas](https://drive.google.com/file/d/1n02ed2eLiJOs_no3mwyLH2jMdUfKpsFD/view?usp=drive_link)
     * [Apresentação Gilson Silva](https://drive.google.com/file/d/1hqUOIYX9bmseRepJZqkfN8bh4drW5PBJ/view?usp=drive_link)
-    * [Apresentação Paulo Kubota](https://drive.google.com/file/d/1kzugbIPs8lE37SUoxZiXxGzdl__RWD-B/view?usp=drive_link)
+    * [Apresentação Paulo Kubota]()
     * [Apresentação Denis Eiras](https://drive.google.com/file/d/17542OQHaNbCEGlz-YO83IaLQZ0hRTgnj/view?usp=drive_link)
     * [Apresentação Roberto Souto]()
     * [Apresentação João Gerd]() 
