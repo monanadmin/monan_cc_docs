@@ -59,6 +59,9 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     - Pedro da Silva Peixoto ([lattes](http://lattes.cnpq.br/6547630839036017) | [github](https://github.com/pedrospeixoto) | [webpage](https://www.ime.usp.br/~pedrosp/sobre/))
     - Ricardo de Camargo ([lattes](http://lattes.cnpq.br/4224364363630813)) 
 
+* **Universidade Federal de Pelotas (UFPel):**
+    - Fabrício Pereira Härter ([lattes](http://lattes.cnpq.br/9865056179221557) | [webpage](https://institucional.ufpel.edu.br/servidores/id/29732))
+
 ## Forças Armadas
 
 * **Centro Gestor e Operacional do Sistema de Proteção da Amazônia (CENSIPAM):** 
