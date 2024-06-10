@@ -2,6 +2,24 @@
 
 ## Próximos
 
+### MONAN Meeting: AI for atmosphere/ocean dynamics
+
+* **Título:** MONAN Meeting: AI for atmosphere/ocean dynamics
+* **Resumo:** Este é um evento associado ao projeto MONAN (acrônimo para: Model for Ocean-LaNd-Atmosphere PredictioN – em português: Modelo para previsão de oceano-solo-atmosfera). O projeto MONAN é um esforço multi-institucional de desenvolvimento de um modelo numérico de previãoo de dinâmica de ﬂuidos geofísicos comunitário (desenvolvimento conjunto por várias instituições de software livre e disponibilizado para todos usuários interessados) e uniﬁcado (acoplamento de vários componentes do sistema terrestre: oceano, solo e atmosfera) cobrindo várias escalas temporais e espaciais.
+* **Data:** 19 a 21 de Junho de 2024
+* **Mais informações:** [juliana.anochi@inpe.br](juliana.anochi@inpe.br)
+
+----
+
+###
+
+* **Título:** 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
+* **Resumo:** Temos o prazer de informá-los que o 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN), será realizado de 12 a 16 de agosto no INPE de Cachoeira Paulista/SP. Nessa oportunidade, será priorizado os membros do Comitê Científico do MONAN, externos do INPE, ou seus indicados. O INPE custeará as participações no curso com passagens e diárias aos participantes. As inscrições devem ser feitas através do email  (gilson.silva@inpe.br) na Secretaria da Comissão Organizadora, indicando o seu nome ou o nome de um participante da sua instituição e a data limite para isso é dia 05/06/2024 (quarta-feira).
+* **Data:** inscrições até 05 de Junho de 2024
+* **Mais informações:** [gilson.silva@inpe.br](gilson.silva@inpe.br)
+
+----
+
 ### 11th International Carbon Dioxide Conference
 
 * **Título:** 11th International Carbon Dioxide Conference
@@ -20,15 +38,6 @@
 
 ----
 
-###  Spring 2024 Virtual MPAS-A Tutorial 
-
-* **Título:** Spring 2024 Virtual MPAS-A Tutorial
-* **Resumo:** The Mesoscale and Microscale Meteorology (MMM) Laboratory of the NSF National Center for Atmospheric Research (NSF NCAR) will host a virtual tutorial on the Model for Prediction Across Scales – Atmosphere (MPAS-A) from 22 – 24 April 2024. The tutorial will cover the basics of how to set-up, run, and post-process stand-alone MPAS-A simulations.
-* **Data:** 22 a 24 de Abril de 2024
-* **Mais informações:** [https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155](https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155)
-
-----
-
 ### Conferência Pan-Americana de Meteorologia - CPAM 2024
 
 * **Título:** Conferência Pan-Americana de Meteorologia - CPAM 2024
@@ -37,6 +46,15 @@
 * **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
 
 ## Passados
+
+###  Spring 2024 Virtual MPAS-A Tutorial 
+
+* **Título:** Spring 2024 Virtual MPAS-A Tutorial
+* **Resumo:** The Mesoscale and Microscale Meteorology (MMM) Laboratory of the NSF National Center for Atmospheric Research (NSF NCAR) will host a virtual tutorial on the Model for Prediction Across Scales – Atmosphere (MPAS-A) from 22 – 24 April 2024. The tutorial will cover the basics of how to set-up, run, and post-process stand-alone MPAS-A simulations.
+* **Data:** 22 a 24 de Abril de 2024
+* **Mais informações:** [https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155](https://www.mmm.ucar.edu/events/tutorial/2024/spring-2024-133155)
+
+----
 
 ### Métodos de Volumes Finitos para Modelos Globais Multiescala com Dr. Pedro Peixoto (USP)
 

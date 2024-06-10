@@ -1,5 +1,14 @@
 # Oportunidades
 
+## Próximas
+
+### Inscrições para bolsas PIBIC/PIBIT em áreas do INPE
+
+* **Título:** Programa Institucional de Bolsas de Iniciação Cientifica e Tecnológica do INPE
+* **Resumo:** **O que é o PIBIC?** O foco principal do Programa Institucional de Bolsas de Iniciação Cientifica (PIBIC) é promover uma ênfase científica aos novos talentos que estão para se formar. Serve como incentivo para se iniciar em pesquisas científicas em todas as áreas de conhecimento. Os projetos de pesquisa nos quais os alunos e as alunas participam devem ter qualidade acadêmica, mérito científico e orientação adequada por um pesquisador qualificado. **O que é o PIBIT?** O Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) visa proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa tecnológica, bem como estimular o desenvolvimento do pensar tecnológico e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa.
+* **Data:** 27 de junho de 2024
+* **Mais informações:** [https://www.gov.br/inpe/pt-br/area-conhecimento/fomento-a-pesquisa-e-desenvolvimento/pibic-pibiti/cronograma](https://www.gov.br/inpe/pt-br/area-conhecimento/fomento-a-pesquisa-e-desenvolvimento/pibic-pibiti/cronograma)
+
 ## Passadas
 
 ### Inscrições para bolsas PCI em áreas do INPE
