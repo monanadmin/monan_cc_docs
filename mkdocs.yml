@@ -11,38 +11,38 @@ edit_uri: edit/master/docs/
 
 # Page tree
 nav:
-  - Atas 2021:
-    - '05 de Maio de 2021': ata_cc_05_maio_2021.md
-    - '04 de Junho de 2021': ata_cc_04_junho_2021.md
-    - '30 de Agosto de 2021': ata_cc_30_agosto_2021.md
-    - '04 de Novembro de 2021': ata_cc_04_novembro_2021.md
-    - '06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
-  - Atas 2022:
-    - '28 de Março de 2022': ata_cc_28_marco_2022.md
-    - '13 de Outubro de 2022': ata_cc_13_outubro_2022.md
-  - Atas 2023:
-    - '03 de Agosto de 2023': ata_cc_03_agosto_2023.md
-  - Atas 2024 🆕:
-    - '05 de Março de 2024 🆕': ata_cc_05_marco_2024.md
-  - Anúncios 🆕:
-    - Oportunidades 🆕: oportunidades.md
-    - Seminários 🆕:
-      - 'Seminários Institucionais 🆕': seminarios.md
-      - 'Seminários ATOS-BULL': seminarios_atos_bull.md
-      - 'Seminários NVIDIA': seminarios_nvidia.md
-  - Arquivos ⭐:
-    - 'Carta de Apresentação do MONAN': carta_apres_monan.md
-    - 'Portaria INPE': portaria_inpe.md  
-    - 'Relatórios ⭐': relatorios.md
-    - 'Outros Arquivos': outros_arquivos.md
-  - Membros: membros.md
-  - Subcomitês: subcomites.md
+  - 📄 Atas 2021:
+    - '◾05 de Maio de 2021': ata_cc_05_maio_2021.md
+    - '◾04 de Junho de 2021': ata_cc_04_junho_2021.md
+    - '◾30 de Agosto de 2021': ata_cc_30_agosto_2021.md
+    - '◾04 de Novembro de 2021': ata_cc_04_novembro_2021.md
+    - '◾06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
+  - 📄 Atas 2022:
+    - '◾28 de Março de 2022': ata_cc_28_marco_2022.md
+    - '◾13 de Outubro de 2022': ata_cc_13_outubro_2022.md
+  - 📄 Atas 2023:
+    - '◾03 de Agosto de 2023': ata_cc_03_agosto_2023.md
+  - 📄 Atas 2024:
+    - '◾05 de Março de 2024': ata_cc_05_marco_2024.md
+  - 📯 Anúncios:
+    - 🎯 Oportunidades: oportunidades.md
+    - 💬 Seminários:
+      - '◾Seminários Institucionais': seminarios.md
+      - '◾Seminários ATOS-BULL': seminarios_atos_bull.md
+      - '◾Seminários NVIDIA': seminarios_nvidia.md
+  - 🗃️ Arquivos:
+    - '◾Carta de Apresentação do MONAN': carta_apres_monan.md
+    - '◾Portaria INPE': portaria_inpe.md  
+    - '◾Relatórios': relatorios.md
+    - '◾Outros Arquivos': outros_arquivos.md
+  - 👨 Membros: membros.md
+  - 🏛️ Subcomitês: subcomites.md
     #  - Anúncios e Oportunidades: anuncios_oportunidades.md
-  - Recursos:
-    - 'Logo MONAN': logo_monan.md
+  - ⚙️  Recursos:
+    - '◾Logo MONAN': logo_monan.md
 #    - 'Templates': templates.md
-  - Tutoriais 🆕: tutoriais.md
-  - Clipping: clipping.md
+  - 🖥️ Tutoriais: tutoriais.md
+  - 📰 Clipping: clipping.md
 
 # Configuration
 theme: 
