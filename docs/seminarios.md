@@ -2,15 +2,6 @@
 
 ## Próximos
 
-### MONAN Meeting: AI for atmosphere/ocean dynamics
-
-* **Título:** MONAN Meeting: AI for atmosphere/ocean dynamics
-* **Resumo:** Este é um evento associado ao projeto MONAN (acrônimo para: Model for Ocean-LaNd-Atmosphere PredictioN – em português: Modelo para previsão de oceano-solo-atmosfera). O projeto MONAN é um esforço multi-institucional de desenvolvimento de um modelo numérico de previãoo de dinâmica de ﬂuidos geofísicos comunitário (desenvolvimento conjunto por várias instituições de software livre e disponibilizado para todos usuários interessados) e uniﬁcado (acoplamento de vários componentes do sistema terrestre: oceano, solo e atmosfera) cobrindo várias escalas temporais e espaciais.
-* **Data:** 19 a 21 de Junho de 2024
-* **Mais informações:** [juliana.anochi@inpe.br](mailto:juliana.anochi@inpe.br)
-
-----
-
 ### 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
 
 * **Título:** 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
@@ -46,6 +37,19 @@
 * **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
 
 ## Passados
+
+### MONAN Meeting: AI for atmosphere/ocean dynamics
+
+* **Título:** MONAN Meeting: AI for atmosphere/ocean dynamics
+* **Resumo:** Este é um evento associado ao projeto MONAN (acrônimo para: Model for Ocean-LaNd-Atmosphere PredictioN – em português: Modelo para previsão de oceano-solo-atmosfera). O projeto MONAN é um esforço multi-institucional de desenvolvimento de um modelo numérico de previãoo de dinâmica de ﬂuidos geofísicos comunitário (desenvolvimento conjunto por várias instituições de software livre e disponibilizado para todos usuários interessados) e uniﬁcado (acoplamento de vários componentes do sistema terrestre: oceano, solo e atmosfera) cobrindo várias escalas temporais e espaciais.
+* **Data:** 19 a 21 de Junho de 2024
+* **Mais informações:** [juliana.anochi@inpe.br](mailto:juliana.anochi@inpe.br)
+
+![type:video](https://youtube.com/embed/uOHtjQ27Z7g?si=u5ulOhljiXGVhtEE)
+![type:video](https://youtube.com/embed/P6g65RMzJ_k?si=pSJOkOu7LpnwmNbR)
+![type:video](https://youtube.com/embed/ik8j6eiJQt0?si=tOSkop87SSQGWAfQ)
+
+----
 
 ###  Spring 2024 Virtual MPAS-A Tutorial 
 
