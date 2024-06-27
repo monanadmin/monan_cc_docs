@@ -2,6 +2,8 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+* 27/06/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE Realiza Evento Sobre Modelo Comunitário Brasileiro do Sistema Terrestre](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-realiza-evento-sobre-modelo-comunitario-brasileiro-do-sistema-terrestre).
+* 10/03/2024 - Jornal Nexo: [Brasil aprimora infraestrutura de supercomputadores](https://www.nexojornal.com.br/externo/2024/03/10/brasil-aprimora-infraestrutura-de-supercomputadores).
 * 14/12/2023 - Diário Oficial da União: [PORTARIA Nº 1.038, de 14 de dezembro de 2023](https://www.in.gov.br/web/dou/-/portaria-n-1.038-de-14-de-dezembro-de-2023-530653031).
 * 29/08/2023 - Fórum RNP 2023: ["Amazônia não pode ser apenas fornecedora de matéria-prima", afirma ministro Waldez Góes no Fórum RNP](https://www.rnp.br/noticias/amazonia-nao-pode-ser-apenas-fornecedora-de-materia-prima-afirma-ministro-waldez-goes-no).
 * 28/08/2023 - Diário de Petrópolis: [Ciclo de Palestras Pós-graduação: "Modelagem do Sistema Climático Terrestre: MONAN – um exemplo de desenvolvimento cooperativo"](https://www.diariodepetropolis.com.br/integra/ciclo-de-palestras-pos-graduacao-modelagem-do-sistema-climatico-terrestre-monan-um-exemplo-de-desenvolvimento-cooperativo-247584).
