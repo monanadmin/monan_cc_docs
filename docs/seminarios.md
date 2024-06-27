@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### RA IV webinar: Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction (WMO)
+
+* **Título:** Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction
+* **Resumo:** Key objectives: 1. Discuss how ML/AI works in relation to weather/climate prediction; 2. Identify the prospects of ML/AI in predicting weather and climate events; 3. Examine the best use of Artificial Intelligence Weather Prediction (AIWP) versus other numerical prediction methods; 4. Identify the challenges faced in applying AIWP in regions with limited data availability. It is expected that the presentations will: Enhanced understanding of how ML/AI operates in weather prediction; Insights provided into the performance of AIWP compared to traditional dynamical models; Identified challenges associated with applying AIWP in weather forecasting, particularly in data-sparse regions.
+* **Data:** 03 de Julho de 2024
+* **Mais informações:** [https://forms.office.com/e/vyhezMPqHK](https://forms.office.com/e/vyhezMPqHK)
+
+----
+
 ### 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
 
 * **Título:** 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
