@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### PDEs on the sphere workshop 2025 (USP/INPE)
+
+* **Título:** PDEs on the sphere workshop 2025
+* **Resumo:** This workshop is about numerical solution techniques on modern and emerging computer architectures of the partial differential equations that govern weather, climate and ocean circulation. For the first time in the South Hemisphere after more than 30 years of existence, the event will be organized by the University of São Paulo (USP) in collaboration with the Brazilian National Institute for Space Research (INPE), in association with the Model for Ocean-laNd-Atmosphere predictioN (MONAN) initiative.
+* **Data:** 12 a 16 de Maio de 2025
+* **Mais informações:** [https://pdes-brazil.sciencesconf.org/](https://pdes-brazil.sciencesconf.org/)
+
+----
+
 ### RA IV webinar: Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction (WMO)
 
 * **Título:** Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction
@@ -56,6 +65,7 @@
 
 ![type:video](https://youtube.com/embed/uOHtjQ27Z7g?si=u5ulOhljiXGVhtEE)
 ![type:video](https://youtube.com/embed/P6g65RMzJ_k?si=pSJOkOu7LpnwmNbR)
+![type:video](https://youtube.com/embed/YUQDScPSQdk?si=VtsJmOfoNblxxMs8)
 ![type:video](https://youtube.com/embed/ik8j6eiJQt0?si=tOSkop87SSQGWAfQ)
 
 ----
