@@ -2,6 +2,8 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+* 04/07/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE divulga edital para aquisição do novo supercomputador](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/inpe-divulga-edital-para-aquisicao-do-novo-supercomputador).
+* 04/07/2024 - Ministério da Ciência, Tecnologia e Inovações: ["Monan" trará mais precisão para as previsões climáticas do Brasil](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/201cmonan201d-trara-mais-precisao-para-as-previsoes-climaticas-do-brasil).
 * 27/06/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE Realiza Evento Sobre Modelo Comunitário Brasileiro do Sistema Terrestre](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-realiza-evento-sobre-modelo-comunitario-brasileiro-do-sistema-terrestre).
 * 10/03/2024 - Jornal Nexo: [Brasil aprimora infraestrutura de supercomputadores](https://www.nexojornal.com.br/externo/2024/03/10/brasil-aprimora-infraestrutura-de-supercomputadores).
 * 14/12/2023 - Diário Oficial da União: [PORTARIA Nº 1.038, de 14 de dezembro de 2023](https://www.in.gov.br/web/dou/-/portaria-n-1.038-de-14-de-dezembro-de-2023-530653031).
