@@ -2,6 +2,7 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+* 15/07/2024 - Jornal Zero Hora: ["Ajudaria muito nesse evento extremo no RS": entenda como o Brasil investirá R$ 200 milhões para melhorar a previsão do tempo](https://gauchazh.clicrbs.com.br/ambiente/noticia/2024/07/ajudaria-muito-nesse-evento-extremo-no-rs-entenda-como-o-brasil-investira-r-200-milhoes-para-melhorar-a-previsao-do-tempo-clynha8wz004k013jjuojkhqm.html).
 * 04/07/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE divulga edital para aquisição do novo supercomputador](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/inpe-divulga-edital-para-aquisicao-do-novo-supercomputador).
 * 04/07/2024 - Ministério da Ciência, Tecnologia e Inovações: ["Monan" trará mais precisão para as previsões climáticas do Brasil](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/201cmonan201d-trara-mais-precisao-para-as-previsoes-climaticas-do-brasil).
 * 27/06/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE Realiza Evento Sobre Modelo Comunitário Brasileiro do Sistema Terrestre](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-realiza-evento-sobre-modelo-comunitario-brasileiro-do-sistema-terrestre).
