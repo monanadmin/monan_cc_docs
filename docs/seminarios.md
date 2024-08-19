@@ -11,6 +11,26 @@
 
 ----
 
+### Conferência Pan-Americana de Meteorologia - CPAM 2024
+
+* **Título:** Conferência Pan-Americana de Meteorologia - CPAM 2024
+* **Resumo:** Este evento conjunto será realizado na cidade de São Paulo/Brasil, entre 19 a 23 de agosto de 2024. Com o objetivo principal de discutir o papel da meteorologia frente às questões ambientais planetárias, o tema principal do evento será Mudanças Climáticas: Passado, Presente e Futuro. Dos vários temas que serão tratados, as mudanças climáticas, a transição energética, a segurança hídrica e alimentar, e o risco de desastres deflagrados por extremos do tempo e clima, estão entre aqueles que podem afetar as populações, tanto no presente como no futuro.
+* **Data:** 19 a 23 de Agosto de 2024
+* **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
+
+## Passados
+
+### 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
+
+* **Título:** 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
+* **Resumo:** Temos o prazer de informá-los que o 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN), será realizado de 12 a 16 de agosto no INPE de Cachoeira Paulista/SP. Nessa oportunidade, será priorizado os membros do Comitê Científico do MONAN, externos do INPE, ou seus indicados. O INPE custeará as participações no curso com passagens e diárias aos participantes. As inscrições devem ser feitas através do email  (gilson.silva@inpe.br) na Secretaria da Comissão Organizadora, indicando o seu nome ou o nome de um participante da sua instituição e a data limite para isso é dia 05/06/2024 (quarta-feira).
+* **Data:** inscrições até 05 de Junho de 2024
+* **Mais informações:** [gilson.silva@inpe.br](mailto:gilson.silva@inpe.br)
+
+![img](figs/photo_group3.jpg)
+
+----
+
 ### RA IV webinar: Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction (WMO)
 
 * **Título:** Machine Learning (ML)/Artificial Intelligence (AI) in Weather Prediction
@@ -37,24 +57,6 @@
 * **Mais informações:** [https://indico.ictp.it/event/10579/](https://indico.ictp.it/event/10579/) 
 
 ----
-
-### Conferência Pan-Americana de Meteorologia - CPAM 2024
-
-* **Título:** Conferência Pan-Americana de Meteorologia - CPAM 2024
-* **Resumo:** Este evento conjunto será realizado na cidade de São Paulo/Brasil, entre 19 a 23 de agosto de 2024. Com o objetivo principal de discutir o papel da meteorologia frente às questões ambientais planetárias, o tema principal do evento será Mudanças Climáticas: Passado, Presente e Futuro. Dos vários temas que serão tratados, as mudanças climáticas, a transição energética, a segurança hídrica e alimentar, e o risco de desastres deflagrados por extremos do tempo e clima, estão entre aqueles que podem afetar as populações, tanto no presente como no futuro.
-* **Data:** 19 a 23 de Agosto de 2024
-* **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
-
-## Passados
-
-### 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
-
-* **Título:** 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
-* **Resumo:** Temos o prazer de informá-los que o 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN), será realizado de 12 a 16 de agosto no INPE de Cachoeira Paulista/SP. Nessa oportunidade, será priorizado os membros do Comitê Científico do MONAN, externos do INPE, ou seus indicados. O INPE custeará as participações no curso com passagens e diárias aos participantes. As inscrições devem ser feitas através do email  (gilson.silva@inpe.br) na Secretaria da Comissão Organizadora, indicando o seu nome ou o nome de um participante da sua instituição e a data limite para isso é dia 05/06/2024 (quarta-feira).
-* **Data:** inscrições até 05 de Junho de 2024
-* **Mais informações:** [gilson.silva@inpe.br](mailto:gilson.silva@inpe.br)
-
-![img](figs/photo_group3.jpg)
 
 ----
 
