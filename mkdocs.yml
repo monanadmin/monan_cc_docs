@@ -41,7 +41,9 @@ nav:
   - ⚙️  Recursos:
     - '◾Logo MONAN': logo_monan.md
 #    - 'Templates': templates.md
-  - 🖥️ Tutoriais: tutoriais.md
+  - 🖥️ Treinamentos:
+    - '◾Agosto de 2024': treinamento_agosto_2024.md
+  - 📚 Tutoriais: tutoriais.md
   - 📰 Clipping: clipping.md
 
 # Configuration
