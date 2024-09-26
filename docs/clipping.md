@@ -2,6 +2,7 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+* 25/09/2024 - TV Senado (via Youtube): [Senado debate incêndios florestais e mudanças climáticas](https://www.youtube.com/live/r3w0IPmuSJQ?si=EuRcQ6DSFqBwcIAx&t=3199).
 * 10/09/2024 - Band Vale: [HPE-Cray vence licitação para fornecer novo supercomputador ao INPE](https://www.band.uol.com.br/band-vale/noticias/hpe-cray-vence-licitacao-para-fornecer-novo-supercomputador-ao-inpe-202409100800).
 * 31/07/2024 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE Abrigará 1º Treinamento de uso e aplicações do modelo comunitário do sistema Terrestre MONAN](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-abrigara-1o-treinamento-de-uso-e-aplicacoes-do-modelo-comunitario-do-sistema-terrestre-monan).
 * 18/07/2024 - BBC News Brasil: [O supercomputador que mudará previsão do tempo no Brasil e recolocará país no mapa da meteorologia](https://www.bbc.com/portuguese/articles/c51ykgyq51vo).
