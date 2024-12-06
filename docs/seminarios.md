@@ -9,7 +9,7 @@
 * **Data:** 12 a 16 de Maio de 2025
 * **Mais informações:** [https://pdes-brazil.sciencesconf.org/](https://pdes-brazil.sciencesconf.org/)
 
-----
+## Passados
 
 ### Conferência Pan-Americana de Meteorologia - CPAM 2024
 
@@ -18,7 +18,7 @@
 * **Data:** 19 a 23 de Agosto de 2024
 * **Mais informações:** [https://cpam2024.com](https://cpam2024.com)
 
-## Passados
+----
 
 ### 1º Treinamento Científico do Modelo para Previsão dos Oceanos, Superfícies Terrestres e Atmosfera (MONAN - Model for Ocean-laNd-Atmosphere predictioN)
 
