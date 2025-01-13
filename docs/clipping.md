@@ -21,6 +21,7 @@ Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN
 * 04/07/2024 - Ministério da Ciência, Tecnologia e Inovações: ["Monan" trará mais precisão para as previsões climáticas do Brasil](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/07/201cmonan201d-trara-mais-precisao-para-as-previsoes-climaticas-do-brasil).
 * 27/06/2024 - Ministério da Ciência, Tecnologia e Inovações: [INPE Realiza Evento Sobre Modelo Comunitário Brasileiro do Sistema Terrestre](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-realiza-evento-sobre-modelo-comunitario-brasileiro-do-sistema-terrestre).
 * 10/03/2024 - Jornal Nexo: [Brasil aprimora infraestrutura de supercomputadores](https://www.nexojornal.com.br/externo/2024/03/10/brasil-aprimora-infraestrutura-de-supercomputadores).
+* 05/03/2024 - Revista Pesquisa FAPESP: [Brasil aprimora infraestrutura de supercomputadores](https://revistapesquisa.fapesp.br/brasil-aprimora-infraestrutura-de-supercomputadores/).
 
 ## 2023
 
