@@ -81,6 +81,12 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 * **Ministério da Ciência, Tecnologia e Inovações (MCTI):**
     - Antônio Marcos Mendonça ([lattes](http://lattes.cnpq.br/4230309177760883))
 
+## Empresas Brasileiras
+
+* **ELETROBRÁS:**
+
+   - Marlos José Ribeiro Guimarães ([lattes](http://lattes.cnpq.br/3953309887188837))
+
 ## Entidades Internacionais
 
 * **Servicio Meteorológico Nacional (SMN) - Argentina:**
