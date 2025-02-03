@@ -84,8 +84,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
 ## Empresas Brasileiras
 
 * **ELETROBRÁS:**
-
-   - Marlos José Ribeiro Guimarães ([lattes](http://lattes.cnpq.br/3953309887188837))
+    - Marlos José Ribeiro Guimarães ([lattes](http://lattes.cnpq.br/3953309887188837))
 
 ## Entidades Internacionais
 
