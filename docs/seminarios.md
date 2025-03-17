@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### National Centre for Atmospheric Science - Study the MPAS model (NCAS) 
+
+* **Título:** Study the MPAS model 
+* **Resumo:** The National Centre for Atmospheric Science (NCAS, UK) and the National Science Foundation – National Center for Atmospheric Research (NSF NCAR, USA) are delighted to announce an upcoming MPAS-Atmosphere and MPAS-JEDI course in St Andrews, UK, June 2025. This is a unique learning experience and an exciting opportunity to discover a state-of-the-art atmospheric model and data assimilation software, taught by the people that wrote and developed them. The tutorials will consist of live lectures, questions and answer sessions, and practical sessions where participants will gain experience building, configuring and running the MPAS-Atmosphere model. The primary audience for these tutorials are new or beginning users of MPAS-Atmosphere.
+* **Data:** 23 a 27 de Junho de 2025
+* **Mais informações:** [https://ncas.ac.uk/study-with-us/mpas-tutorials/](https://ncas.ac.uk/study-with-us/mpas-tutorials/)
+
+----
+
 ### NVIDIA GTC 2025 - Higher Education and Research Agenda (NVIDIA)
 
 * **Título:** NVIDIA GTC 2025 - Higher Education and Research Agenda
