@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Teoría y aplicaciones de asimilación de datos en fluidos geofísicos (FCEyN-U - Buneos Aires)
+
+* **Título:** Curso Intensivo: Teoría y aplicaciones de asimilación de datos en fluidos geofísicos
+* **Resumo:** Este curso constituye una introducción y descripción del estado del arte en lo que refiere a la aplicación de técnicas de asimilación de datos en geofluidos. Los objetivos principales son: 1. Introducir los conceptos básicos que sustentan los algoritmos de asimilación de datos, con particular énfasis en los desafíos que surgen de las aplicaciones en fluidos geofísicos; 2. Introducir nociones sobre la aplicación de la asimilación de datos a problemas reales en el contexto de los fluidos geofísicos; 3. Presentar un panorama del estado del arte de las técnicas de asimilación, incluyendo su relación con el aprendizaje automático; 4. Introducir herramientas de código abierto para la implementación de técnicas de aprendizaje automático en el contexto de modelos simples.
+* **Data:** 28 de Julho a 8 de Agosto de 2025
+* **Mais informações:** [https://sites.google.com/view/curso-de-asimilacion-de-datos/](https://sites.google.com/view/curso-de-asimilacion-de-datos/)
+
+----
+
 ### National Centre for Atmospheric Science - Study the MPAS model (NCAS) 
 
 * **Título:** Study the MPAS model 
