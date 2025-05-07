@@ -20,15 +20,6 @@
 
 ----
 
-### NVIDIA GTC 2025 - Higher Education and Research Agenda (NVIDIA)
-
-* **Título:** NVIDIA GTC 2025 - Higher Education and Research Agenda
-* **Resumo:** The NVIDIA GTC will return to San Jose from March 17 to 21, 2025. I would like to invite you to connect with thousands of industry experts in Higher Education and Research, where we will highlight more than 40 sessions, panels, workshops, and lectures, with thousands of industry leaders exploring how AI is transforming higher education and research, and helping humanity tackle its most complex challenges.
-* **Data:** 17 a 21 de Março de 2025
-* **Mais informações:** [http://www.nvidia.com/gtc/?ncid=GTC-NV96VSKD](http://www.nvidia.com/gtc/?ncid=GTC-NV96VSKD)
-
-----
-
 ### PDEs on the sphere workshop 2025 (USP/INPE)
 
 * **Título:** PDEs on the sphere workshop 2025
@@ -37,6 +28,15 @@
 * **Mais informações:** [https://pdes-brazil.sciencesconf.org/](https://pdes-brazil.sciencesconf.org/)
 
 ## Passados
+
+### NVIDIA GTC 2025 - Higher Education and Research Agenda (NVIDIA)
+
+* **Título:** NVIDIA GTC 2025 - Higher Education and Research Agenda
+* **Resumo:** The NVIDIA GTC will return to San Jose from March 17 to 21, 2025. I would like to invite you to connect with thousands of industry experts in Higher Education and Research, where we will highlight more than 40 sessions, panels, workshops, and lectures, with thousands of industry leaders exploring how AI is transforming higher education and research, and helping humanity tackle its most complex challenges.
+* **Data:** 17 a 21 de Março de 2025
+* **Mais informações:** [http://www.nvidia.com/gtc/?ncid=GTC-NV96VSKD](http://www.nvidia.com/gtc/?ncid=GTC-NV96VSKD)
+
+----
 
 ### Supercomputing in Wheather and Climate Sciences: the bright Achievements and intriguing future (Escola SDumont 2025)
 
