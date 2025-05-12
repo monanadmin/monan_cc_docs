@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25) - Earth Prediction Innovation Center (NOAA)
+
+* **Título:** Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25)
+* **Resumo:** Join us this September at University Corporation for Atmospheric Research (UCAR) Center Green in Boulder, Colorado or online for the Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25). This event is an opportunity for community partners, including academia, industry, and government, to collaborate in our shared mission to advance forecasting capabilities. Our objective is to deepen the understanding of our collaborative efforts to improve the UFS, accelerate contributions, and measure success effectively. We will continue to focus on integrating sectors of the Weather Enterprise and fostering a community aligned with EPIC’s mission, emphasizing government research and the crucial role of community building. UIFCW25 is about engaging and uniting our efforts to advance forecasting capabilities for a more informed future. The theme for this year’s workshop is Building a Stronger UFS Community Through Collaboration and Knowledge Sharing. 
+* **Data:** 08 a 12 de Setembro de 2025
+* **Mais informações:** https://epic.noaa.gov/eventsposts/uifcw-2025/
+
+----
+
 ### Teoría y aplicaciones de asimilación de datos en fluidos geofísicos (FCEyN-U - Buneos Aires)
 
 * **Título:** Curso Intensivo: Teoría y aplicaciones de asimilación de datos en fluidos geofísicos
