@@ -54,7 +54,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://www.lac.inpe.br/~celso/">🌐 Webpage</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/celsolm.png" width="120">
   </div>
 </div>
 
@@ -231,7 +231,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/5119173037683026">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/quixaba.png" width="120">
   </div>
 </div>
 
@@ -243,7 +243,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/4525567091316318">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/gbonatti.png" width="120">
   </div>
 </div>
 
@@ -367,7 +367,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/5467937882227675">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/elisa.png" width="120">
   </div>
 </div>
 
@@ -379,7 +379,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     <div class="card-content">
       <strong>Márcia Akemi Yamasoe</strong>
       <ul>
-        <li><a href="http://lattes.cnpq.br/7363881469488210">🌐 Webpage</a></li>
+        <li><a href="http://lattes.cnpq.br/7363881469488210">📄 Currículo Lattes</a></li>
       </ul>
     </div>
     <img src="../figs/marcia.png" width="120">
@@ -391,7 +391,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     <div class="card-content">
       <strong>Pedro Leite da Silva Dias</strong>
       <ul>
-        <li><strong>⭐ Coordenador do MONAN na USP</strong></li>
+        <li><strong>⭐ Coordenador do MONAN pela comunidade externa</strong></li>
         <li><a href="http://lattes.cnpq.br/9273702863744424">📄 Currículo Lattes</a></li>
       </ul>
     </div>
@@ -453,7 +453,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/3535543427119044">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/saraiva.png" width="120">
   </div>
 </div>
 
@@ -483,7 +483,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/1408150702923697">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/nogueira.png" width="120">
   </div>
 </div>
 
@@ -529,7 +529,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
         <li><a href="http://lattes.cnpq.br/3953309887188837">📄 Currículo Lattes</a></li>
       </ul>
     </div>
-    <img src="../figs/profile.png" width="120">
+    <img src="../figs/marlos.png" width="120">
   </div>
 </div>
 
@@ -571,6 +571,7 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
     <div class="card-content">
       <strong>Gilson de Paula e Silva</strong>
       <ul>
+        <li><a href="http://lattes.cnpq.br/4471904110902884">📄 Currículo Lattes</a>
         <li><a href="https://www.linkedin.com/in/gilson-de-paula-e-silva-409a77ab/?originalSubdomain=br">🌐 LinkedIn</a></li>
       </ul>
     </div>
