@@ -572,7 +572,6 @@ Membros do Comitê Científico do Modelo para Previsão dos Oceanos, Superfície
       <strong>Gilson de Paula e Silva</strong>
       <ul>
         <li><a href="http://lattes.cnpq.br/4471904110902884">📄 Currículo Lattes</a>
-        <li><a href="https://www.linkedin.com/in/gilson-de-paula-e-silva-409a77ab/?originalSubdomain=br">🌐 LinkedIn</a></li>
       </ul>
     </div>
     <img src="../figs/gilson.png" width="120">
