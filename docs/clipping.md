@@ -2,6 +2,15 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+## 2025
+
+* 24/05/2025 - Portal Tupi.fm: [TecnologiaBrasil ganha supercomputador inédito e vai mudar sua vida](https://www.tupi.fm/tecnologia/brasil-ganha-supercomputador-inedito-e-vai-mudar-sua-vida/).
+* 23/05/2025 - Portal TVT News: [Previsão do tempo mais precisa: INPE recebe novo supercomputador](https://tvtnews.com.br/previsao-do-tempo-mais-precisa-inpe-novo-sistema/).
+* 23/05/2025 - Olhar Digital: [Novo supercomputador vai mudar a detecção de desastres climáticos no Brasil](https://olhardigital.com.br/2025/05/23/ciencia-e-espaco/novo-supercomputador-vai-mudar-a-deteccao-de-desastres-climaticos-no-brasil/
+* 23/05/2025 - Portal G1 Vale do Paraíba: [Supercomputador que vai fazer previsões do tempo mais exatas é entregue ao Inpe](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2025/05/23/supercomputador-que-vai-fazer-previsoes-do-tempo-mais-exatas-e-entregue-ao-inpe.ghtml).
+* 22/05/2025 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE recebe novo supercomputador para previsão de tempo e clima](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-recebe-novo-supercomputador-para-previsao-de-tempo-e-clima).
+* 28/03/2025 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE desliga o módulo XE6 do supercomputador Tupã para instalação de novo supercomputador](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-desliga-o-modulo-xe6-do-supercomputador-tupa-para-instalacao-de-novo-supercomputador).
+
 ## 2024
 
 * 09/10/2024 - Portal Inova Social: [MONAN: Modelo do Inpe prevê furacão e reforça inovação brasileira](https://inovasocial.com.br/tecnologias-sociais/monan-modelo-inpe-brasil-furacao/).
