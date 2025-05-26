@@ -29,6 +29,8 @@
 
 ----
 
+## Passados
+
 ### PDEs on the sphere workshop 2025 (USP/INPE)
 
 * **Título:** PDEs on the sphere workshop 2025
@@ -36,7 +38,7 @@
 * **Data:** 12 a 16 de Maio de 2025
 * **Mais informações:** [https://pdes-brazil.sciencesconf.org/](https://pdes-brazil.sciencesconf.org/)
 
-## Passados
+----
 
 ### NVIDIA GTC 2025 - Higher Education and Research Agenda (NVIDIA)
 
