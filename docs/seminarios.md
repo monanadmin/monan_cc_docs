@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Do ruído ao sinal: uma introdução à refletometria GNSS orbital - Seminário CPTEC/INPE
+
+* **Título:** Do ruído ao sinal: uma introdução à refletometria GNSS orbital
+* **Resumo:** O seminário abordará os conceitos básicos e aplicações da refletometria GNSS (GNSS-R) orbital, técnica que transforma sinais de navegação em ferramentas para observar a Terra. Ao captar sinais dos Sistemas Globais de Navegação por Satélite (GNSS) refletidos na superfície por satélites em órbita baixa, é possível estimar variáveis como a velocidade do vento nos oceanos, a umidade superficial do solo e a presença de corpos d’água. A apresentação prepara o terreno para a missão Amazonia-1B, que contará com um sensor GNSS-R a bordo do satélite. Dr. Paulo Setti é Engenheiro Cartógrafo e Mestre em Ciências Cartográficas pela Unesp – Presidente Prudente, com doutorado em Ciências da Engenharia pelo Laboratório de Geofísica e Sensoriamento Remoto da Universidade de Luxemburgo. Desde 2020, desenvolve pesquisas com GNSS-R orbital, com foco em aplicações ambientais. É integrante dos grupos de trabalho de umidade do solo e inundações da missão CYGNSS, conduzida pela NASA. Atualmente é pesquisador bolsista do Programa Amazônia no INPE.
+* **Data:** 29 de Maio de 2025
+* **Mais informações:** [link](https://conferenciaweb.rnp.br/inpe/do-ruido-ao-sinal-uma-introducao-a-refletometria-gnss)
+
+----
+
 ### Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25) - Earth Prediction Innovation Center (NOAA)
 
 * **Título:** Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25)
