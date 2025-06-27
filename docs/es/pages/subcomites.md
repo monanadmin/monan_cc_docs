@@ -10,7 +10,7 @@ El Comité Científico de MONAN está organizado en subcomités que abordan los 
 
 ## Organización de Subcomités en el CC de MONAN
 
-* **Sistema de Modelado Integrado: ** Pedro Dias/USP
+* **Sistema de Modelado Integrado:** Pedro Dias/USP
 * **Atmosfera:** Saulo Freitas/INPE
 * **Superficie continental y suelos:** Antonio Manzi/INPE
 * **Océano y hielo continental y marítimo:** Ronald Buss/INPE
