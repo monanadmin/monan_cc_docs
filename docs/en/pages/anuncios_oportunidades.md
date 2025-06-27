@@ -1,6 +1,12 @@
-# Anúncios e Oportunidades
 
-## Passados
+!!! warning "AI-Translated Page"
+
+      This page was translated using artificial intelligence (AI). The content may contain inaccuracies or misinterpretations. For critical or official use, please consult the site [administrator](mailto:mcstu.inpe@gmail.com) to confirm the information.
+
+
+# Announcements and Opportunities
+
+## Past 
 
 ### Oportunidade - Inscrições para bolsas PCI em áreas do INPE
 

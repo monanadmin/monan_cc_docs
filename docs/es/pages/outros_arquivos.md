@@ -1,0 +1,27 @@
+
+!!! warning "Página traducida con IA"
+
+    Esta página fue traducida utilizando inteligencia artificial (IA). El contenido puede contener imprecisiones o interpretaciones erróneas. Para uso oficial o crítico, consulte al [administrador](mailto:mcstu.inpe@gmail.com) del sitio para confirmar la información.
+
+
+# Otros Archivos
+
+En esta página se encuentran organizados archivos con información relevante sobre el desarrollo del MONAN.
+
+## Hojas Informativas y Planes Estratégicos
+
+* [INPE - Plano Diretor (2022)](https://www.gov.br/inpe/pt-br/acesso-a-informacao/institucional/plano-diretor)
+* [NOAA - EPIC Strategic Plan (2021)](https://wpo.noaa.gov/Portals/0/Signed_EpicStrategicPlan2021-0903.pdf?ver=2021-09-29-112701-643)
+* [ECMWF Technical Memo - Machine learning at ECMWF: A rodamap for the next 10 years (2021)](https://drive.google.com/file/d/1jsx0AaBqPWP3arhTncfoAZgpkKlN8TxK/view?usp=sharing)
+* [ECMWF Fact sheet - Earth system modeling at ECMWF (2021)](https://drive.google.com/file/d/1DwO2pL2PSuxikQDwna5mz6Lzy6fku9nX/view?usp=sharing)
+* [ECMWF Fact sheet - Supercomputing at ECMWF (2021)](https://drive.google.com/file/d/1gj5H7qXBwQvvBhGD6PbhvoWTymWsd09c/view?usp=sharing)
+* [ECWMF Fact sheet - Ensemble weather forecasting (2020)](https://drive.google.com/file/d/170nBBMk5BYNgkTBQabgRctfk6SEkpux4/view?usp=sharing)
+
+## Otras Publicaciones
+
+* [E3SM Floating Points, Feb ’24: Entering a Decade of Earth System Modeling](https://mailchi.mp/a974666c17da/e3sm-floating-points-february-24-entering-a-decade-of-earth-system-modeling?e=e95b70b8ed)
+* [2022 ECMWF-ESA workshop report: current status, progress and opportunities in machine learning for Earth System observation and prediction](https://www.nature.com/articles/s41612-023-00387-2)
+* [NOAA - Computing upgrade paves way for planned model improvements](https://www.noaa.gov/media-release/us-to-triple-operational-weather-and-climate-supercomputing-capacity)
+* [WMO - White Paper One Contributor: Tim Palmer](https://ppe-openplatform.wmo.int/en/WP1TP)
+* [HPCWire - Supercomputing Experts React to Dire Climate Report](https://www.hpcwire.com/2021/08/26/supercomputing-experts-react-to-dire-climate-report/)
+* [Software - Using Agile methods in Scientific Software Development](https://www.software.ac.uk/blog/2018-12-05-using-agile-methods-scientific-software-development)

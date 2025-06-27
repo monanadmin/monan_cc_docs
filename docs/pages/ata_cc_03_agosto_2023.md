@@ -111,7 +111,7 @@ Luiz Flávio comenta que a qualidade do software foi avaliada, sendo os resultad
 A escalabilidade dos modelos foi avaliada, observando o aumento de nós e o comportamento das curvas de desempenho. Luiz Flávio comenta que a eficiência do MPAS aumentou acima de 100% à medida que os nós aumentavam, com uma curva superlinear, possivelmente relacionada ao uso de memória. Comenta que o speed up foi bem-sucedido com o uso de GPU, e a eficiência do MPAS caiu abaixo de 30% com um maior número de nós. Acrescenta que a performance comparada destacou que o MPAS apresentou desempenho inferior ao FV3 com o uso de CPUs, mas o FV3 com GPU teve uma extrapolação positiva para 150 segundos com 64 nós. Foi mencionado que sobre a ausência de resultados de GPU para o FV3 devido à falta de acesso aos dados da NVIDIA. A normalização dos critérios de manutenibilidade, portabilidade e performance foi conduzida, destacando a superioridade do MPAS na manutenibilidade (152 pontos) e portabilidade (8,4 pontos) em relação ao FV3 (132 pontos e 4,4 pontos, respectivamente). No quesito performance, o MPAS superou o FV3 com o uso de CPUs, e o FV3 com o uso de GPU teve 90% do valor do MPAS. Na figura a seguir, apresenta-se uma comparação da performance dos núcleos dinâmicos FV3 e MPAS no cluster Minerva. 
 
 <figure markdown>
-  ![Scorecard SHiELD e MPAS](./figs/compara.png)
+  ![Scorecard SHiELD e MPAS](https://monanadmin.github.io/monan_cc_docs/figs/compara.png)
   <figcaption>Comparação da performance dos núcleos dinâmicos FV3 e MPAS no cluster Minerva.</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ Para a precipitação maior do que 35 mm, o comportamento dos modelos se altera.
 Em termos gerais, o que foi encontrado é um desempenho ligeiramente superior do SHiELD em relação ao MPAS. Na figura a seguir, estão resumidos os resultados desta avaliação.
 
 <figure markdown>
-  ![Scorecard SHiELD e MPAS](./figs/cards.png)
+  ![Scorecard SHiELD e MPAS](https://monanadmin.github.io/monan_cc_docs/figs/cards.png)
   <figcaption>Scorecard com o resumo das estatísticas BIAS, POD, SR e CSI da precipitação de até 10 e 35 mm, para os modelos MPAS e SHiELD. Azul (vermelho) indica melhor (pior) desempenho; seta para cima (baixo), indica aumento (diminuição) em relação ao limiar inferior. </figcaption>
 </figure>
 

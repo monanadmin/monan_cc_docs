@@ -14,15 +14,15 @@ Para compartilhar a sua tela durante a reunião pelo navegador Google Chrome, ob
 
 1. Ao acessar a plataforma ConferênciaWeb, localize o botão `Compartilhar sua tela` na parte de baixo da sala:
 
-    ![image](figs/01.png)
+    ![image](../figs/01.png)
 
 2. Em seguida, um popup será aberto com as opções de tela para compartilhamento. Se você possuir múltiplos monitores ou várias janelas abertas, localize a janela que deseja compartilhar:
 
-    ![image](figs/02.png)
+    ![image](../figs/02.png)
 
 3. Finalmente, verifique que a sua tela está sendo compartilhada:
 
-    ![image](figs/03.png)
+    ![image](../figs/03.png)
 
 ## Mozilla Firefox
 
@@ -32,15 +32,15 @@ Para compartilhar a sua tela durante a reunião pelo navegador Mozilla Firefox, 
 
 2. Em seguida, um popup será aberto com as opções de tela para compartilhamento. Se você possuir múltiplos monitores ou várias janelas abertas, localize a janela que deseja compartilhar:
 
-    ![image](figs/05.png)
-    ![image](figs/06.png)
-    ![image](figs/07.png)
+    ![image](../figs/05.png)
+    ![image](../figs/06.png)
+    ![image](../figs/07.png)
 
     **Nota:** clique nos menus do popup para encontrar a janela que você deseja compartilhar e clique em "Permitir".
 
 3. Finalmente, verifique que a sua tela está sendo compartilhada:
 
-    ![image](figs/08.png)
+    ![image](../figs/08.png)
 
 
 ## Referência

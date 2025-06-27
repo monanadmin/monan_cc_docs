@@ -84,7 +84,7 @@ We will try to touch these questions of the crucial research domain with rapidly
 * **Data:** inscrições até 05 de Junho de 2024
 * **Mais informações:** [gilson.silva@inpe.br](mailto:gilson.silva@inpe.br)
 
-![img](figs/photo_group3.jpg)
+![img](../figs/photo_group3.jpg)
 
 ----
 

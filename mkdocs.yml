@@ -1,92 +1,43 @@
-# Project information
-#site_name: Atas das Reuniões do Comitê Científico do MONAN 
 site_name: Comitê Científico do MONAN 
+site_url: https://monanadmin.github.io/monan_cc_docs  
 site_author: Carlos Frederico Bastarz
 site_description: Site com as Atas das Reuniões do Comitê Científico do MONAN
 
-# Repository
 repo_name: monanadmin/monan_cc_docs
 repo_url: https://github.com/monanadmin/monan_cc_docs
 edit_uri: edit/master/docs/
 
-# Page tree
-nav:
-  - 📄 Atas 2021:
-    - '◾05 de Maio de 2021': ata_cc_05_maio_2021.md
-    - '◾04 de Junho de 2021': ata_cc_04_junho_2021.md
-    - '◾30 de Agosto de 2021': ata_cc_30_agosto_2021.md
-    - '◾04 de Novembro de 2021': ata_cc_04_novembro_2021.md
-    - '◾06 de Dezembro de 2021': ata_cc_06_dezembro_2021.md
-  - 📄 Atas 2022:
-    - '◾28 de Março de 2022': ata_cc_28_marco_2022.md
-    - '◾13 de Outubro de 2022': ata_cc_13_outubro_2022.md
-  - 📄 Atas 2023:
-    - '◾03 de Agosto de 2023': ata_cc_03_agosto_2023.md
-  - 📄 Atas 2024:
-    - '◾05 de Março de 2024': ata_cc_05_marco_2024.md
-    - '◾04 de Dezembro de 2024': ata_cc_04_dezembro_2024.md
-  - 📄 Atas 2025:
-    - '◾10 de Junho de 2025': ata_cc_10_junho_2025.md
-  - 📯 Anúncios:
-    - 🎯 Oportunidades: oportunidades.md
-    - 💬 Seminários:
-      - '◾Seminários Institucionais': seminarios.md
-      - '◾Seminários ATOS-BULL': seminarios_atos_bull.md
-      - '◾Seminários NVIDIA': seminarios_nvidia.md
-  - 🗃️ Arquivos:
-    - '◾Carta de Apresentação do MONAN': carta_apres_monan.md
-    - '◾Portaria INPE': portaria_inpe.md  
-    - '◾Relatórios': relatorios.md
-    - '◾Outros Arquivos': outros_arquivos.md
-  - 👨 Membros: membros.md
-  - 🏛️ Subcomitês: subcomites.md
-    #  - Anúncios e Oportunidades: anuncios_oportunidades.md
-  - ⚙️  Recursos:
-    - '◾Logo MONAN': logo_monan.md
-#    - 'Templates': templates.md
-  - 🖥️ Treinamentos:
-    - '◾Agosto de 2024': treinamento_agosto_2024.md
-  - 📚 Tutoriais: tutoriais.md
-  - 📰 Clipping: clipping.md
+docs_dir: docs/
+exclude_docs: overrides/
 
-# Configuration
+copyright: Copyright © 2021-2025 - MONAN  
+
 theme: 
   name: material
-  language: pt-BR
+    #font: false  
+  #language: pt-BR
   custom_dir: docs/overrides
-#  logo: assets/logo_monan_all_white.png
-#  features:
-#    - navigation.instant
-#    - navigation.tracking
-#    - navigation.sections
-#    - navigation.top
-#    - navigation.expand
-#    - toc.follow
-#    - content.code.copy
-#    - content.action.edit
-#    - content.tabs.link
-#    - header.autohide
-#    - navigation.footer
-#  palette:
-#    - scheme: default
-#      primary: indigo
-#      accent: indigo
+  #features:
+    #- navigation.expand
+    #- navigation.indexes
+    #- navigation.sections
+    #- navigation.tabs
+    #- toc.follow
+    #- toc.integrate
+    #    - i18n
   icon:
-    logo: material/book-open-page-variant
+    #logo: material/book-open-page-variant
+    logo: material/school
     repo: fontawesome/brands/github
 
 extra:
     social:
       - icon: fontawesome/brands/youtube
-        link: https://www.youtube.com/channel/UCYl-EgRTESHnSLlpKUxWrrg
+        link: https://www.youtube.com/@monan-model
       - icon: fontawesome/brands/github
         link: https://github.com/monanadmin
       - icon: fontawesome/solid/paper-plane
         link: mailto:mcstu.inpe@gmail.com
-
-# PDF page style
-#extra_css:
-#  - css/pdfstyle.css
 
 extra_css:
 - stylesheets/extra.css
@@ -95,7 +46,6 @@ extra_javascript:
 - https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js
 - javascripts/voronoi.js  
 
-# Extensions
 markdown_extensions:
   - md_in_html  
   - footnotes
@@ -117,10 +67,136 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# Plugins
+nav:
+  - 📄 Atas 2021:
+    - '◾05 de Maio de 2021': pages/ata_cc_05_maio_2021.md
+    - '◾04 de Junho de 2021': pages/ata_cc_04_junho_2021.md
+    - '◾30 de Agosto de 2021': pages/ata_cc_30_agosto_2021.md
+    - '◾04 de Novembro de 2021': pages/ata_cc_04_novembro_2021.md
+    - '◾06 de Dezembro de 2021': pages/ata_cc_06_dezembro_2021.md
+  - 📄 Atas 2022:
+    - '◾28 de Março de 2022': pages/ata_cc_28_marco_2022.md
+    - '◾13 de Outubro de 2022': pages/ata_cc_13_outubro_2022.md
+  - 📄 Atas 2023:
+    - '◾03 de Agosto de 2023': pages/ata_cc_03_agosto_2023.md
+  - 📄 Atas 2024:
+    - '◾05 de Março de 2024': pages/ata_cc_05_marco_2024.md
+    - '◾04 de Dezembro de 2024': pages/ata_cc_04_dezembro_2024.md
+  - 📄 Atas 2025:
+    - '◾10 de Junho de 2025': pages/ata_cc_10_junho_2025.md
+  - 📯 Anúncios:
+    - 🎯 Oportunidades: pages/oportunidades.md
+    - 💬 Seminários:
+      - '◾Seminários Institucionais': pages/seminarios.md
+      - '◾Seminários ATOS-BULL': pages/seminarios_atos_bull.md
+      - '◾Seminários NVIDIA': pages/seminarios_nvidia.md
+  - 🗃 Arquivos:
+    - '◾Carta de Apresentação do MONAN': pages/carta_apres_monan.md
+    - '◾Portaria INPE': pages/portaria_inpe.md  
+    - '◾Relatórios': pages/relatorios.md
+    - '◾Outros Arquivos': pages/outros_arquivos.md
+  - 👨 Membros: pages/membros.md
+  - 🏛 Subcomitês: pages/subcomites.md
+  - ⚙ Recursos:
+    - '◾Logo MONAN': pages/logo_monan.md
+  - 🖥 Treinamentos:
+    - '◾Agosto de 2024': pages/treinamento_agosto_2024.md
+  - 📚 Tutoriais: pages/tutoriais.md
+  - 📰 Clipping: pages/clipping.md
+
 plugins:
   - mkdocs-video
   - search
   - glightbox
-#  - pdf-export
-#  - mkpdfs
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: pt-BR
+          default: true
+          name: "🇧🇷 Português"
+          build: true
+          site_name: "Comitê Científico do MONAN"
+        - locale: es
+          name: "🇪🇸 Español"
+          build: true
+          site_name: "Comité Científico del MONAN"
+          nav_translations:
+              📄 Atas 2021: "📄 Actas 2021"
+              ◾05 de Maio de 2021: "◾05 de Mayo de 2021"
+              ◾04 de Junho de 2021: "◾04 de Junio de 2021"
+              ◾30 de Agosto de 2021: "◾30 de Agosto de 2021"
+              ◾04 de Novembro de 2021: "◾04 de Noviembre de 2021"
+              ◾06 de Dezembro de 2021: "◾06 de Diciembre de 2021"
+              📄 Atas 2022: "📄 Actas 2022"
+              ◾28 de Março de 2022: "◾28 de Marzo de 2022"
+              ◾13 de Outubro de 2022: "◾13 de Octubre de 2022"
+              📄 Atas 2023: "📄 Actas 2023"
+              ◾03 de Agosto de 2023: "◾03 de Agosto de 2023"
+              📄 Atas 2024: "📄 Actas 2024"
+              ◾05 de Março de 2024: "◾05 de Marzo de 2024"
+              ◾04 de Dezembro de 2024: "◾04 de Diciembre de 2024"
+              📄 Atas 2025: "📄 Actas 2025"
+              ◾10 de Junho de 2025: "◾10 de Junio de 2025"
+              📯 Anúncios: "📯 Anuncios"  
+              🖥 Treinamentos: "🖥 Entrenamientos"
+              ◾Agosto de 2024: "◾Agosto de 2024"
+              🎯 Oportunidades: "🎯 Oportunidades"
+              💬 Seminários: "💬 Seminarios"  
+              ◾Seminários Institucionais: "◾Seminarios Institucionales"
+              ◾Seminários ATOS-BULL: "◾Seminarios ATOS-BULL"
+              ◾Seminários NVIDIA: "◾Seminarios NVIDIA"
+              🗃 Arquivos: "🗃 Archivos"
+              ◾Carta de Apresentação do MONAN: "◾Carta de presentación del MONAN"
+              ◾Portaria INPE: "◾Resolución INPE"
+              ◾Relatórios: "◾Informes"
+              ◾Outros Arquivos: "◾Otros Archivos"
+              👨 Membros: "👨 Miembros"  
+              🏛 Subcomitês: "🏛 Subcomités"
+              ⚙ Recursos: "⚙ Recursos"
+              ◾Logo MONAN: "◾MONAN Logo"
+              📚 Tutoriais: "📚 Tutoriales"  
+              📰 Clipping: "📰 Resumen de Prensa"
+        - locale: en
+          name: "🇺🇸 English"
+          build: true
+          site_name: "MONAN Scientific Comittee"
+          nav_translations:
+              📄 Atas 2021: "📄 Minutes 2021"
+              ◾05 de Maio de 2021: "◾May 5, 2021"
+              ◾04 de Junho de 2021: "◾June 4, 2021"
+              ◾30 de Agosto de 2021: "◾August 30, 2021"
+              ◾04 de Novembro de 2021: "◾November 4, 2021"
+              ◾06 de Dezembro de 2021: "◾December 6, 2021"
+              📄 Atas 2022: "📄 Minutes 2022"
+              ◾28 de Março de 2022: "◾March 28, 2022"
+              ◾13 de Outubro de 2022: "◾October 13, 2022"
+              📄 Atas 2023: "📄 Minutes 2023"
+              ◾03 de Agosto de 2023: "◾August 3, 2023"
+              📄 Atas 2024: "📄 Minutes 2024"
+              ◾05 de Março de 2024: "◾March 5, 2024"
+              ◾04 de Dezembro de 2024: "◾December 4, 2024"
+              📄 Atas 2025: "📄 Minutes 2025"
+              ◾10 de Junho de 2025: "◾June 10, 2025"
+              📯 Anúncios: "📯 Ads"  
+              🖥 Treinamentos: "🖥 Trainings"
+              ◾Agosto de 2024: "◾August, 2024"
+              🎯 Oportunidades: "🎯 Opportunities"
+              💬 Seminários: "💬 Seminnars"
+              ◾Seminários Institucionais: "◾Institutional Semminars"
+              ◾Seminários ATOS-BULL: "◾ATOS-BULL Semminars"
+              ◾Seminários NVIDIA: "◾NVIDIA Semminars"
+              🗃 Arquivos: "🗃 Archives"  
+              ◾Carta de Apresentação do MONAN: "◾MONAN Cover Letter"
+              ◾Portaria INPE: "◾INPE Administrative Order"
+              ◾Relatórios: "◾Reports"
+              ◾Outros Arquivos: "◾Other Files"
+              👨 Membros: "👨 Members"  
+              🏛 Subcomitês: "🏛 Subcommittees"
+              ⚙ Recursos: "⚙ Resources"
+              ◾Logo MONAN: "◾MONAN Logo"
+              📚 Tutoriais: "📚 Tutorials"
+              📰 Clipping: "📰 Clipping"
+    
