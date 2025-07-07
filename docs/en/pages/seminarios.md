@@ -8,21 +8,20 @@
 
 ## Next
 
-### Do ruído ao sinal: uma introdução à refletometria GNSS orbital - Seminário CPTEC/INPE
+### Webinar: Fundamentals of Agentic AI – A Brief Introduction - LNCC
 
-* **Título:** Do ruído ao sinal: uma introdução à refletometria GNSS orbital
-* **Resumo:** O seminário abordará os conceitos básicos e aplicações da refletometria GNSS (GNSS-R) orbital, técnica que transforma sinais de navegação em ferramentas para observar a Terra. Ao captar sinais dos Sistemas Globais de Navegação por Satélite (GNSS) refletidos na superfície por satélites em órbita baixa, é possível estimar variáveis como a velocidade do vento nos oceanos, a umidade superficial do solo e a presença de corpos d’água. A apresentação prepara o terreno para a missão Amazonia-1B, que contará com um sensor GNSS-R a bordo do satélite. Dr. Paulo Setti é Engenheiro Cartógrafo e Mestre em Ciências Cartográficas pela Unesp – Presidente Prudente, com doutorado em Ciências da Engenharia pelo Laboratório de Geofísica e Sensoriamento Remoto da Universidade de Luxemburgo. Desde 2020, desenvolve pesquisas com GNSS-R orbital, com foco em aplicações ambientais. É integrante dos grupos de trabalho de umidade do solo e inundações da missão CYGNSS, conduzida pela NASA. Atualmente é pesquisador bolsista do Programa Amazônia no INPE.
-* **Data:** 29 de Maio de 2025
-* **Mais informações:** [link](https://conferenciaweb.rnp.br/inpe/do-ruido-ao-sinal-uma-introducao-a-refletometria-gnss)
+* **Título:** Webinar: Fundamentals of Agentic AI
+* **Resumo:** You are invited to join one of NVIDIA’s upcoming LATAM webinars on July 8 and 9, designed for developers and technical professionals interested in building intelligent, agent-based systems using open-source frameworks and the NVIDIA platform. Whether you are exploring agentic architectures for the first time or looking to deepen your technical skills, this session offers practical insights, live demonstrations, and actionable resources. What to expect: Live demo of a complete AI agent using Langflow, CrewAI, and NVIDIA NIM; Overview of open-source frameworks and real-world use cases; Best practices for designing and deploying agent-based applications; Free access to a paid NVIDIA DLI course for all attendees; Q&A sessions in Portuguese and Spanish Resources to get started with NVIDIA APIs.
+* **Data:** 08 e 09 de Julho de 2025
+* **Mais informações:** [https://www.nvidia.com/pt-br/events/agentic-ai/](https://www.nvidia.com/pt-br/events/agentic-ai/)
 
 ----
-
 ### Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25) - Earth Prediction Innovation Center (NOAA)
 
 * **Título:** Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25)
 * **Resumo:** Join us this September at University Corporation for Atmospheric Research (UCAR) Center Green in Boulder, Colorado or online for the Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25). This event is an opportunity for community partners, including academia, industry, and government, to collaborate in our shared mission to advance forecasting capabilities. Our objective is to deepen the understanding of our collaborative efforts to improve the UFS, accelerate contributions, and measure success effectively. We will continue to focus on integrating sectors of the Weather Enterprise and fostering a community aligned with EPIC’s mission, emphasizing government research and the crucial role of community building. UIFCW25 is about engaging and uniting our efforts to advance forecasting capabilities for a more informed future. The theme for this year’s workshop is Building a Stronger UFS Community Through Collaboration and Knowledge Sharing. 
 * **Data:** 08 a 12 de Setembro de 2025
-* **Mais informações:** https://epic.noaa.gov/eventsposts/uifcw-2025/
+* **Mais informações:** [https://epic.noaa.gov/eventsposts/uifcw-2025/](https://epic.noaa.gov/eventsposts/uifcw-2025/)
 
 ----
 
@@ -35,6 +34,17 @@
 
 ----
 
+## Past
+
+### Do ruído ao sinal: uma introdução à refletometria GNSS orbital - Seminário CPTEC/INPE
+
+* **Título:** Do ruído ao sinal: uma introdução à refletometria GNSS orbital
+* **Resumo:** O seminário abordará os conceitos básicos e aplicações da refletometria GNSS (GNSS-R) orbital, técnica que transforma sinais de navegação em ferramentas para observar a Terra. Ao captar sinais dos Sistemas Globais de Navegação por Satélite (GNSS) refletidos na superfície por satélites em órbita baixa, é possível estimar variáveis como a velocidade do vento nos oceanos, a umidade superficial do solo e a presença de corpos d’água. A apresentação prepara o terreno para a missão Amazonia-1B, que contará com um sensor GNSS-R a bordo do satélite. Dr. Paulo Setti é Engenheiro Cartógrafo e Mestre em Ciências Cartográficas pela Unesp – Presidente Prudente, com doutorado em Ciências da Engenharia pelo Laboratório de Geofísica e Sensoriamento Remoto da Universidade de Luxemburgo. Desde 2020, desenvolve pesquisas com GNSS-R orbital, com foco em aplicações ambientais. É integrante dos grupos de trabalho de umidade do solo e inundações da missão CYGNSS, conduzida pela NASA. Atualmente é pesquisador bolsista do Programa Amazônia no INPE.
+* **Data:** 29 de Maio de 2025
+* **Mais informações:** [link](https://conferenciaweb.rnp.br/inpe/do-ruido-ao-sinal-uma-introducao-a-refletometria-gnss)
+
+----
+
 ### National Centre for Atmospheric Science - Study the MPAS model (NCAS) 
 
 * **Título:** Study the MPAS model 
@@ -43,8 +53,6 @@
 * **Mais informações:** [https://ncas.ac.uk/study-with-us/mpas-tutorials/](https://ncas.ac.uk/study-with-us/mpas-tutorials/)
 
 ----
-
-## Past
 
 ### PDEs on the sphere workshop 2025 (USP/INPE)
 
