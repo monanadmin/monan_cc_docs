@@ -539,6 +539,19 @@ Miembros del Comité Científico del Modelo para la Predicción de los Océanos,
   </div>
 </div>
 
+### ITAIPU Binacional
+
+<div class="grid cards">
+  <div class="card" style="display: flex; align-items: center; gap: 16px; justify-content: space-between;">
+    <div class="card-content">
+      <strong>Marcelo Brauer Zaicovski</strong>
+      <ul>
+        <li><a href="http://lattes.cnpq.br/4811468270853720">📄 Currículum Lattes</a></li>
+      </ul>
+    </div>
+    <img src="https://raw.githubusercontent.com/monanadmin/monan_cc_docs/refs/heads/master/docs/figs/zaicovski.png" width="120">
+  </div>
+</div>
 
 ## Entidades Internacionales
 
@@ -553,6 +566,20 @@ Miembros del Comité Científico del Modelo para la Predicción de los Océanos,
       </ul>
     </div>
     <img src="https://raw.githubusercontent.com/monanadmin/monan_cc_docs/refs/heads/master/docs/figs/skabar.png" width="120">
+  </div>
+</div>
+
+### Instituto Meteorológico Nacional (IMN) - Costa Rica
+
+<div class="grid cards">
+  <div class="card" style="display: flex; align-items: center; gap: 16px; justify-content: space-between;">
+    <div class="card-content">
+      <strong>Daniel Poleo</strong>
+      <ul>
+        <li><a href="https://community.wmo.int/en/contacts/mr-daniel-poleo">🌐 Webpage</a></li>
+      </ul>
+    </div>
+    <img src="https://raw.githubusercontent.com/monanadmin/monan_cc_docs/refs/heads/master/docs/figs/poleo.png" width="120">
   </div>
 </div>
 

@@ -2,12 +2,12 @@
 
 ## Próximos
 
-### Webinar: Fundamentals of Agentic AI – A Brief Introduction - LNCC
+### Latin America High Performance Computing Conference (Jamaica)
 
-* **Título:** Webinar: Fundamentals of Agentic AI
-* **Resumo:** You are invited to join one of NVIDIA’s upcoming LATAM webinars on July 8 and 9, designed for developers and technical professionals interested in building intelligent, agent-based systems using open-source frameworks and the NVIDIA platform. Whether you are exploring agentic architectures for the first time or looking to deepen your technical skills, this session offers practical insights, live demonstrations, and actionable resources. What to expect: Live demo of a complete AI agent using Langflow, CrewAI, and NVIDIA NIM; Overview of open-source frameworks and real-world use cases; Best practices for designing and deploying agent-based applications; Free access to a paid NVIDIA DLI course for all attendees; Q&A sessions in Portuguese and Spanish Resources to get started with NVIDIA APIs.
-* **Data:** 08 e 09 de Julho de 2025
-* **Mais informações:** [https://www.nvidia.com/pt-br/events/agentic-ai/](https://www.nvidia.com/pt-br/events/agentic-ai/)
+* **Título:** Latin America High Performance Computing Conference (Jamaica)
+* **Resumo:** CARLA is an international conference aimed at providing a forum to foster the growth and strength of the High Performance Computing (HPC) community in Latin America and beyond. The conference serves as a platform for new ideas, techniques, and research in HPC and its applications areas. Started in 2014. CARLA has become the flagship conference for HPC in the region. We invite the international community to share its advances on both HPC and HPC4AI as these fields are key areas that are becoming the predominant engine for innovation and development.
+* **Data:** 22 a 26 de Setembro de 2025
+* **Mais informações:** [https://carlaconference.org/](https://carlaconference.org/)
 
 ----
 
@@ -17,6 +17,15 @@
 * **Resumo:** Join us this September at University Corporation for Atmospheric Research (UCAR) Center Green in Boulder, Colorado or online for the Unifying Innovations in Forecasting Capabilities Workshop 2025 (UIFCW25). This event is an opportunity for community partners, including academia, industry, and government, to collaborate in our shared mission to advance forecasting capabilities. Our objective is to deepen the understanding of our collaborative efforts to improve the UFS, accelerate contributions, and measure success effectively. We will continue to focus on integrating sectors of the Weather Enterprise and fostering a community aligned with EPIC’s mission, emphasizing government research and the crucial role of community building. UIFCW25 is about engaging and uniting our efforts to advance forecasting capabilities for a more informed future. The theme for this year’s workshop is Building a Stronger UFS Community Through Collaboration and Knowledge Sharing. 
 * **Data:** 08 a 12 de Setembro de 2025
 * **Mais informações:** [https://epic.noaa.gov/eventsposts/uifcw-2025/](https://epic.noaa.gov/eventsposts/uifcw-2025/)
+
+## Passados
+
+### Webinar: Fundamentals of Agentic AI – A Brief Introduction - LNCC
+
+* **Título:** Webinar: Fundamentals of Agentic AI
+* **Resumo:** You are invited to join one of NVIDIA’s upcoming LATAM webinars on July 8 and 9, designed for developers and technical professionals interested in building intelligent, agent-based systems using open-source frameworks and the NVIDIA platform. Whether you are exploring agentic architectures for the first time or looking to deepen your technical skills, this session offers practical insights, live demonstrations, and actionable resources. What to expect: Live demo of a complete AI agent using Langflow, CrewAI, and NVIDIA NIM; Overview of open-source frameworks and real-world use cases; Best practices for designing and deploying agent-based applications; Free access to a paid NVIDIA DLI course for all attendees; Q&A sessions in Portuguese and Spanish Resources to get started with NVIDIA APIs.
+* **Data:** 08 e 09 de Julho de 2025
+* **Mais informações:** [https://www.nvidia.com/pt-br/events/agentic-ai/](https://www.nvidia.com/pt-br/events/agentic-ai/)
 
 ----
 
@@ -28,8 +37,6 @@
 * **Mais informações:** [https://sites.google.com/view/curso-de-asimilacion-de-datos/](https://sites.google.com/view/curso-de-asimilacion-de-datos/)
 
 ----
-
-## Passados
 
 ### Do ruído ao sinal: uma introdução à refletometria GNSS orbital - Seminário CPTEC/INPE
 
