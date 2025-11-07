@@ -107,7 +107,7 @@ Saulo Freitas apologized for the extended meeting and reiterated the MONAN team'
 
 ??? example "Attachments"
 
-    * [Recording of the MONAN Scientific Committee Meeting - Dezembro 4, 2024](https://youtube.com/embed/fuaIPofBWuQ)
+    * [Recording of the MONAN Scientific Committee Meeting - December 4, 2024](https://youtube.com/embed/fuaIPofBWuQ)
     * [Presentation by Saulo Freitas](https://drive.google.com/file/d/1-rgCHTeoIRGuoPNs8RQSvbTC6qBwe0JZ/view?usp=drive_link)
     * [Presentation by Mateus Melo](https://drive.google.com/file/d/1MySKQWlqHXLlmD7_fD7HVZTXDr5ty9r8/view?usp=drive_link)
     * [Presentation by Paulo Kubota](https://drive.google.com/file/d/1e1jNIHirDOX4o4K3wOx44fyT7MSDuAo3/view?usp=drive_link)

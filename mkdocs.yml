@@ -84,6 +84,7 @@ nav:
     - '◾04 de Dezembro de 2024': pages/ata_cc_04_dezembro_2024.md
   - 📄 Atas 2025:
     - '◾10 de Junho de 2025': pages/ata_cc_10_junho_2025.md
+    - '◾29 de Outubro de 2025': pages/ata_cc_29_outubro_2025.md
   - 📯 Anúncios:
     - 🎯 Oportunidades: pages/oportunidades.md
     - 💬 Seminários:
@@ -140,6 +141,7 @@ plugins:
               ◾04 de Dezembro de 2024: "◾04 de Diciembre de 2024"
               📄 Atas 2025: "📄 Actas 2025"
               ◾10 de Junho de 2025: "◾10 de Junio de 2025"
+              ◾29 de Outubro de 2025: "◾29 de Octubre de 2025"
               📯 Anúncios: "📯 Anuncios"  
               🖥 Treinamentos: "🖥 Entrenamientos"
               ◾Agosto de 2024: "◾Agosto de 2024"
@@ -180,6 +182,7 @@ plugins:
               ◾04 de Dezembro de 2024: "◾December 4, 2024"
               📄 Atas 2025: "📄 Minutes 2025"
               ◾10 de Junho de 2025: "◾June 10, 2025"
+              ◾29 de Outubro de 2025: "◾October 29, 2025"
               📯 Anúncios: "📯 Ads"  
               🖥 Treinamentos: "🖥 Trainings"
               ◾Agosto de 2024: "◾August, 2024"
