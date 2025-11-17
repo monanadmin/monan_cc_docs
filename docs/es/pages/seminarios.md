@@ -8,6 +8,15 @@
 
 ## Próximos
 
+### Escuela del Supercomputador Santos Dumont
+
+* **Título:** Escuela del Supercomputador Santos Dumont
+* **Resumen:** El Supercomputador Santos Dumont (SDumont) apoya alrededor de 170 proyectos de investigación en 18 áreas del conocimiento, liderados por instituciones de 12 estados brasileños. La escuela ofrece minicursos enfocados en la programación para computación de alto rendimiento, abarcando modelos de programación paralela, herramientas de perfilado y bibliotecas para algoritmos optimizados. Desde 2010, el LNCC realiza la "Escuela de HPC", inicialmente llamada "Semana Masivamente Paralela". En 2017, el evento pasó a llamarse "Semana del Supercomputador SDumont", sumando 15 ediciones, siete de ellas con el nombre actual. También se realizaron tres ediciones de invierno en agosto.
+* **Fecha:** 26 de enero al 6 de febrero de 2026
+* **Más información:** [https://verao.lncc.br/esdumont/](https://verao.lncc.br/esdumont/)
+
+## Pasados
+
 ### Latin America High Performance Computing Conference (Jamaica)
 
 * **Título:** Latin America High Performance Computing Conference (Jamaica)
@@ -24,7 +33,7 @@
 * **Fecha:** 08 a 12 de Setembro de 2025
 * **Más información:** [https://epic.noaa.gov/eventsposts/uifcw-2025/](https://epic.noaa.gov/eventsposts/uifcw-2025/)
 
-## Pasados
+----
 
 ### Webinar: Fundamentals of Agentic AI – A Brief Introduction - LNCC
 
