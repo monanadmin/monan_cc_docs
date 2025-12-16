@@ -4,6 +4,8 @@ Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN
 
 ## 2025
 
+* 12/12/2025 - Podcast MCTI: [MCTI e INPE inauguram o novo supercomputador JACI](https://open.spotify.com/episode/6kvdb7kEZZJaF7OpoOgn38?si=68072b4bc2294284)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6kvdb7kEZZJaF7OpoOgn38?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 * 24/05/2025 - Portal Tupi.fm: [TecnologiaBrasil ganha supercomputador inédito e vai mudar sua vida](https://www.tupi.fm/tecnologia/brasil-ganha-supercomputador-inedito-e-vai-mudar-sua-vida/).
 * 23/05/2025 - Portal TVT News: [Previsão do tempo mais precisa: INPE recebe novo supercomputador](https://tvtnews.com.br/previsao-do-tempo-mais-precisa-inpe-novo-sistema/).
 * 23/05/2025 - Olhar Digital: [Novo supercomputador vai mudar a detecção de desastres climáticos no Brasil](https://olhardigital.com.br/2025/05/23/ciencia-e-espaco/novo-supercomputador-vai-mudar-a-deteccao-de-desastres-climaticos-no-brasil/).
