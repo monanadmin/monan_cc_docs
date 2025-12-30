@@ -4,6 +4,7 @@ Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN
 
 ## 2025
 
+* 18/12/2025 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE executa simulações a 3 km no novo supercomputador Jaci e demonstra a capacidade do modelo MONAN na representação do furacão Melissa](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-executa-simulacoes-globais-a-3-km-no-jaci-e-demonstra-a-capacidade-do-modelo-monan-na-representacao-do-furacao-melissa). 
 * 12/12/2025 - Podcast MCTI: [MCTI e INPE inauguram o novo supercomputador JACI](https://open.spotify.com/episode/6kvdb7kEZZJaF7OpoOgn38?si=68072b4bc2294284)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6kvdb7kEZZJaF7OpoOgn38?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 * 04/11/2025 - Podcast MCTI: [Público vota e novo supercomputador do Brasil recebe o nome de Jaci](https://open.spotify.com/episode/344PhPA65jDcwM0YNasDoR?si=e7efa91066314ed9)
