@@ -8,6 +8,16 @@
 
 ## Próximos
 
+### 5º Taller sobre Organización Convectiva (WCO5) - INPE
+
+* **Título:** 5º Taller sobre Organización Convectiva (WCO5)
+* **Resumen:** Los sistemas convectivos organizados son frecuentemente responsables de eventos extremos de precipitación de alto impacto, y los cambios en la organización convectiva tienen el potencial de amplificar o atenuar los cambios climáticos futuros. Dando continuidad al éxito de las ediciones anteriores (WCO, WCO2, WCO3 y WCO4), esta conferencia examinará el conocimiento actual sobre la organización convectiva en modelos y observaciones.
+* **Fecha:** 9 al 12 de marzo de 2026
+* **Más información:** [https://www.gov.br/inpe/pt-br/eventos/wco5](https://www.gov.br/inpe/pt-br/eventos/wco5)
+
+
+## Pasados
+
 ### Escuela del Supercomputador Santos Dumont
 
 * **Título:** Escuela del Supercomputador Santos Dumont
@@ -15,7 +25,7 @@
 * **Fecha:** 26 de enero al 6 de febrero de 2026
 * **Más información:** [https://verao.lncc.br/esdumont/](https://verao.lncc.br/esdumont/)
 
-## Pasados
+----
 
 ### Latin America High Performance Computing Conference (Jamaica)
 
