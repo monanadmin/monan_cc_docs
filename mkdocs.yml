@@ -164,7 +164,7 @@ plugins:
         - locale: en
           name: "🇺🇸 English"
           build: true
-          site_name: "MONAN Scientific Comittee"
+          site_name: "MONAN Scientific Committee"
           nav_translations:
               📄 Atas 2021: "📄 Minutes 2021"
               ◾05 de Maio de 2021: "◾May 5, 2021"
@@ -183,14 +183,14 @@ plugins:
               📄 Atas 2025: "📄 Minutes 2025"
               ◾10 de Junho de 2025: "◾June 10, 2025"
               ◾29 de Outubro de 2025: "◾October 29, 2025"
-              📯 Anúncios: "📯 Ads"  
+              📯 Anúncios: "📯 Announcements"  
               🖥 Treinamentos: "🖥 Trainings"
               ◾Agosto de 2024: "◾August, 2024"
               🎯 Oportunidades: "🎯 Opportunities"
               💬 Seminários: "💬 Seminnars"
-              ◾Seminários Institucionais: "◾Institutional Semminars"
-              ◾Seminários ATOS-BULL: "◾ATOS-BULL Semminars"
-              ◾Seminários NVIDIA: "◾NVIDIA Semminars"
+              ◾Seminários Institucionais: "◾Institutional Seminars"
+              ◾Seminários ATOS-BULL: "◾ATOS-BULL Seminars"
+              ◾Seminários NVIDIA: "◾NVIDIA Seminars"
               🗃 Arquivos: "🗃 Archives"  
               ◾Carta de Apresentação do MONAN: "◾MONAN Cover Letter"
               ◾Portaria INPE: "◾INPE Administrative Order"
