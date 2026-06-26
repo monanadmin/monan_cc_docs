@@ -2,6 +2,15 @@
 
 ## Próximos
 
+### Toward an Open, GPU-Performant AI Weather and Climate Stack: Earth-2 Research Advances Through Scale and Co-Design - ECMWF
+
+* **Título:** Toward an Open, GPU-Performant AI Weather and Climate Stack: Earth-2 Research Advances Through Scale and Co-Design
+* **Resumo:** AI weather and climate modelling is now producing measurable progress across the Earth-system modelling stack. It is also raising hard questions about validation, operational trust, and the division of labour between research groups, industry, and forecasting centres. In this talk, I will give a selective overview of recent NVIDIA Research and Earth-2 work, from my vantage point as a research director. I will begin with advances in probabilistic medium-range modelling, including the latest version of FourCastNet, which leverages neural operators at scale, as well as Atlas, a transformer-forward approach whose variants show approximately 2-5% skill gains over GenCast at 1-5 day lead times. I will also discuss StormScope, a direct-observation nowcasting model based on diffusion transformers with neighborhood attention that significantly outperforms the NOAA Warn on Forecast System, a strong physics baseline, on object-based probabilistic scores for 0-3 hour forecasts. This includes storms that initiate after forecast initialisation. The potential for AI DOP mesoscale modeling appears especially high due to sidestepping the vagaries of convective scale model initialization and microphysical parameterization. I will also touch on two forward-looking climate emulation topics: cBottle extends diffusion-based climate sampling toward CMIP6 emulation and likelihood-aware generation of guided extremes. STRATA performs full-planet, 5 km, 10 minute global storm-resolving modelling for 24-hour rollouts. It achieves over 50x energy-efficiency gain relative to the SCREAM simulation it emulates. I will argue that these results are most valuable as evidence for a maturing open-source AI modelling stack. That stack includes shared recipes, reproducible baselines, and especially – GPU-performant software. It also requires transparent evaluation and re-training workflows. Our goal is to allow discerning centres such as ECMWF to inspect, compare, and adapt emerging methods on their own terms, with full transparency. Our ongoing view is that wherever Earth-2 demonstrates authentically effective AI hardware/software co-design it is naturally beneficial to both NVIDIA via the GPU, and the weather prediction ecosystem at large.
+* **Data:** 15 de Julho de 2026
+* **Mais informações:** [http://www.ecmwf.int/en/learning/seminars](http://www.ecmwf.int/en/learning/seminars)
+
+## Passados
+
 ### 5º Workshop sobre Organização Convectiva (WCO5) - INPE
 
 * **Título:** 5º Workshop sobre Organização Convectiva (WCO5)
@@ -9,7 +18,7 @@
 * **Data:** 09 a 12 de Março 2026
 * **Mais informações:** [https://www.gov.br/inpe/pt-br/eventos/wco5](https://www.gov.br/inpe/pt-br/eventos/wco5)
 
-## Passados
+----
 
 ### Escola Supercomputador Santos Dumont
 
