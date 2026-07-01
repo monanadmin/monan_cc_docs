@@ -8,6 +8,13 @@
 
 ## Next
 
+* **Title:** Converting Fortran ocean model to other languages - CLIVAR Ocean Model Development Panel
+* **Abstract:** Many established ocean models are written in Fortran and have been developed over decades, making them scientifically trusted but difficult to adapt to modern hardware and software ecosystems. This talk discusses how such models can be converted to other programming languages with the help of large language models, using the recent FESOM2 port as a guiding example. I will focus on the general lessons: why literal translation matters, how intermediate languages can reduce risk, and why validation is the central requirement. The broader message is that language conversion is becoming a realistic pathway for modernizing scientific models while preserving their physical behaviour.
+* **Date:** 13 de Julho de 2026
+* **More information:** [https://mailchi.mp/clivar/26ulgbe9rg](https://mailchi.mp/clivar/26ulgbe9rg)
+
+---
+
 ### Toward an Open, GPU-Performant AI Weather and Climate Stack: Earth-2 Research Advances Through Scale and Co-Design - ECMWF
 
 * **Title:** Toward an Open, GPU-Performant AI Weather and Climate Stack: Earth-2 Research Advances Through Scale and Co-Design
