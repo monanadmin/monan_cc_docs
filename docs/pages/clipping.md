@@ -2,6 +2,19 @@
 
 Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN. As datas indicadas referem-se à data de divulgação da notícia.
 
+## 2026
+
+* 17/09/2026 - Búsqueda (Uruguai): ["No cuidar el Amazonas podría tener consecuencias drásticas" en las lluvias en Uruguay](https://www.busqueda.com.uy/ambiente/no-cuid
+ar-el-amazonas-podria-tener-consecuencias-drasticas-las-lluvias-uruguay-n5417211).
+* 15/09/2026 - Convergência Digital: [Monan, sistema 100% nacional, entra em operação e amplia a capacidade de previsão de tempo](https://convergenciadigital.com.br/gov
+erno/monon-sistema-100-nacional-entra-em-operacao-e-amplia-a-capacidade-de-previsao-de-tempo/).
+* 04/09/2026 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE anuncia início da operação do MONAN para previsões de tempo](https://www.gov.br/inpe/pt-br/assunt
+os/ultimas-noticias/inpe-anuncia-inicio-da-operacao-do-monan-para-previsoes-de-tempo-1).
+* 04/09/2026 - Fatos e Fotos: [Inpe coloca em operação o Monan, modelo nacional de previsão do tempo com alcance de 11 dias](https://revistafatosefotos.com/2026/09/04/i
+npe-coloca-em-operacao-o-monan-modelo-nacional-de-previsao-do-tempo-com-alcance-de-11-dias/).
+* 23/08/2026 - Folha de S.Paulo: [Novo modelo para previsão do tempo precisa de mais verba, diz coordenador do projeto no Inpe](https://www1.folha.uol.com.br/ciencia/20
+26/08/novo-modelo-para-previsao-do-tempo-precisa-de-mais-verba-diz-coordenador-do-projeto-no-inpe.shtml).
+
 ## 2025
 
 * 18/12/2025 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE executa simulações a 3 km no novo supercomputador Jaci e demonstra a capacidade do modelo MONAN na representação do furacão Melissa](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-executa-simulacoes-globais-a-3-km-no-jaci-e-demonstra-a-capacidade-do-modelo-monan-na-representacao-do-furacao-melissa). 
