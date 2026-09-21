@@ -1,0 +1,281 @@
+/* Ajustes na aparência da página PDF 
+Estes ajustes não devem influenciar no estilo da página HTML */
+
+@media print {
+
+    @page :first {
+        size: a4 portrait;
+        margin: 20mm 15mm 20mm 15mm;
+        padding: 10mm 0mm 10mm 0mm;
+        counter-increment: page;
+        font-family: Arial;
+        /*white-space: pre;*/
+        color: black;
+    }
+
+    @page {
+        size: a4 portrait;
+        margin: 20mm 15mm 20mm 15mm;
+        padding: 10mm 0mm 10mm 0mm;
+        counter-increment: page;
+        font-family: Arial;
+        /*white-space: pre;*/
+        color: black;
+    
+        @top-left {
+            content:'MODELO PARA PREVISÃO DOS OCEANOS, SUPERFÍCIES TERRESTRES E ATMOSFERA';
+            font-size: 14px;
+            font-weight: bold;
+            border-top: 4px solid black;
+            margin-top: 65px;
+            margin-left: 15px;
+            padding-top: 5px;
+            width: 95%;
+            vertical-align: top;
+        }
+    
+        @top-right {
+            content:' ';
+            margin-right: 15px;
+            padding-bottom: 5px;
+            width: 10%;
+        }
+    
+        @bottom-right {
+            content: counter(page);
+            font-size: 12px;
+            border-top: 2px solid black;
+            width: 95%;
+            vertical-align: top;
+            padding-top: 5px;
+            margin-left: 15px;
+            margin-right: 15px;
+            padding-bottom: 10px;
+        }
+    
+        @bottom-left { 
+            content:' ';
+            margin-left: 15px;
+            padding-top: 5px;
+            width: 10%;
+        }
+    
+        @top-left-corner { 
+            content:' ';
+            width: 100%;
+        }
+    
+        @top-right-corner { 
+            content:' ';
+            width: 100%;
+        }
+    
+        @bottom-left-corner {
+            content:' ';
+            width: 100%;
+        }
+    
+        @bottom-right-corner {
+            content:' ';
+            width: 100%;
+        }
+    
+    }
+
+    /* Remove o video */
+
+    div.video-container {
+        display: none;
+    }
+
+    /* Remove os labels das abas dentro de Info */
+
+    .md-typeset .tabbed-labels {
+        display: none;
+    }     
+
+    /* Remove o link "pular para o conteúdo" */
+
+    .md-skip { 
+        display: none; 
+    }
+
+    /*.md-typeset .codehilitetable .linenos {
+        display: none;
+    }*/ 
+
+    /*[dir=ltr] .md-typeset :is(.admonition-title, summary) {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 0;
+    }
+
+    .md-typeset :is(.admonition-title, summary):before {
+        background-color: white;
+        content:' ';
+        height:0;
+        width: 0;
+        padding: 0;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .md-typeset :is(.admonition-title, summary):after {
+        background-color: white;
+        content:' ';
+        height:0;
+        width: 0;
+        padding: 0;
+        margin: 0;
+    }
+
+    .md-typeset :is(.admonition, details):is(.info, .todo) {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin-left: 2.25px;
+        padding: 0;
+    }
+
+    .md-typeset :is(.admonition, details) {
+        background-color: white;
+        border: 0;
+        border-radius: .1rem;
+        color: black;
+        font-family: Arial;
+        font-size: 22px;
+        margin: 0;
+        padding: 0;
+    }
+
+    [dir="ltr"] .md-typeset :is(.admonition, details) {
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 0;
+    }*/
+
+    /* Listas */
+
+    [dir="ltr"] .md-typeset ul {
+         display: block;
+         width: 80%;
+    }
+
+    /* Aba de informações */
+
+    .md-typeset summary {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .md-typeset summary::before {
+        display: none;
+    }
+
+    .md-typeset summary::after {
+        display: none;
+    }
+
+    /* remove as bordas da lista de anexos */
+    [dir="ltr"] .md-typeset :is(.admonition, details) {
+        border: 0;
+    }
+
+    /* Anexos */
+
+    .md-typeset details {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .md-typeset details::before {
+            display: none;
+    }
+
+    .md-typeset details::after {
+            display: none;
+    }
+
+    /* Tabelas */
+
+    table {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+        border: .05rem solid black;
+        border-radius: .1rem;
+    }
+
+    .md-typeset table:not([class]) {
+        background-color: white;
+        border: .05rem solid black;
+        border-radius: .1rem;
+        display: inline-block;
+        font-size: 12px;
+        max-width: 87%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .tabbed-block .md-typeset__table table {
+        font-family: Arial;
+        font-size: 12px;
+        color: black;
+        font-weight: normal;
+        background-color: white;
+    }
+
+    /* Estilos das fontes de alguns elementos do texto */
+
+    p {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+        text-align: justify;
+        text-justify: inter-word;
+        line-height: 1.7;
+    }
+    
+    li {
+        font-family: Arial;
+        font-size: 14px;
+        color: black;
+    }
+    
+    h1[id^='bem-'] {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+    }
+    
+    h1[id^='ata-'] {
+        font-family: Arial;
+        font-size: 22px;
+        color: black;
+    }
+    
+    h2 {
+        font-family: Arial;
+        font-size: 15px;
+        color: black;
+    }
+
+}
