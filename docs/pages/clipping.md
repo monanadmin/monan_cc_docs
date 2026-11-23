@@ -4,6 +4,9 @@ Nesta página estão organizadas as notícias divulgadas na mídia sobre o MONAN
 
 ## 2026
 
+* 09/11/2026 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE e universidade do Chile realizam evento sobre modelagem meteorológica e climática](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-e-universidade-do-chile-realizam-evento-sobre-modelagem-meteorologica-e-climatica).
+* 30/10/2026 - Universidad de Valparaíso: [Departamento de Meteorología UV fortalece colaboración internacional para avanzar en modelos meteorológicos y climáticos](https://www.uv.cl/archivo-noticias-uv/29801-departamento-de-meteorologia-de-la-uv-fortalece-colaboracion-internacional-para-avanzar-en-modelos-meteorologicos-y-climaticos).
+* 15/10/2026 - Poraquê: [Começa a operar no país novo modelo avançado de previsão do tempo](https://poraque.jor.br/comeca-a-operar-no-pais-novo-modelo-avancado-de-previsao-do-tempo/).
 * 17/09/2026 - Búsqueda (Uruguai): ["No cuidar el Amazonas podría tener consecuencias drásticas" en las lluvias en Uruguay](https://www.busqueda.com.uy/ambiente/no-cuidar-el-amazonas-podria-tener-consecuencias-drasticas-las-lluvias-uruguay-n5417211).
 * 15/09/2026 - Convergência Digital: [Monan, sistema 100% nacional, entra em operação e amplia a capacidade de previsão de tempo](https://convergenciadigital.com.br/governo/monon-sistema-100-nacional-entra-em-operacao-e-amplia-a-capacidade-de-previsao-de-tempo/).
 * 04/09/2026 - Instituto Nacional de Pesquisas Espaciais (INPE): [INPE anuncia início da operação do MONAN para previsões de tempo](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/inpe-anuncia-inicio-da-operacao-do-monan-para-previsoes-de-tempo-1).
