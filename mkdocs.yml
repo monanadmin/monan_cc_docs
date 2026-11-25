@@ -10,7 +10,7 @@ edit_uri: edit/master/docs/
 docs_dir: docs/
 exclude_docs: overrides/
 
-copyright: Copyright © 2021-2025 - MONAN  
+copyright: Copyright © 2021-2026 - MONAN  
 
 theme: 
   name: material
@@ -85,6 +85,8 @@ nav:
   - 📄 Atas 2025:
     - '◾10 de Junho de 2025': pages/ata_cc_10_junho_2025.md
     - '◾29 de Outubro de 2025': pages/ata_cc_29_outubro_2025.md
+  - 📄 Atas 2026:
+    - '◾19 de Agosto de 2026': pages/ata_cc_19_agosto_2026.md
   - 📯 Anúncios:
     - 🎯 Oportunidades: pages/oportunidades.md
     - 💬 Seminários:
@@ -142,6 +144,8 @@ plugins:
               📄 Atas 2025: "📄 Actas 2025"
               ◾10 de Junho de 2025: "◾10 de Junio de 2025"
               ◾29 de Outubro de 2025: "◾29 de Octubre de 2025"
+              📄 Atas 2026: "📄 Actas 2026"
+              ◾19 de Agosto de 2026: "◾19 de Agosto de 2026"
               📯 Anúncios: "📯 Anuncios"  
               🖥 Treinamentos: "🖥 Entrenamientos"
               ◾Agosto de 2024: "◾Agosto de 2024"
@@ -183,6 +187,8 @@ plugins:
               📄 Atas 2025: "📄 Minutes 2025"
               ◾10 de Junho de 2025: "◾June 10, 2025"
               ◾29 de Outubro de 2025: "◾October 29, 2025"
+              📄 Atas 2026: "📄 Minutes 2026"
+              ◾19 de Agosto de 2026: "◾August 19, 2026"
               📯 Anúncios: "📯 Announcements"  
               🖥 Treinamentos: "🖥 Trainings"
               ◾Agosto de 2024: "◾August, 2024"
